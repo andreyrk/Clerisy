@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>qml.qrc</file>
+        <file>Data/Matematica-Basica.json</file>
+        <file>UI/Materias.qml</file>
+        <file>UI/App.qml</file>
+        <file>UI/Opcoes.qml</file>
+        <file>Icon/Chevron-Left.svg</file>
+        <file>Icon/Menu.svg</file>
+        <file>UI/MateriasConteudo.qml</file>
+        <file>Icon/Expand-Less.svg</file>
+        <file>Icon/Expand-More.svg</file>
+    </qresource>
+</RCC>

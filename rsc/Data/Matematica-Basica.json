@@ -1,0 +1,264 @@
+{
+    "title": "Matemática Básica",
+    "type": "subject",
+    "content": [
+        {
+            "title": "Operações básicas",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "As quatro operações e Expressões numéricas",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=ObDVNlbQdm4",
+                        "https://www.youtube.com/watch?v=XlzDK_zamZw",
+                        "https://www.youtube.com/watch?v=e78_5WIssSU",
+                        "https://www.youtube.com/watch?v=BhDm2qGy780",
+                        "https://www.youtube.com/watch?v=0UGJRHq2PS4",
+                        "https://www.youtube.com/watch?v=PN0cASQhkhk"
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Frações e Dízimas periódicas",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=YJyY6A_MOQc",
+                        "https://www.youtube.com/watch?v=SgJpB78R7x0",
+                        "https://www.youtube.com/watch?v=d9GBEzzCuRg",
+                        "https://www.youtube.com/watch?v=IImqH5D29Uo"
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Sistemas de numeração e Sistema métrico",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=VBUD3CzsEH0",
+                        "https://www.youtube.com/watch?v=Jf0sA3wBqXE",
+                        "https://www.youtube.com/watch?v=epFmO0M8gDk"
+                    ],
+                    "frequency": 3
+                }
+            ]
+        },
+        {
+            "title": "Raciocínio lógico",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Raciocínio lógico",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=PltqUuwR9ec",
+                        "https://www.youtube.com/watch?v=i8jbzEWEOYk",
+                        "https://www.youtube.com/watch?v=QfDOFq9VmYc",
+                        "https://www.youtube.com/watch?v=KGAOeHyWefY",
+                        "https://www.youtube.com/watch?v=CkwaHNNXtv8",
+                        "https://www.youtube.com/watch?v=h_TMnWbI9pg",
+                        "https://www.youtube.com/watch?v=0sDKO4U9UtY",
+                        "https://www.youtube.com/watch?v=Xy8sCcEF-2s",
+                        "https://www.youtube.com/watch?v=cBlwBpWKMCw",
+                        "https://www.youtube.com/watch?v=bOTuY_3usik",
+                        "https://www.youtube.com/watch?v=AKtk0mICfyY",
+                        "https://www.youtube.com/watch?v=t6TL9RGZ_4U",
+                        "https://www.youtube.com/watch?v=McK-ahOry-0",
+                        "https://www.youtube.com/watch?v=vaWCsFUAVWM"
+                    ],
+                    "frequency": 3
+                }
+            ]
+        },
+        {
+            "title": "Potenciação e Notação científica",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Potenciação",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=4Vfw1XiHTpM",
+                        "https://www.youtube.com/watch?v=9EjqfNoVbY8",
+                        "https://www.youtube.com/watch?v=gzNVmoge5OM",
+                        "https://www.youtube.com/watch?v=zH43mX3ryTI"
+                    ],
+                    "frequency": 1
+                },
+                {
+                    "title": "Notação científica",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=GPTxrh_mhow",
+                        "https://www.youtube.com/watch?v=sFqWN34zTaw"
+                    ],
+                    "frequency": 2
+                }
+            ]
+        },
+        {
+            "title": "Radiciação e Racionalização de denomidadores",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Radiciação e Racionalização de denomidadores",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=QmIjZgKhAEo",
+                        "https://www.youtube.com/watch?v=04nnroZrmgg",
+                        "https://www.youtube.com/watch?v=RwPis6vr3Fo"
+                    ],
+                    "frequency": 2
+                }
+            ]
+        },
+        {
+            "title": "Produtos notáveis e Fatoração",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Produtos notáveis e Fatoração",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=_3YQvVKbqn0",
+                        "https://www.youtube.com/watch?v=3amBZupsIdc",
+                        "https://www.youtube.com/watch?v=Z5G3aDjNPeY"
+                    ],
+                    "frequency": 2
+                }
+            ]
+        },
+        {
+            "title": "Equações e Sistemas do primeiro grau",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Equações e Sistemas do primeiro grau",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=Tu08PYjt-2Q",
+                        "https://www.youtube.com/watch?v=oT4k6bhB4Dk",
+                        "https://www.youtube.com/watch?v=DmN535Y2PGw"
+                    ],
+                    "frequency": 3
+                }
+            ]
+        },
+        {
+            "title": "Equações do segundo grau e Equações biquadradas",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Equações do segundo grau e Equações biquadradas",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=toAaUBwitFE",
+                        "https://www.youtube.com/watch?v=qYQllsg8ka8",
+                        "https://www.youtube.com/watch?v=YEaQDJeADTg"
+                    ],
+                    "frequency": 2
+                }
+            ]
+        },
+        {
+            "title": "Múltiplos e Divisores",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Critérios de divisibilidade e Números primos",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=6YnChMLDcos",
+                        "https://www.youtube.com/watch?v=MrHhUUnOtPc",
+                        "https://www.youtube.com/watch?v=kjg8a41wwjQ"
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "MMC e MDC",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=QCMUMufcK5M",
+                        "https://www.youtube.com/watch?v=NWtwEm8M2qw",
+                        "https://www.youtube.com/watch?v=LoiM5d7Kors"
+                    ],
+                    "frequency": 2
+                }
+            ]
+        },
+        {
+            "title": "Razão e proporção",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Razão e proporção",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=uIulBEk8gcM",
+                        "https://www.youtube.com/watch?v=6Dsta1eZ1BA",
+                        "https://www.youtube.com/watch?v=I-fPlExG5y4",
+                        "https://www.youtube.com/watch?v=BhPKDHA6kds"
+                    ],
+                    "frequency": 3
+                }
+            ]
+        },
+        {
+            "title": "Regra de 3 e escalas",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Regra de 3 e escalas",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=alLifth7gxE",
+                        "https://www.youtube.com/watch?v=buYey1YGJhA",
+                        "https://www.youtube.com/watch?v=qrix-SCMvjA",
+                        "https://www.youtube.com/watch?v=0_9yCXj83so",
+                        "https://www.youtube.com/watch?v=StovbnDFCio",
+                        "https://www.youtube.com/watch?v=UYOwXqhMd4w"
+                    ],
+                    "frequency": 3
+                }
+            ]
+        },
+        {
+            "title": "Porcentagem",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Porcentagem",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=CERiIwParX4",
+                        "https://www.youtube.com/watch?v=Nifqays8Auo"
+                    ],
+                    "frequency": 3
+                }
+            ]
+        },
+        {
+            "title": "Juros simples e compostos",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Juros simples",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=N27xZJj1m-4",
+                        "https://www.youtube.com/watch?v=yOQtPB4ZnBI"
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Juros compostos",
+                    "type": "subtopic",
+                    "urls": [
+                        "https://www.youtube.com/watch?v=790S9GR5bWU",
+                        "https://www.youtube.com/watch?v=5kJIxd8MEkQ"
+                    ],
+                    "frequency": 3
+                }
+            ]
+        }
+    ]
+}
