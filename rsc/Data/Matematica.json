@@ -1,0 +1,440 @@
+{
+    "title": "Matemática",
+    "type": "subject",
+    "content": [
+        {
+            "title": "Conjuntos",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Teoria dos conjuntos",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Conjuntos numéricos e Intervalos reais",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                }
+            ]
+        },
+        {
+            "title": "Progressões",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Progressão aritmética (PA)",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Progressão geométrica (PG)",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                }
+            ]
+        },
+        {
+            "title": "Funções",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Teoria geral de funções",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Função composta e Função inversa",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 1
+                },
+                {
+                    "title": "Função constante e Função afim",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Função do segundo grau (quadrática)",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Função exponencial",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Propriedades dos logaritmos",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Função logarítmica",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Função modular",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 1
+                }
+            ]
+        },
+        {
+            "title": "Matrizes",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Matriz e determinante",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 1
+                }
+            ]
+        },
+        {
+            "title": "Geometria Plana",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Ângulos",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Triângulo equilátero",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Semelhança de triângulos",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Teorema de Tales",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 1
+                },
+                {
+                    "title": "Triângulo retângulo: relações métricas",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Triângulo retângulo: relações trigonométricas",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Lei dos senos e dos cossenos",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 1
+                },
+                {
+                    "title": "Polígonos",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Quadriláteros e hexágonos",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Circunferência e círculo",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                }
+            ]
+        },
+        {
+            "title": "Geometria de posição",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Geometria de posição: Posições relativas e projeção ortogonal",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                }
+            ]
+        },
+        {
+            "title": "Geometria Espacial",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Poliedros",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Prismas",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Cilindros",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Pirâmides e troncos de pirâmides",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Cones e troncos de cones",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Esferas",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Sólidos inscritos",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                }
+            ]
+        },
+        {
+            "title": "Geometria Analítica",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Estudo do ponto",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Estudo da reta",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Estudo da circunferência",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                }
+            ]
+        },
+        {
+            "title": "Análise Combinatória",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Princípio fundamental da contagem (PFC)",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Fatorial",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Arranjo",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Permutação simples e circular",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Combinação",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                }
+            ]
+        },
+        {
+            "title": "Estatística",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Estatística: Visão geral, organização e representação de dados",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Estatística: Médias, medidas de tendência central e de dispersão",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                },
+                {
+                    "title": "Interpretação de gráficos",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 3
+                }
+            ]
+        },
+        {
+            "title": "Probabilidade",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Probabilidade: Visão geral",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Probabilidade da união de eventos",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Probabilidade de eventos simultâneos",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                },
+                {
+                    "title": "Probabilidade condicional",
+                    "type": "subtopic",
+                    "urls": [
+
+                    ],
+                    "frequency": 2
+                }
+            ]
+        }
+    ]
+}

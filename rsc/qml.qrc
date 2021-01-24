@@ -11,5 +11,7 @@
         <file>UI/MateriasConteudo.qml</file>
         <file>Icon/Expand-Less.svg</file>
         <file>Icon/Expand-More.svg</file>
+        <file>Data/Matematica.json</file>
+        <file>Data/Redacao.json</file>
     </qresource>
 </RCC>
