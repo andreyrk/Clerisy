@@ -5,29 +5,24 @@ import Prototype 1.0
 
 Page {
     id: page
-    property StackView stackView: StackView.view
+    property StackView stack: StackView.view
 
     QMLFile {
-        path: ":/Data/Matematica-Basica.json"
+        path: stack.data.path
 
         Component.onCompleted: {
-            let obj = JSON.parse(asString())
+            var obj = JSON.parse(getString())
+            var index = 0
 
-            for (let i of obj.content) {
-                listView.model.append({
-                    title: i.title,
-                    type: i.type
-                })
+            for (var item of obj.content)
+            {
+                item.index = index++
+                item.content = JSON.stringify(item.content)
 
-                for (let j of i.content) {
-                    listView.model.append({
-                        title: j.title,
-                        type: j.type,
-                        urls: j.urls,
-                        frequency: j.frequency
-                    })
-                }
+                listView.model.append(item)
             }
+
+            page.title = obj.title
         }
     }
 
@@ -36,33 +31,116 @@ Page {
         anchors.fill: parent
         boundsBehavior: Flickable.StopAtBounds
 
+        add: Transition {
+            NumberAnimation { properties: "opacity"; from: 0.2; to: 1.0; duration: 250}
+        }
+
         model: ListModel { }
 
         delegate: Rectangle {
-            implicitWidth: parent.width
+            implicitWidth: listView.width
             implicitHeight: 40
 
+            property bool expanded: false
+            onExpandedChanged: refresh()
+
+            property var contentObject
             Component.onCompleted: {
-                if (type === "subtopic") {
-                    text.leftPadding = 40
+                if (content) {
+                    contentObject = JSON.parse(content)
+
+                    for (var item of contentObject) {
+                        item.index = index
+                    }
+                }
+
+                refresh()
+            }
+
+            function refresh() {
+                if (type === "topic") {
+                    if (expanded) {
+                        icon.source = "qrc:/Icon/Expand-Less.svg"
+                    } else {
+                        icon.source = "qrc:/Icon/Expand-More.svg"
+                    }
                 }
             }
 
-            Text {
-                id: text
+            MouseArea {
                 anchors.fill: parent
-                padding: 8
+                cursorShape: Qt.PointingHandCursor
 
-                text: title
-                font {
-                    bold: false
-                    pixelSize: 14
-                    weight: Font.Thin
+                onClicked: {
+                    if (type !== "topic") return
+
+                    var i = 0
+                    var listItem
+                    if (expanded) {
+                        for (i = listView.model.count - 1; i >= 0; --i) {
+                            listItem = listView.model.get(i)
+
+                            if (listItem.type === "topic") continue
+
+                            for (var item of contentObject) {
+                                if (item.index === listItem.index) {
+                                    listView.model.remove(i)
+                                }
+                            }
+                        }
+                    } else {
+                        for (let item of contentObject.reverse())
+                        {
+                            for (i = 0; i < listView.model.count; ++i) {
+                                listItem = listView.model.get(i)
+
+                                if (listItem.type === "subtopic") continue
+
+                                if (listItem.index === index) {
+                                    break
+                                }
+                            }
+
+                            listView.model.insert(i + 1, item)
+                        }
+                    }
+
+                    expanded = !expanded
                 }
-                maximumLineCount: 1
-                elide: Text.ElideRight
-                horizontalAlignment: Text.AlignLeft
-                verticalAlignment: Text.AlignVCenter
+            }
+
+            RowLayout {
+                Item {
+                    width: 40
+                    height: 40
+
+                    Image {
+                        id: icon
+                        anchors.centerIn: parent
+
+                        source: ""
+                        sourceSize.width: 24
+                        sourceSize.height: 24
+                    }
+                }
+
+                Text {
+                    id: text
+
+                    text: title
+                    font {
+                        bold: false
+                        pixelSize: 14
+                        weight: Font.Thin
+                    }
+                    maximumLineCount: 1
+                    elide: Text.ElideRight
+                    horizontalAlignment: Text.AlignLeft
+                    verticalAlignment: Text.AlignVCenter
+
+                    Layout.fillWidth: true
+                    Layout.fillHeight: true
+                }
             }
         }
     }

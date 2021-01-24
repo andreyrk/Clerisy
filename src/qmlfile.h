@@ -18,6 +18,7 @@ public:
     Q_INVOKABLE void load(const QString &path)
     {
         m_path = path;
+        m_path.replace("qrc:/", ":/");
 
         if(QFile file(m_path); file.open(QIODevice::ReadOnly))
         {
@@ -25,7 +26,7 @@ public:
         }
     }
 
-    Q_INVOKABLE QString asString()
+    Q_INVOKABLE QString getString()
     {
         if (data.isEmpty()) load(m_path);
 

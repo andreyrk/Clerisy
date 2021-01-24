@@ -5,8 +5,8 @@ import QtQuick.Layouts 1.15
 Page {
     id: page
     title: "Matérias"
+    property StackView stack: StackView.view
     property string pageConteudo: "qrc:/UI/MateriasConteudo.qml"
-    property StackView stackView: StackView.view
 
     GridView {
         id: grid
@@ -43,28 +43,18 @@ Page {
 
         model: ListModel {
             ListElement {
-                titulo: "Matemática"
-                materia: "qrc:/Data/Matematica-Basica.qml"
+                title: "Matemática"
+                path: "qrc:/Data/Matematica.json"
             }
 
             ListElement {
-                titulo: "Matemática Básica"
-                materia: "qrc:/Data/Matematica-Basica.qml"
+                title: "Matemática Básica"
+                path: "qrc:/Data/Matematica-Basica.json"
             }
 
             ListElement {
-                titulo: ""
-                materia: "qrc:/Data/Matematica-Basica.qml"
-            }
-
-            ListElement {
-                titulo: ""
-                materia: "qrc:/Data/Matematica-Basica.qml"
-            }
-
-            ListElement {
-                titulo: ""
-                materia: "qrc:/Data/Matematica-Basica.qml"
+                title: "Redação"
+                path: "qrc:/Data/Redacao.json"
             }
         }
 
@@ -81,11 +71,12 @@ Page {
                 cursorShape: Qt.PointingHandCursor
 
                 onClicked: {
-                    stackView.data = {
-                        "materia": materia
+                    stack.data = {
+                        "title": title,
+                        "path": path
                     }
 
-                    stackView.goTo(pageConteudo)
+                    stack.load(pageConteudo)
                 }
             }
 
@@ -110,7 +101,7 @@ Page {
                     id: label
                     padding: 6
 
-                    text: titulo
+                    text: title
                     font {
                         bold: false
                         pixelSize: 14

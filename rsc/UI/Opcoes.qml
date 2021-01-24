@@ -5,7 +5,7 @@ import QtQuick.Layouts 1.15
 Page {
     id: page
     title: "Opções"
-    property StackView stackView: StackView.view
+    property StackView stack: StackView.view
 
     ColumnLayout {
 
