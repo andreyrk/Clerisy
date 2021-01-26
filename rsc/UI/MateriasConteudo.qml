@@ -8,9 +8,9 @@ Page {
     property StackView stack: StackView.view
 
     QMLFile {
-        path: stack.data.path
-
         Component.onCompleted: {
+            path = stack.data.path
+
             var obj = JSON.parse(getString())
             var index = 0
 
@@ -44,12 +44,12 @@ Page {
             property bool expanded: false
             onExpandedChanged: refresh()
 
-            property var contentObject
+            property var contentArray
             Component.onCompleted: {
                 if (content) {
-                    contentObject = JSON.parse(content)
+                    contentArray = JSON.parse(content)
 
-                    for (var item of contentObject) {
+                    for (var item of contentArray) {
                         item.index = index
                     }
                 }
@@ -74,34 +74,33 @@ Page {
                 onClicked: {
                     if (type !== "topic") return
 
-                    var i = 0
-                    var listItem
+                    let i, j = 0
+                    let item
                     if (expanded) {
-                        for (i = listView.model.count - 1; i >= 0; --i) {
-                            listItem = listView.model.get(i)
+                        for (i = listView.model.count - 1; i >= 0; --i)
+                        {
+                            item = listView.model.get(i)
+                            if (item.type === "topic") continue
 
-                            if (listItem.type === "topic") continue
-
-                            for (var item of contentObject) {
-                                if (item.index === listItem.index) {
+                            for (j = 0; j < contentArray.length; ++j) {
+                                if (contentArray[j].index === item.index) {
                                     listView.model.remove(i)
                                 }
                             }
                         }
                     } else {
-                        for (let item of contentObject.reverse())
+                        for (i = contentArray.length - 1; i >= 0; --i)
                         {
-                            for (i = 0; i < listView.model.count; ++i) {
-                                listItem = listView.model.get(i)
+                            for (j = 0; j < listView.model.count; ++j) {
+                                item = listView.model.get(j)
+                                if (item.type === "subtopic") continue
 
-                                if (listItem.type === "subtopic") continue
-
-                                if (listItem.index === index) {
+                                if (item.index === index) {
                                     break
                                 }
                             }
 
-                            listView.model.insert(i + 1, item)
+                            listView.model.insert(j + 1, contentArray[i])
                         }
                     }
 
