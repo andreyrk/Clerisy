@@ -1,0 +1,66 @@
+{
+    "title": "Espanhol",
+    "type": "subject",
+    "content": [
+        {
+            "title": "Objetivos da Leitura e Níveis de Compreensão",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Objetivos da Leitura e Níveis de Compreensão",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Vocabulário",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Vocabulário",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Técnicas de leitura",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Técnicas de leitura",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Interpretação de Textos",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Charges, Tirinhas e Anúncios Publicitários",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Letras de Músicas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Artigos científicos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        }
+    ]
+}

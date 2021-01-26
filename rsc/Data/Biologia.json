@@ -1,0 +1,702 @@
+{
+    "title": "Biologia",
+    "type": "subject",
+    "content": [
+        {
+            "title": "Introdução à biologia e método científico",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Introdução à Biologia e Método Científico",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Bioquímica",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Água e Sais Minerais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Carboidratos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Lipídios e Colesterol",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Aminoácidos e Proteínas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Enzimas e Anticorpos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Vitaminas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Ácidos nucleicos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Citologia",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Introdução à citologia e Modelos celulares",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Membrana plasmática: Classificação e Fisiologia",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Membrana plasmática: Transporte passivo e transporte ativo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Citoplasma: Visão geral, Citoesqueleto e Ribossomos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Citoplasma: Retículo endoplasmático e Complexo de Golgi",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Citoplasma: Lisossomos, Peroxissomos, Centríolos e Mitocôndrias",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Citoplasma: Plastos, Cloroplastos e Vacúolo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Bioenergética",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Fotossíntese e Quimiossíntese",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Respiração celular",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Fermentação",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Citogenética",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Núcleo celular",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Ciclo celular e Etapas da divisão celular",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Mitose",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Meiose",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Gametogênese",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Mutações e Anomalias cromossômicas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Genética",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Visão geral de Genética e Código genético",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Primeira lei de Mendel e Heredogramas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Segunda lei de Mendel",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Polialelia e Genes letais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Interação Gênica",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Tipos sanguíneos, Sistema ABO e Fator RH",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Herança sexual",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Linkage e mapeamento de genes",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Engenharia genética, genoma e biotecnologia",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Embriologia",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Fecundação, segmentação ou clivagem",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Gastrulação, Neurulação e Organogênese",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Anexos embrionários",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Embriologia humana",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Histologia animal",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Tecido epitelial",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Tecido conjuntivo propriamente dito",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Tecido adiposo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Tecido cartilaginoso",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Tecido ósseo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Tecido sanguíneo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Tecido hematopoiético",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Tecido muscular",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Tecido nervoso",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Fisiologia humana",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Visão geral da fisiologia",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Sistema digestório",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Sistema respiratório",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Sistema cardiovascular",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Sistemas linfático e imunológico",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Sistema excretor",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Sistema endócrino",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Sistema nervoso",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Sistema sensorial",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Sistema reprodutor",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Ciclo menstrual",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Métodos contraceptivos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Classificação Biológica",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Classificação Biológica",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Microbiologia",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Vírus, Príons e Viroses",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Reino Monera e Bacterioses",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Algas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Protozoários e Protozooses",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Reino Fungi e Micoses",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Zoologia",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Poríferos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Cnidários",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Platelmintos e suas verminoses",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Nematelmintos e suas verminoses",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Anelídeos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Artrópodes",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Moluscos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Equinodermos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Cordados",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Peixes",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Anfíbios",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Répteis",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Aves",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Mamíferos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Botânica",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Introdução à Botânica",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Ciclo reprodutivo dos vegetais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Briófitas e Pteridófitas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Gimnospermas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Angiospermas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Morfologia vegetal: Flor, semente e fruto",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Morfologia vegetal: Raiz, caule e folha",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Histologia vegetal",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Fisiologia e Transpiração vegetal",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Hormônios e Movimentos vegetais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Evolução",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Origem da vida",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Teorias evolutivas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Genética das populações e Lei de Hardy-Weinberg",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Especiação",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Evolução dos primatas e humana",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Ecologia",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Introdução à ecologia",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Dinâmica populacional e Potencial biótico",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Fluxo de energia e Pirâmides ecológicas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Relações ecológicas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Sucessão ecológica",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Ecossistemas e Biomas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Desequilíbrios ecológicos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Ciclos biogeoquímicos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        }
+    ]
+}

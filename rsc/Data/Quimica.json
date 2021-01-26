@@ -1,0 +1,576 @@
+{
+    "title": "Química",
+    "type": "subject",
+    "content": [
+        {
+            "title": "Atomística",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Modelos atômicos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Distribuição eletrônica",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Números quânticos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Classificação periódica",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Propriedades periódicas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Ligações químicas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Geometria molecular",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Hibridização de orbitais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Polaridade das ligações e das moléculas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Forças intermoleculares",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Radioatividade",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Química Geral e Inorgânica",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Propriedades da matéria",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Substâncias puras e misturas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Materiais de laboratório",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Separação de misturas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Tratamento da água e do esgoto",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Poluição ambiental, Efeito estufa e Chuvas ácidas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Estudo dos ácidos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Estudo das bases",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Potencial hidrogeniônico (pH) e Indicadores ácido-base",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Estudo dos sais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Estudo dos óxidos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Ácidos, bases, sais e óxidos importantes",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Reações inorgânicas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Grandezas químicas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Fórmulas químicas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Balanceamento de reações",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Leis ponderais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Cálculo estequiométrico",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Reagente limitante ou em excesso",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Pureza e Rendimento",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Variáveis de estado e Transformações gasosas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Densidade, Efusão e Difusão de gases",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Mistura dos gases",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Termoquímica",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Entalpia",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Lei de Hess",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Entalpia de Ligação",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Soluções",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Soluções: classificação e solubilidade",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Unidades de concentração",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Diluição de soluções",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Mistura de soluções",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Propriedades coligativas",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Propriedades coligativas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Coloides",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Coloides",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Cinética química",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Cinética química: Visão geral",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Cinética química: Velocidade média e Lei da velocidade",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Equilíbrio químico",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Noções e cálculos de equilíbrio químico",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Deslocamento de equilíbrio",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Equilíbrio iônico e Produto de Solubilidade (Kps)",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Equilíbrio iônico da água, pH e pOH",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Hidrólise de sais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Soluções tampão e Titulação",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Eletroquímica",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Número de oxidação (NOX)",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Reações e Balanceamento por oxirredução",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Pilhas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Eletrólise ígnea",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Eletrólise aquosa",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Eletrólise com eletrodos reativos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Estequiometria da eletrólise",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Introdução à Química Orgânica",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Introdução à Química Orgânica",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Classificação das cadeias carbônicas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Hidrocarbonetos",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Hidrocarbonetos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Petróleo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Funções oxigenadas",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Funções oxigenadas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Funções nitrogenadas",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Funções nitrogenadas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Haletos, Compostos Organometálicos e funções orgânicas sulfuradas",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Outras funções orgânicas, Funções mistas e Séries orgânicas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Propriedades físicas e químicas dos compostos orgânicos",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Propriedades físicas e químicas dos compostos orgânicos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Isomeria",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Isomeria plana",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Isomeria geométrica (cis-trans)",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Isomeria óptica",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Reações orgânicas",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Reações orgânicas de eliminação",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Reações orgânicas de oxidação",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Esterificação, Transesterificação e Hidrólise",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Reações orgânicas de substituição",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Reações orgânicas de adição",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Polímeros",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Polímeros",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Biomoléculas",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Biomoléculas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        }
+    ]
+}

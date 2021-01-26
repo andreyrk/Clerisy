@@ -1,0 +1,180 @@
+{
+    "title": "Artes",
+    "type": "subject",
+    "content": [
+        {
+            "title": "Conceitos sobre Arte",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Arte: conceitos, modalidades, estéticas, funções e estados",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Arte na Idade Antiga",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Arte na Pré-história",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Arte na Idade Antiga",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Arte na Idade Média",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Arte na Idade Média",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Arte Renascentista",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Arte Renascentista",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Arte Barroca e Rococó",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Maneirismo, Barroco e Rococó",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Arte Neoclássica e Romântica",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Arte Neoclássica e Romântica",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Arte Moderna",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Arte Moderna: Impressionismo e outros movimentos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Arte Moderna: Vanguardas europeias",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Arte moderna no Brasil",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Arte Contemporânea",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Arte contemporânea",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Cultura Popular",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Cultura popular",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Culturas africana e indígena",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Culturas africana e indígena",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Música",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Música",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Teatro",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Teatro",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Educação Física",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Educação Física",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        }
+    ]
+}

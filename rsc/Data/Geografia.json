@@ -1,19 +1,37 @@
 {
-    "title": "Matemática",
+    "title": "Geografia",
     "type": "subject",
     "content": [
         {
-            "title": "Conjuntos",
+            "title": "Cartografia",
             "type": "topic",
             "content": [
                 {
-                    "title": "Teoria dos conjuntos",
+                    "title": "Orientação e Coordenadas geográficas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Cartografia: Elementos, Escalas e Convenções",
                     "type": "subtopic",
                     "content": [],
                     "importance": 2
                 },
                 {
-                    "title": "Conjuntos numéricos e Intervalos reais",
+                    "title": "Projeções cartográficas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Fuso horário",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Movimentos da Terra e da Lua",
                     "type": "subtopic",
                     "content": [],
                     "importance": 2
@@ -21,71 +39,89 @@
             ]
         },
         {
-            "title": "Progressões",
+            "title": "Geomorfologia, solos e minérios",
             "type": "topic",
             "content": [
                 {
-                    "title": "Progressão aritmética (PA)",
+                    "title": "Estrutura interna da Terra e Eras geológicas",
                     "type": "subtopic",
                     "content": [],
-                    "importance": 3
+                    "importance": 2
                 },
                 {
-                    "title": "Progressão geométrica (PG)",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Funções",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Teoria geral de funções",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
-                },
-                {
-                    "title": "Função composta e Função inversa",
+                    "title": "Dinâmica das placas tectônicas",
                     "type": "subtopic",
                     "content": [],
                     "importance": 1
                 },
                 {
-                    "title": "Função constante e Função afim",
+                    "title": "Dinâmica interna e externa do relevo",
                     "type": "subtopic",
                     "content": [],
                     "importance": 3
                 },
                 {
-                    "title": "Função do segundo grau (quadrática)",
+                    "title": "Rochas",
                     "type": "subtopic",
                     "content": [],
-                    "importance": 3
+                    "importance": 1
                 },
                 {
-                    "title": "Função exponencial",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
-                },
-                {
-                    "title": "Propriedades dos logaritmos",
+                    "title": "Estruturas geológicas",
                     "type": "subtopic",
                     "content": [],
                     "importance": 2
                 },
                 {
-                    "title": "Função logarítmica",
+                    "title": "Relevo brasileiro",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Recursos minerais",
                     "type": "subtopic",
                     "content": [],
                     "importance": 3
                 },
                 {
-                    "title": "Função modular",
+                    "title": "Formação e tipos de solo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Recursos hídricos e Bacias hidrográficas do Brasil",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Climatologia",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Atmosfera e Fatores climáticos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Dinâmica dos ventos e Zonas climáticas da Terra",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Fenômenos e mudanças climáticas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Clima do Brasil",
                     "type": "subtopic",
                     "content": [],
                     "importance": 1
@@ -93,11 +129,101 @@
             ]
         },
         {
-            "title": "Matrizes",
+            "title": "Meio ambiente",
             "type": "topic",
             "content": [
                 {
-                    "title": "Matriz e Determinante",
+                    "title": "Grandes biomas terrestres",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Conferências Internacionais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Ecossistemas Brasileiros",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Problemas ambientais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Uso e degradação das formações vegetais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Espaço urbano",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Espaço geográfico",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Urbanização e Hierarquias urbanas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Problemas sociais e ambientais urbanos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Urbanização do Brasil",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Dinâmica demográfica e Qualidade de vida",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Movimentos migratórios",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Teorias demográficas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Demografia do Brasil",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Estrutura da população",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Fatores do desenvolvimento e Indicadores sociais",
                     "type": "subtopic",
                     "content": [],
                     "importance": 1
@@ -105,125 +231,41 @@
             ]
         },
         {
-            "title": "Geometria Plana",
+            "title": "Regionalização do espaço brasileiro",
             "type": "topic",
             "content": [
                 {
-                    "title": "Ângulos",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
-                },
-                {
-                    "title": "Triângulo equilátero",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
-                },
-                {
-                    "title": "Semelhança de triângulos",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 2
-                },
-                {
-                    "title": "Teorema de Tales",
+                    "title": "Região Sul",
                     "type": "subtopic",
                     "content": [],
                     "importance": 1
                 },
                 {
-                    "title": "Triângulo retângulo: relações métricas",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 2
-                },
-                {
-                    "title": "Triângulo retângulo: relações trigonométricas",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 2
-                },
-                {
-                    "title": "Lei dos senos e dos cossenos",
+                    "title": "Região Sudeste",
                     "type": "subtopic",
                     "content": [],
                     "importance": 1
                 },
                 {
-                    "title": "Polígonos",
+                    "title": "Região Norte",
                     "type": "subtopic",
                     "content": [],
                     "importance": 3
                 },
                 {
-                    "title": "Quadriláteros e Hexágonos",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
-                },
-                {
-                    "title": "Circunferência e Círculo",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Geometria de Posição",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Geometria de posição: Posições relativas e Projeção ortogonal",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Geometria Espacial",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Poliedros",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
-                },
-                {
-                    "title": "Prismas",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
-                },
-                {
-                    "title": "Cilindros",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
-                },
-                {
-                    "title": "Pirâmides e Troncos de pirâmides",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
-                },
-                {
-                    "title": "Cones e Troncos de cones",
+                    "title": "Região Nordeste",
                     "type": "subtopic",
                     "content": [],
                     "importance": 2
                 },
                 {
-                    "title": "Esferas",
+                    "title": "Região Centro-Oeste",
                     "type": "subtopic",
                     "content": [],
                     "importance": 2
                 },
                 {
-                    "title": "Sólidos inscritos",
+                    "title": "Complexos regionais",
                     "type": "subtopic",
                     "content": [],
                     "importance": 2
@@ -231,83 +273,77 @@
             ]
         },
         {
-            "title": "Geometria Analítica",
+            "title": "Recursos Energéticos",
             "type": "topic",
             "content": [
                 {
-                    "title": "Estudo do ponto",
+                    "title": "Energias renováveis e não renováveis",
                     "type": "subtopic",
                     "content": [],
-                    "importance": 2
-                },
-                {
-                    "title": "Estudo da reta",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 2
-                },
-                {
-                    "title": "Estudo da circunferência",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 2
+                    "importance": 1
                 }
             ]
         },
         {
-            "title": "Análise Combinatória",
+            "title": "Indústria",
             "type": "topic",
             "content": [
                 {
-                    "title": "Princípio Fundamental da Contagem (PFC)",
+                    "title": "Revolução Industrial",
                     "type": "subtopic",
                     "content": [],
                     "importance": 3
                 },
                 {
-                    "title": "Fatorial",
+                    "title": "Modelos produtivos",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Classificação das Indústrias",
                     "type": "subtopic",
                     "content": [],
                     "importance": 2
                 },
                 {
-                    "title": "Arranjo",
+                    "title": "Regiões industriais do Brasil",
                     "type": "subtopic",
                     "content": [],
-                    "importance": 2
-                },
-                {
-                    "title": "Permutação simples e Permutação circular",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 2
-                },
-                {
-                    "title": "Combinação",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 3
+                    "importance": 1
                 }
             ]
         },
         {
-            "title": "Estatística",
+            "title": "Transportes",
             "type": "topic",
             "content": [
                 {
-                    "title": "Estatística: Visão geral, Organização e Representação de dados",
+                    "title": "Transportes",
                     "type": "subtopic",
                     "content": [],
                     "importance": 3
                 },
                 {
-                    "title": "Estatística: Médias, Medidas de tendência central e de dispersão",
+                    "title": "Corredores de exportação e Canais internacionais de navegação",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Comércio",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Globalização e Regionalização",
                     "type": "subtopic",
                     "content": [],
                     "importance": 3
                 },
                 {
-                    "title": "Interpretação de gráficos",
+                    "title": "Comércio no Brasil",
                     "type": "subtopic",
                     "content": [],
                     "importance": 3
@@ -315,29 +351,53 @@
             ]
         },
         {
-            "title": "Probabilidade",
+            "title": "Agropecuária",
             "type": "topic",
             "content": [
                 {
-                    "title": "Probabilidade: Visão geral",
+                    "title": "Sistemas agrícolas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Revolução verde, Transgênicos e Agronegócio",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Agricultura no Brasil",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Geopolítica",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Guerra Fria",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Nova ordem mundial",
                     "type": "subtopic",
                     "content": [],
                     "importance": 2
                 },
                 {
-                    "title": "Probabilidade da união de eventos",
+                    "title": "Organizações internacionais",
                     "type": "subtopic",
                     "content": [],
-                    "importance": 2
+                    "importance": 1
                 },
                 {
-                    "title": "Probabilidade de eventos simultâneos",
-                    "type": "subtopic",
-                    "content": [],
-                    "importance": 2
-                },
-                {
-                    "title": "Probabilidade condicional",
+                    "title": "Blocos econômicos",
                     "type": "subtopic",
                     "content": [],
                     "importance": 2

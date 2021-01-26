@@ -1,0 +1,414 @@
+{
+    "title": "História",
+    "type": "subject",
+    "content": [
+        {
+            "title": "Historiografia e Linha do tempo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Historiografia e Linha do tempo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Pré-História",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Pré-História",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Idade Antiga",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Egito e Mesopotâmia",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Hebreus e Persas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Fenícios e Cretenses",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Grécia Antiga",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Roma Antiga",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Idade Média",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Alta Idade Média: Sistema Feudal e Igreja medieval",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Idade Média no Oriente, Civilização muçulmana e Cruzadas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Baixa Idade Média",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Transição feudo-capitalista",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Idade Moderna",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Antigo Regime: Absolutismo e Mercantilismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Reformas religiosas, Liberalismo e Iluminismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Civilizações pré-colombianas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Colonização espanhola na América",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Colonização inglesa na América",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Revoluções Inglesas e Revolução Industrial",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Independência dos EUA",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Revolução Francesa",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Idade Contemporânea",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Era Napoleônica e Congresso de Viena",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Independência da América espanhola",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Revoluções liberais de 1830 e 1848",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Ideias sociais e políticas do Século XIX",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Unificações tardias",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Imperialismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Primeira Guerra Mundial",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Revolução Russa",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Crise de 1929",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Período entre guerras e Totalitarismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Segunda Guerra mundial",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Revolução Cubana",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "América Latina no século XX",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Descolonização afro-asiática",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Revolução chinesa",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Guerra Fria",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "A Nova Ordem Mundial",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Brasil pré-colonial",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Povos indígenas do Brasil",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Expansão marítima portuguesa",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Período pré-colonial",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Início da colonização",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Economia açucareira",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Pecuária e Drogas do sertão",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Ocupação e expansão territorial",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Invasões estrangeiras",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Economia mineradora",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Revoltas nativistas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Movimentos emancipacionistas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Família Real portuguesa no Brasil",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Processo de independência do Brasil",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Brasil Império",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Primeiro Reinado",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Período Regencial",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Segundo Reinado",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "República",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "República da Espada",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "República Oligárquica",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Era Vargas",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "República Liberal",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Regime Militar",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Redemocratização",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Nova República",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        }
+    ]
+}

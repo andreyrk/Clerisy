@@ -1,0 +1,246 @@
+{
+    "title": "Literatura",
+    "type": "subject",
+    "content": [
+        {
+            "title": "Figuras de linguagem",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Figuras de linguagem: aspectos fonético e sintático",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Figuras de linguagem: aspecto semântico",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Gêneros Literários",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Gêneros Literários",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Funções da Linguagem",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Funções da Linguagem",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Trovadorismo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Trovadorismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Quinhentismo/Classicismo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Quinhentismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Barroco",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Barroco",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Arcadismo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Arcadismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Romantismo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Romantismo: primeira geração",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Romantismo: segunda geração",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Romantismo: terceira geração",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                },
+                {
+                    "title": "Romantismo: Prosa",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Realismo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Realismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Naturalismo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Naturalismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Parnasianismo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Parnasianismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Simbolismo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Simbolismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Pré-Modernismo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Pré-Modernismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Vanguardas Europeias",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Vanguardas Europeias",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Modernismo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Modernismo: primeira geração",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Modernismo: segunda geração",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                },
+                {
+                    "title": "Modernismo: terceira geração",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Pós-modernismo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Poesia Concreta",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Poesia Marginal",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                },
+                {
+                    "title": "Literatura contemporânea",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        }
+    ]
+}

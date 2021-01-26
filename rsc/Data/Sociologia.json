@@ -1,0 +1,162 @@
+{
+    "title": "Sociologia",
+    "type": "subject",
+    "content": [
+        {
+            "title": "Surgimento da Sociologia",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Surgimento da Sociologia",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Comte e o Positivismo",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Comte e o Positivismo",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Émile Durkheim",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Émile Durkheim",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Max Weber",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Max Weber",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Karl Marx",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Karl Marx",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 1
+                }
+            ]
+        },
+        {
+            "title": "Sociologia no Brasil",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Sociologia no Brasil",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Revolução Industrial e Globalização",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Revolução Industrial e Globalização",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Estratificação, Classe e Mobilidade social",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Estratificação, Classe e Mobilidade social",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Poder, Política e Estado",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Poder, Política e Estado",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Direitos, cidadania e movimentos sociais",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Direitos, Cidadania e Movimentos sociais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Instituições Sociais",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Instituições Sociais",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 3
+                }
+            ]
+        },
+        {
+            "title": "Cultura e Educação",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Cultura e Educação",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        },
+        {
+            "title": "Sociologia contemporânea",
+            "type": "topic",
+            "content": [
+                {
+                    "title": "Zygmunt Bauman e a Modernidade Líquida",
+                    "type": "subtopic",
+                    "content": [],
+                    "importance": 2
+                }
+            ]
+        }
+    ]
+}

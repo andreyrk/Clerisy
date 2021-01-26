@@ -43,18 +43,83 @@ Page {
 
         model: ListModel {
             ListElement {
-                title: "Matemática"
-                path: "qrc:/Data/Matematica.json"
-            }
-
-            ListElement {
                 title: "Matemática Básica"
                 path: "qrc:/Data/Matematica-Basica.json"
             }
 
             ListElement {
+                title: "Matemática"
+                path: "qrc:/Data/Matematica.json"
+            }
+
+            ListElement {
+                title: "Física"
+                path: "qrc:/Data/Fisica.json"
+            }
+
+            ListElement {
+                title: "Química"
+                path: "qrc:/Data/Quimica.json"
+            }
+
+            ListElement {
+                title: "Biologia"
+                path: "qrc:/Data/Biologia.json"
+            }
+
+            ListElement {
+                title: "Português"
+                path: "qrc:/Data/Portugues.json"
+            }
+
+            ListElement {
                 title: "Redação"
                 path: "qrc:/Data/Redacao.json"
+            }
+
+            ListElement {
+                title: "Literatura"
+                path: "qrc:/Data/Literatura.json"
+            }
+
+            ListElement {
+                title: "Inglês"
+                path: "qrc:/Data/Ingles.json"
+            }
+
+            ListElement {
+                title: "Espanhol"
+                path: "qrc:/Data/Espanhol.json"
+            }
+
+            ListElement {
+                title: "Geografia"
+                path: "qrc:/Data/Geografia.json"
+            }
+
+            ListElement {
+                title: "História"
+                path: "qrc:/Data/Historia.json"
+            }
+
+            ListElement {
+                title: "Sociologia"
+                path: "qrc:/Data/Sociologia.json"
+            }
+
+            ListElement {
+                title: "Filosofia"
+                path: "qrc:/Data/Filosofia.json"
+            }
+
+            ListElement {
+                title: "Artes"
+                path: "qrc:/Data/Artes.json"
+            }
+
+            ListElement {
+                title: "Atualidades"
+                path: "qrc:/Data/Atualidades.json"
             }
         }
 
