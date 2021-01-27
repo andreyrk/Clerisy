@@ -17,7 +17,7 @@
                         "https://www.youtube.com/watch?v=0UGJRHq2PS4",
                         "https://www.youtube.com/watch?v=PN0cASQhkhk"
                     ],
-                    "frequency": 3
+                    "importance": 3
                 },
                 {
                     "title": "Frações e dízimas periódicas",
@@ -28,7 +28,7 @@
                         "https://www.youtube.com/watch?v=d9GBEzzCuRg",
                         "https://www.youtube.com/watch?v=IImqH5D29Uo"
                     ],
-                    "frequency": 3
+                    "importance": 3
                 },
                 {
                     "title": "Sistemas de numeração e sistema métrico",
@@ -38,7 +38,7 @@
                         "https://www.youtube.com/watch?v=Jf0sA3wBqXE",
                         "https://www.youtube.com/watch?v=epFmO0M8gDk"
                     ],
-                    "frequency": 3
+                    "importance": 3
                 }
             ]
         },
@@ -65,7 +65,7 @@
                         "https://www.youtube.com/watch?v=McK-ahOry-0",
                         "https://www.youtube.com/watch?v=vaWCsFUAVWM"
                     ],
-                    "frequency": 3
+                    "importance": 3
                 }
             ]
         },
@@ -82,7 +82,7 @@
                         "https://www.youtube.com/watch?v=gzNVmoge5OM",
                         "https://www.youtube.com/watch?v=zH43mX3ryTI"
                     ],
-                    "frequency": 1
+                    "importance": 1
                 },
                 {
                     "title": "Notação científica",
@@ -91,7 +91,7 @@
                         "https://www.youtube.com/watch?v=GPTxrh_mhow",
                         "https://www.youtube.com/watch?v=sFqWN34zTaw"
                     ],
-                    "frequency": 2
+                    "importance": 2
                 }
             ]
         },
@@ -107,7 +107,7 @@
                         "https://www.youtube.com/watch?v=04nnroZrmgg",
                         "https://www.youtube.com/watch?v=RwPis6vr3Fo"
                     ],
-                    "frequency": 2
+                    "importance": 2
                 }
             ]
         },
@@ -123,7 +123,7 @@
                         "https://www.youtube.com/watch?v=3amBZupsIdc",
                         "https://www.youtube.com/watch?v=Z5G3aDjNPeY"
                     ],
-                    "frequency": 2
+                    "importance": 2
                 }
             ]
         },
@@ -139,7 +139,7 @@
                         "https://www.youtube.com/watch?v=oT4k6bhB4Dk",
                         "https://www.youtube.com/watch?v=DmN535Y2PGw"
                     ],
-                    "frequency": 3
+                    "importance": 3
                 }
             ]
         },
@@ -155,7 +155,7 @@
                         "https://www.youtube.com/watch?v=qYQllsg8ka8",
                         "https://www.youtube.com/watch?v=YEaQDJeADTg"
                     ],
-                    "frequency": 2
+                    "importance": 2
                 }
             ]
         },
@@ -171,7 +171,7 @@
                         "https://www.youtube.com/watch?v=MrHhUUnOtPc",
                         "https://www.youtube.com/watch?v=kjg8a41wwjQ"
                     ],
-                    "frequency": 2
+                    "importance": 2
                 },
                 {
                     "title": "MMC e MDC",
@@ -181,7 +181,7 @@
                         "https://www.youtube.com/watch?v=NWtwEm8M2qw",
                         "https://www.youtube.com/watch?v=LoiM5d7Kors"
                     ],
-                    "frequency": 2
+                    "importance": 2
                 }
             ]
         },
@@ -198,7 +198,7 @@
                         "https://www.youtube.com/watch?v=I-fPlExG5y4",
                         "https://www.youtube.com/watch?v=BhPKDHA6kds"
                     ],
-                    "frequency": 3
+                    "importance": 3
                 }
             ]
         },
@@ -217,7 +217,7 @@
                         "https://www.youtube.com/watch?v=StovbnDFCio",
                         "https://www.youtube.com/watch?v=UYOwXqhMd4w"
                     ],
-                    "frequency": 3
+                    "importance": 3
                 }
             ]
         },
@@ -232,7 +232,7 @@
                         "https://www.youtube.com/watch?v=CERiIwParX4",
                         "https://www.youtube.com/watch?v=Nifqays8Auo"
                     ],
-                    "frequency": 3
+                    "importance": 3
                 }
             ]
         },
@@ -247,7 +247,7 @@
                         "https://www.youtube.com/watch?v=N27xZJj1m-4",
                         "https://www.youtube.com/watch?v=yOQtPB4ZnBI"
                     ],
-                    "frequency": 3
+                    "importance": 3
                 },
                 {
                     "title": "Juros compostos",
@@ -256,7 +256,7 @@
                         "https://www.youtube.com/watch?v=790S9GR5bWU",
                         "https://www.youtube.com/watch?v=5kJIxd8MEkQ"
                     ],
-                    "frequency": 3
+                    "importance": 3
                 }
             ]
         }
