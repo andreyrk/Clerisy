@@ -12,15 +12,18 @@ Page {
         id: grid
         anchors.fill: parent
 
-        leftMargin: 10
-        topMargin: 10
+        topMargin: 5
+        leftMargin: 5
+        bottomMargin: topMargin - verticalSpacing
+        rightMargin: leftMargin - horizontalSpacing
 
-        property int minimumCellWidth: 180
-        property int minimumCellHeight: 90
+        property int minimumCellWidth: 150
+        property int minimumCellHeight: 45
+        property int horizontalSpacing: 5
+        property int verticalSpacing: 5
+
         cellWidth: minimumCellWidth
         cellHeight: minimumCellHeight
-
-        boundsBehavior: Flickable.StopAtBounds
 
         onWidthChanged: {
             let bounds = {
@@ -28,16 +31,64 @@ Page {
                 height: height - topMargin - bottomMargin
             }
 
-            if (minimumCellWidth * count < bounds.width) {
+            if (minimumCellWidth * count < bounds.width)
+            {
                 cellWidth = minimumCellWidth
-            } else if (minimumCellWidth * 1.5 <= bounds.width) {
-                if (bounds.width % minimumCellWidth >= 0) {
+            }
+            else if (minimumCellWidth * 1.5 <= bounds.width)
+            {
+                if (bounds.width % minimumCellWidth >= 0)
+                {
                     cellWidth = Math.floor(bounds.width / Math.floor(bounds.width / minimumCellWidth))
                 } else {
                     cellWidth = bounds.width
                 }
-            } else if (minimumCellWidth * 1.5 > bounds.width) {
+            }
+            else if (minimumCellWidth * 1.5 > bounds.width)
+            {
                 cellWidth = bounds.width
+            }
+        }
+
+        delegate: Rectangle {
+            width: grid.cellWidth - grid.horizontalSpacing
+            height: grid.cellHeight - grid.verticalSpacing
+
+            radius: 4
+            border.width: 1
+            border.color: "#E0E0E0"
+
+            MouseArea {
+                anchors.fill: parent
+                cursorShape: Qt.PointingHandCursor
+
+                onClicked: {
+                    stack.data = {
+                        "title": title,
+                        "path": path
+                    }
+
+                    stack.load(pageConteudo)
+                }
+            }
+
+            Label {
+                id: label
+                anchors.fill: parent
+                padding: 6
+
+                text: title
+                font {
+                    bold: false
+                    pixelSize: 14
+                    weight: Font.Thin
+                }
+
+                maximumLineCount: 1
+                elide: Text.ElideRight
+
+                horizontalAlignment: Text.AlignHCenter
+                verticalAlignment: Text.AlignVCenter
             }
         }
 
@@ -123,63 +174,6 @@ Page {
             }
         }
 
-        delegate: Rectangle {
-            width: grid.cellWidth - 10
-            height: grid.cellHeight - 10
-
-            radius: 4
-            border.width: 1
-            border.color: "#E0E0E0"
-
-            MouseArea {
-                anchors.fill: parent
-                cursorShape: Qt.PointingHandCursor
-
-                onClicked: {
-                    stack.data = {
-                        "title": title,
-                        "path": path
-                    }
-
-                    stack.load(pageConteudo)
-                }
-            }
-
-            ColumnLayout {
-                anchors.fill: parent
-                spacing: 0
-
-                Item {
-                    Layout.fillWidth: true
-                    Layout.fillHeight: true
-                }
-
-                Rectangle {
-                    color: "#E0E0E0"
-                    Layout.fillWidth: true
-                    Layout.minimumHeight: 1
-                    Layout.maximumHeight: 1
-                    Layout.alignment: Qt.AlignBottom
-                }
-
-                Label {
-                    id: label
-                    padding: 6
-
-                    text: title
-                    font {
-                        bold: false
-                        pixelSize: 14
-                        weight: Font.Thin
-                    }
-                    maximumLineCount: 1
-                    elide: Text.ElideRight
-                    horizontalAlignment: Text.AlignHCenter
-
-                    Layout.fillWidth: true
-                    Layout.alignment: Qt.AlignBottom
-                }
-            }
-        }
+        boundsBehavior: Flickable.StopAtBounds
     }
 }

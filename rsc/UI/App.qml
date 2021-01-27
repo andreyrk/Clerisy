@@ -50,12 +50,12 @@ ApplicationWindow {
 
     Drawer {
         id: drawer
-        width: implicitWidth * 8/5
+        width: implicitWidth * 2
         height: app.height
 
         ColumnLayout {
             spacing: 0
-            width: drawer.width - 1
+            width: parent.width - 1
 
             ItemDelegate {
                 text: "Matérias"
