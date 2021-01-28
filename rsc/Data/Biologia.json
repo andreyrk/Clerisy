@@ -9,7 +9,12 @@
                 {
                     "title": "Introdução à Biologia e Método Científico",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=eFKBRvEs8lU",
+                        "https://www.youtube.com/watch?v=B_AN9rRdMlw",
+                        "https://www.youtube.com/watch?v=0q16ky-S-48",
+                        "https://www.youtube.com/watch?v=TKPf1TAhmlc"
+                    ],
                     "importance": 1
                 }
             ]
@@ -21,43 +26,71 @@
                 {
                     "title": "Água e Sais Minerais",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=f7mZBDlcR-A",
+                        "https://www.youtube.com/watch?v=qbVcdT5nhfg"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Carboidratos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=d_GcAjlQshE",
+                        "https://www.youtube.com/watch?v=1mSIM66hhhU",
+                        "https://www.youtube.com/watch?v=zEtnX2p7UpM",
+                        "https://www.youtube.com/watch?v=9KjeGKlunFw"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Lipídios e Colesterol",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=7Vkx7buEzyw",
+                        "https://www.youtube.com/watch?v=u0it7IzIGrc"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Aminoácidos e Proteínas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=3TCBscfKzxw",
+                        "https://www.youtube.com/watch?v=rUo7ga20Wyg"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Enzimas e Anticorpos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=zviUDpPHSdo",
+                        "https://www.youtube.com/watch?v=oQbFK7CgzEU",
+                        "https://www.youtube.com/watch?v=Ltu7uYneynk"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Vitaminas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=KJxk94LPZPc",
+                        "https://www.youtube.com/watch?v=-0sPTGY0djw"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Ácidos nucleicos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=ii7b3cF7j4o",
+                        "https://www.youtube.com/watch?v=gY5_EWmrYGU",
+                        "https://www.youtube.com/watch?v=ufhUY1JaSSk",
+                        "https://www.youtube.com/watch?v=BkQXUSmi0Wk",
+                        "https://www.youtube.com/watch?v=TROYY3AKj8M",
+                        "https://www.youtube.com/watch?v=ywMYH1D8OTc"
+                    ],
                     "importance": 3
                 }
             ]
@@ -69,43 +102,70 @@
                 {
                     "title": "Introdução à citologia e Modelos celulares",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=FGqPZ1EKA2Q",
+                        "https://www.youtube.com/watch?v=N33jWXzV8RU",
+                        "https://www.youtube.com/watch?v=C5wehaJMyjE"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Membrana plasmática: Classificação e Fisiologia",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=yaiEgmOboq0",
+                        "https://www.youtube.com/watch?v=rXL2mDLDy_0"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Membrana plasmática: Transporte passivo e transporte ativo",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=A5_zCY2xkdo",
+                        "https://www.youtube.com/watch?v=hlVwlPfb0mo",
+                        "https://www.youtube.com/watch?v=PI-uXlIJXDI",
+                        "https://www.youtube.com/watch?v=1U-YH0647Ws"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Citoplasma: Visão geral, Citoesqueleto e Ribossomos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=-26zr45146k",
+                        "https://www.youtube.com/watch?v=M2doyYlMBg4"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Citoplasma: Retículo endoplasmático e Complexo de Golgi",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=stbfESp7_vA"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Citoplasma: Lisossomos, Peroxissomos, Centríolos e Mitocôndrias",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=tePrgaPCIko",
+                        "https://www.youtube.com/watch?v=bBR_1z0p7wg",
+                        "https://www.youtube.com/watch?v=Do11VW4k5GM",
+                        "https://www.youtube.com/watch?v=M2doyYlMBg4",
+                        "https://www.youtube.com/watch?v=SszZjEcCs1U"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Citoplasma: Plastos, Cloroplastos e Vacúolo",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=wbpHo5w56ho",
+                        "https://www.youtube.com/watch?v=TBEpshmaagE",
+                        "https://www.youtube.com/watch?v=SrJwf9o8D1k"
+                    ],
                     "importance": 1
                 }
             ]
@@ -117,19 +177,30 @@
                 {
                     "title": "Fotossíntese e Quimiossíntese",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=SDNc_5qXa0Q",
+                        "https://www.youtube.com/watch?v=OZ8T-OjEf78",
+                        "https://www.youtube.com/watch?v=GHYV7DOzFfk"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Respiração celular",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=7WPrpm1ucDw",
+                        "https://www.youtube.com/watch?v=mZ7dv3UKIGo",
+                        "https://www.youtube.com/watch?v=CJfCUHqN5k0"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Fermentação",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=HBzPWeexCno",
+                        "https://www.youtube.com/watch?v=kSRkYwF1yBo"
+                    ],
                     "importance": 3
                 }
             ]
@@ -141,37 +212,59 @@
                 {
                     "title": "Núcleo celular",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=nJr2ixAnisw",
+                        "https://www.youtube.com/watch?v=4oLfYw7xE3Q"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Ciclo celular e Etapas da divisão celular",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=Xpf6ZZFOqi0",
+                        "https://www.youtube.com/watch?v=3mjbqFkKINE",
+                        "https://www.youtube.com/watch?v=BjtlcnXFVvQ"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Mitose",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=kTMx9njJk4I",
+                        "https://www.youtube.com/watch?v=zvr7O5tqNiY",
+                        "https://www.youtube.com/watch?v=oFdqrPcGx9Y"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Meiose",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=vKUjM20RVGE",
+                        "https://www.youtube.com/watch?v=9dL186flQ2U",
+                        "https://www.youtube.com/watch?v=ra9jALXMN-g"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Gametogênese",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=_8VUjE02XME"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Mutações e Anomalias cromossômicas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=1n4NL5xxamE",
+                        "https://www.youtube.com/watch?v=FSSWA-4SVeg",
+                        "https://www.youtube.com/watch?v=O1Fn3aJ3ntI",
+                        "https://www.youtube.com/watch?v=ReG_K23YtpQ"
+                    ],
                     "importance": 2
                 }
             ]
@@ -183,55 +276,96 @@
                 {
                     "title": "Visão geral de Genética e Código genético",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=2rqEmRrtkYc",
+                        "https://www.youtube.com/watch?v=4R4Q1dcxQVI",
+                        "https://www.youtube.com/watch?v=RrKZBsIef-U"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Primeira lei de Mendel e Heredogramas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=okoZ9JSJUNs",
+                        "https://www.youtube.com/watch?v=jf8_SObkeiI",
+                        "https://www.youtube.com/watch?v=e49JlCCTCJE",
+                        "https://www.youtube.com/watch?v=sKH3NrzTBCc",
+                        "https://www.youtube.com/watch?v=8v4OZx6t3Bc"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Segunda lei de Mendel",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=VWh8vP6azA4",
+                        "https://www.youtube.com/watch?v=ou282XmgcaQ",
+                        "https://www.youtube.com/watch?v=HEUHUnGV_uI",
+                        "https://www.youtube.com/watch?v=BgBOfbc1gIo"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Polialelia e Genes letais",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=6NPRQMgCZaA",
+                        "https://www.youtube.com/watch?v=8v4OZx6t3Bc"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Interação Gênica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=uhx8vbhR-yg",
+                        "https://www.youtube.com/watch?v=08LPYpObAxw",
+                        "https://www.youtube.com/watch?v=4J1Vbg9i_ro"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Tipos sanguíneos, Sistema ABO e Fator RH",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=eXPI9ptO0Eg",
+                        "https://www.youtube.com/watch?v=txaNQbGW35Q",
+                        "https://www.youtube.com/watch?v=T_psII34_-k",
+                        "https://www.youtube.com/watch?v=c2seUlqQaog"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Herança sexual",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=iujcgOnooVY",
+                        "https://www.youtube.com/watch?v=k12MtShI-6k"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Linkage e mapeamento de genes",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=iLwHBzxUSA0",
+                        "https://www.youtube.com/watch?v=WrlZoChXqyc",
+                        "https://www.youtube.com/watch?v=F6XXUuUYyow",
+                        "https://www.youtube.com/watch?v=4rSb40VDEjU"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Engenharia genética, genoma e biotecnologia",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=5fQxOgZ_g_0",
+                        "https://www.youtube.com/watch?v=gEpO_ultTBo",
+                        "https://www.youtube.com/watch?v=V76X0IFFYI4",
+                        "https://www.youtube.com/watch?v=XCRLvWFqRcA",
+                        "https://www.youtube.com/watch?v=sEzClQhcAow"
+                    ],
                     "importance": 3
                 }
             ]
@@ -243,25 +377,35 @@
                 {
                     "title": "Fecundação, segmentação ou clivagem",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=IGiFuVulY60",
+                        "https://www.youtube.com/watch?v=C5WKro0kNEw"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Gastrulação, Neurulação e Organogênese",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=yNj5az867lI"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Anexos embrionários",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=1zEYnpPZRdE"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Embriologia humana",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=p4DZ9HrOSeE",
+                        "https://www.youtube.com/watch?v=_JpwsvyQTRA"
+                    ],
                     "importance": 2
                 }
             ]
@@ -273,55 +417,77 @@
                 {
                     "title": "Tecido epitelial",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=emucgjvtdw0",
+                        "https://www.youtube.com/watch?v=J-b2P6kvGNM"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Tecido conjuntivo propriamente dito",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=G4Q0T3pcaz8",
+                        "https://www.youtube.com/watch?v=yGvKVuWR7cY"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Tecido adiposo",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=jlxIEtQCWWE"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Tecido cartilaginoso",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=a7MTQU7N6AM"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Tecido ósseo",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=nraJccbFWXQ"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Tecido sanguíneo",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=DiKh_hBlrWU",
+                        "https://www.youtube.com/watch?v=h0mqq3BN7Co"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Tecido hematopoiético",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=dM24OlxCS88"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Tecido muscular",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=rpwNCVp2HRo"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Tecido nervoso",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=Vd9RVSKZoj4",
+                        "https://www.youtube.com/watch?v=2AnUH5cke8w"
+                    ],
                     "importance": 2
                 }
             ]
@@ -333,73 +499,105 @@
                 {
                     "title": "Visão geral da fisiologia",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=Dck3vDEmcEs",
+                        "https://www.youtube.com/watch?v=zrf6_UJlK-0"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Sistema digestório",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=ccxiObyUGRA"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Sistema respiratório",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=6BAypTlvWQM"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Sistema cardiovascular",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=SwuPnrZdMzA",
+                        "https://www.youtube.com/watch?v=4_VfjPwECwY"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Sistemas linfático e imunológico",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=RcmOsoyce9M",
+                        "https://www.youtube.com/watch?v=lW_pOyMy74w"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Sistema excretor",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=nOwrE9nzWUc"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Sistema endócrino",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=f8dra4Nuxn8"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Sistema nervoso",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=I-OO-4Dhosw"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Sistema sensorial",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=P1mUO6JzSR8",
+                        "https://www.youtube.com/watch?v=aT8Awh0C1ik"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Sistema reprodutor",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=yJoNsLA2uu4",
+                        "https://www.youtube.com/watch?v=DMywZks5o5A"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Ciclo menstrual",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=DDFJ2sCPh3s",
+                        "https://www.youtube.com/watch?v=ts0AXpnpGMo"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Métodos contraceptivos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=zgGialCVqRw",
+                        "https://www.youtube.com/watch?v=RJNc_6SGWtk",
+                        "https://www.youtube.com/watch?v=t9A_7fEr3uE"
+                    ],
                     "importance": 2
                 }
             ]
@@ -411,7 +609,10 @@
                 {
                     "title": "Classificação Biológica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=gcrn43B5HK8",
+                        "https://www.youtube.com/watch?v=eCEOc7J_nqU"
+                    ],
                     "importance": 2
                 }
             ]
@@ -423,31 +624,48 @@
                 {
                     "title": "Vírus, Príons e Viroses",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=StO7aM4JUzc",
+                        "https://www.youtube.com/watch?v=55BCWNAVuFw",
+                        "https://www.youtube.com/watch?v=y9onKICh6Uc"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Reino Monera e Bacterioses",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=94dH_cu99-I",
+                        "https://www.youtube.com/watch?v=IK3wXsNl49k",
+                        "https://www.youtube.com/watch?v=cmJqinVRSb4",
+                        "https://www.youtube.com/watch?v=4RDcnPjCMJw",
+                        "https://www.youtube.com/watch?v=twACdjdqVow"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Algas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=e_zvM3RhRCE"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Protozoários e Protozooses",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=u1ijYz37Ssw",
+                        "https://www.youtube.com/watch?v=yERpugEU6eA"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Reino Fungi e Micoses",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=ms0V0-MaHeE"
+                    ],
                     "importance": 2
                 }
             ]
@@ -459,85 +677,122 @@
                 {
                     "title": "Poríferos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=YSF95Y52aXQ"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Cnidários",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=o_7pcj4wJL4"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Platelmintos e suas verminoses",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=Ep-kTDbCSWY",
+                        "https://www.youtube.com/watch?v=zPGE16l0zfo",
+                        "https://www.youtube.com/watch?v=LWa6QmOPZ80"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Nematelmintos e suas verminoses",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=e1XeoR5Fhts",
+                        "https://www.youtube.com/watch?v=tFpNLghkvHQ"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Anelídeos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=BifQ3731tak"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Artrópodes",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=TVlwv7zRnwQ"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Moluscos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=6ki3B5zDCso"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Equinodermos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=EEvHb-NpGbg"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Cordados",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=JtKC6lVP5Dc",
+                        "https://www.youtube.com/watch?v=D1Uhi12aqWY"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Peixes",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=WHpd0USoBE4"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Anfíbios",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=5KlKh7zVLG8",
+                        "https://www.youtube.com/watch?v=XyyTDp0BAgQ"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Répteis",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=vxlid0SsGLY",
+                        "https://www.youtube.com/watch?v=TwjBViPTEl4",
+                        "https://www.youtube.com/watch?v=Z94zenbxjAE"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Aves",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=ncIY1SI1reY",
+                        "https://www.youtube.com/watch?v=hTBEGO8dbRw"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Mamíferos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=XkDC-BFkORw",
+                        "https://www.youtube.com/watch?v=-h_7CSc21j0"
+                    ],
                     "importance": 1
                 }
             ]
@@ -549,61 +804,103 @@
                 {
                     "title": "Introdução à Botânica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=KQCFWpaCguU"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Ciclo reprodutivo dos vegetais",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=2dUtnZFf_-4"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Briófitas e Pteridófitas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=k-I7B5nVLP0",
+                        "https://www.youtube.com/watch?v=MWc0FIcfKWA"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Gimnospermas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=3_ObUmmMz7c"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Angiospermas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=ZVJbHBqL-68"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Morfologia vegetal: Flor, semente e fruto",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=rbbhRvcmV-E",
+                        "https://www.youtube.com/watch?v=xrLRtqXsWw4",
+                        "https://www.youtube.com/watch?v=6i2A73y_D54",
+                        "https://www.youtube.com/watch?v=HnWhnqcFiso",
+                        "https://www.youtube.com/watch?v=dd7lJQ0bDpg",
+                        "https://www.youtube.com/watch?v=YJgXf1TgxCY"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Morfologia vegetal: Raiz, caule e folha",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=wh9_is0_Clw",
+                        "https://www.youtube.com/watch?v=ib2TCZca94Y",
+                        "https://www.youtube.com/watch?v=ShElVAh8xm8"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Histologia vegetal",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=qwkg6si7SPM",
+                        "https://www.youtube.com/watch?v=BV2RDdrN6P8",
+                        "https://www.youtube.com/watch?v=WBvWr32CM5Q",
+                        "https://www.youtube.com/watch?v=oHUdSb0UCDo",
+                        "https://www.youtube.com/watch?v=dDbzOHamhWM",
+                        "https://www.youtube.com/watch?v=KFBn-Kc74Dg",
+                        "https://www.youtube.com/watch?v=op2sza0Jf2I"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Fisiologia e Transpiração vegetal",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=5fN5noVVStg",
+                        "https://www.youtube.com/watch?v=7UzHzLXaRcg",
+                        "https://www.youtube.com/watch?v=L5u_H27xgpg",
+                        "https://www.youtube.com/watch?v=zwwA7Citg4Y",
+                        "https://www.youtube.com/watch?v=EnYIBL8-aAs"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Hormônios e Movimentos vegetais",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=jOSHPNgeskE",
+                        "https://www.youtube.com/watch?v=HV9FMwK5SEI",
+                        "https://www.youtube.com/watch?v=dDNL8sqS_Uo",
+                        "https://www.youtube.com/watch?v=_BUZdgye6gE",
+                        "https://www.youtube.com/watch?v=2XfyJ-m7X9s"
+                    ],
                     "importance": 2
                 }
             ]
@@ -615,31 +912,45 @@
                 {
                     "title": "Origem da vida",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=A7mC6q942Qc"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Teorias evolutivas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=TQ_ygnfbrIM",
+                        "https://www.youtube.com/watch?v=piRSx5SvYv8",
+                        "https://www.youtube.com/watch?v=YRT3h2V4n8k"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Genética das populações e Lei de Hardy-Weinberg",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=4rSb40VDEjU",
+                        "https://www.youtube.com/watch?v=HbZC2Vyi8EA"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Especiação",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=76iUXt6ioOs"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Evolução dos primatas e humana",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=wQqGWPubiqA",
+                        "https://www.youtube.com/watch?v=4WO-A_GaA1o"
+                    ],
                     "importance": 3
                 }
             ]
@@ -651,49 +962,79 @@
                 {
                     "title": "Introdução à ecologia",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=w8zHbA3CSBo"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Dinâmica populacional e Potencial biótico",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=D7TCvCyAbEg",
+                        "https://www.youtube.com/watch?v=kmYcfFLdCIg"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Fluxo de energia e Pirâmides ecológicas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=Ihp38SxezhM",
+                        "https://www.youtube.com/watch?v=6V-VOHDJ8jQ"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Relações ecológicas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=cpmcIciaIWc",
+                        "https://www.youtube.com/watch?v=AY7rrPmcH90"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Sucessão ecológica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=RPvTbMyfpok",
+                        "https://www.youtube.com/watch?v=SfReRM2r_GE"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Ecossistemas e Biomas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=RtCJk4wa50U",
+                        "https://www.youtube.com/watch?v=VO0z1u7YPxA"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Desequilíbrios ecológicos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=8UZUECa49Tc",
+                        "https://www.youtube.com/watch?v=Q6vcRnLrclI",
+                        "https://www.youtube.com/watch?v=mjKGwtv7JK8",
+                        "https://www.youtube.com/watch?v=Kra2-har5Ww",
+                        "https://www.youtube.com/watch?v=LRMFA3eSlxM",
+                        "https://www.youtube.com/watch?v=mhH3i8DZJjI",
+                        "https://www.youtube.com/watch?v=Rmzd4OAdwsg"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Ciclos biogeoquímicos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [
+                        "https://www.youtube.com/watch?v=yCwzJiYIm9M",
+                        "https://www.youtube.com/watch?v=rCuHiRzgQB8",
+                        "https://www.youtube.com/watch?v=LG48H_6LEDg",
+                        "https://www.youtube.com/watch?v=tqaSRf3rhgg"
+                    ],
                     "importance": 3
                 }
             ]

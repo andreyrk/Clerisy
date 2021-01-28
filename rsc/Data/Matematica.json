@@ -9,13 +9,13 @@
                 {
                     "title": "Teoria dos conjuntos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Conjuntos numéricos e Intervalos reais",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -27,13 +27,13 @@
                 {
                     "title": "Progressão aritmética (PA)",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Progressão geométrica (PG)",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -45,49 +45,49 @@
                 {
                     "title": "Teoria geral de funções",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Função composta e Função inversa",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Função constante e Função afim",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Função do segundo grau (quadrática)",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Função exponencial",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Propriedades dos logaritmos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Função logarítmica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Função modular",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 }
             ]
@@ -99,7 +99,7 @@
                 {
                     "title": "Matriz e Determinante",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 }
             ]
@@ -111,61 +111,61 @@
                 {
                     "title": "Ângulos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Triângulo equilátero",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Semelhança de triângulos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Teorema de Tales",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Triângulo retângulo: relações métricas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Triângulo retângulo: relações trigonométricas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Lei dos senos e dos cossenos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Polígonos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Quadriláteros e Hexágonos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Circunferência e Círculo",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -177,7 +177,7 @@
                 {
                     "title": "Geometria de posição: Posições relativas e Projeção ortogonal",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -189,43 +189,43 @@
                 {
                     "title": "Poliedros",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Prismas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Cilindros",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Pirâmides e Troncos de pirâmides",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Cones e Troncos de cones",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Esferas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Sólidos inscritos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -237,19 +237,19 @@
                 {
                     "title": "Estudo do ponto",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Estudo da reta",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Estudo da circunferência",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -261,31 +261,31 @@
                 {
                     "title": "Princípio Fundamental da Contagem (PFC)",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Fatorial",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Arranjo",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Permutação simples e Permutação circular",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Combinação",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -297,19 +297,19 @@
                 {
                     "title": "Estatística: Visão geral, Organização e Representação de dados",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Estatística: Médias, Medidas de tendência central e de dispersão",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Interpretação de gráficos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -321,25 +321,25 @@
                 {
                     "title": "Probabilidade: Visão geral",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Probabilidade da união de eventos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Probabilidade de eventos simultâneos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Probabilidade condicional",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]

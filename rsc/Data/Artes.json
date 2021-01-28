@@ -9,7 +9,7 @@
                 {
                     "title": "Arte: conceitos, modalidades, estéticas, funções e estados",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 }
             ]
@@ -21,13 +21,13 @@
                 {
                     "title": "Arte na Pré-história",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Arte na Idade Antiga",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 }
             ]
@@ -39,7 +39,7 @@
                 {
                     "title": "Arte na Idade Média",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 }
             ]
@@ -51,7 +51,7 @@
                 {
                     "title": "Arte Renascentista",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -63,7 +63,7 @@
                 {
                     "title": "Maneirismo, Barroco e Rococó",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -75,7 +75,7 @@
                 {
                     "title": "Arte Neoclássica e Romântica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -87,19 +87,19 @@
                 {
                     "title": "Arte Moderna: Impressionismo e outros movimentos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Arte Moderna: Vanguardas europeias",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Arte moderna no Brasil",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -111,7 +111,7 @@
                 {
                     "title": "Arte contemporânea",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -123,7 +123,7 @@
                 {
                     "title": "Cultura popular",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -135,7 +135,7 @@
                 {
                     "title": "Culturas africana e indígena",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -147,7 +147,7 @@
                 {
                     "title": "Música",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -159,7 +159,7 @@
                 {
                     "title": "Teatro",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -171,7 +171,7 @@
                 {
                     "title": "Educação Física",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]

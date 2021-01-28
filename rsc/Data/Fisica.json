@@ -9,19 +9,19 @@
                 {
                     "title": "Vetores",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Ordem de grandeza",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Sistemas de unidades",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -33,37 +33,37 @@
                 {
                     "title": "Movimento uniforme",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Movimento variado",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Lançamento vertical e Queda livre",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Lançamento horizontal",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Lançamento oblíquo",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Movimento circular",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -75,67 +75,67 @@
                 {
                     "title": "Leis de Newton",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Máquinas simples (polias)",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Força elástica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Força de atrito",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Estática de um ponto material",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Estática de um corpo extenso e Centro de massa",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Dinâmica do movimento circular",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Trabalho",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Energia mecânica, potência e rendimento",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Impulso e quantidade de movimento",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Colisões",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -147,19 +147,19 @@
                 {
                     "title": "Movimento harmônico simples (MHS): Movimentos periódicos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Movimento Harmônico Simples (MHS): Cinemática do MHS",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Movimento harmônico simples (MHS): Sistema massa-mola e Pêndulo simples",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 }
             ]
@@ -171,19 +171,19 @@
                 {
                     "title": "Leis de Kepler",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Lei da Gravitação Universal",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Velocidade orbital e Velocidade de escape",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 }
             ]
@@ -195,19 +195,19 @@
                 {
                     "title": "Densidade, pressão e Teorema de Stevin",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Experiência de Torricelli, Teorema de Pascal, Prensa hidraulica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Princípio de Arquimedes",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -219,73 +219,73 @@
                 {
                     "title": "Luz e Câmara de orifício",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Princípios da óptica geométrica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Espelhos planos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Espelhos esféricos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Determinação analítica da imagem",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Refração",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Dioptro plano, Ângulo limite e Reflexão total",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Prismas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Lentes esféricas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Construção analítica das imagens e Estudo dos sinais",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Vergência e Óptica da Visão",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Instrumentos ópticos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 }
             ]
@@ -297,31 +297,31 @@
                 {
                     "title": "Ondulatória: Visão geral e Equação fundamental",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Fenômenos ondulatórios",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Ondas estacionárias em cordas e tubos sonoros",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Acústica, fenômenos sonoros e instrumentos musicais",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Efeito doppler",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -333,43 +333,43 @@
                 {
                     "title": "Temperatura, Calor e Energia térmica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Escalas termométricas",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Dilatação térmica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Calor sensível",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Calor latente e Mudança de fase",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Diagramas de fase",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Propagação do calor",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -381,31 +381,31 @@
                 {
                     "title": "Estudo do gás ideal",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Cinética dos gases, Energia interna e Trabalho de um gás",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Primeira lei da termodinâmica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Ciclos, Máquinas térmicas e Rendimento",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Ciclo de Carnot e a Segunda lei da termodinâmica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 }
             ]
@@ -417,37 +417,37 @@
                 {
                     "title": "Carga elétrica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Processos de eletrização",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Força elétrica (Lei de Coulomb)",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Campo elétrico e Linhas de força",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Potencial elétrico, Trabalho e Energia",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Condutor esférico e Capacitância",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -459,43 +459,43 @@
                 {
                     "title": "Corrente e Potência elétrica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Leis de Ohm",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Associação de Resistores",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Leis de Kirchhoff e Ponte de Wheatstone",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Geradores elétricos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Receptores elétricos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Capacitores",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -507,37 +507,37 @@
                 {
                     "title": "Eletromagnetismo: Visão geral, Imã e Regra da mão direita",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Campo magnético",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Força Magnética e regra da mão esquerda",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Indução Eletromagnética (Lei de Lenz)",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Lei de Faraday e Variação do fluxo magnético",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Gerador de corrente alternada e Transformadores",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 }
             ]
@@ -549,19 +549,19 @@
                 {
                     "title": "Efeito fotoelétrico",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Teoria da relatividade",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 },
                 {
                     "title": "Física quântica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 1
                 }
             ]

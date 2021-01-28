@@ -9,13 +9,13 @@
                 {
                     "title": "Origem da filosofia",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Pré-Socráticos",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -27,13 +27,13 @@
                 {
                     "title": "Sofistas, Sócrates e Platão",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Aristóteles",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -45,7 +45,7 @@
                 {
                     "title": "Filosofia Helenística",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -57,7 +57,7 @@
                 {
                     "title": "Filosofia Medieval",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
@@ -69,37 +69,37 @@
                 {
                     "title": "Filosofia Renascentista e Revolução científica",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Filosofia Moderna: Introdução",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Filosofia Moderna: Racionalismo",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Filosofia Moderna: Empirismo",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 },
                 {
                     "title": "Filosofia Moderna: Iluminismo",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 },
                 {
                     "title": "Filosofia Moderna: Immanuel Kant",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -111,7 +111,7 @@
                 {
                     "title": "Idealismo Alemão",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -123,7 +123,7 @@
                 {
                     "title": "Escola de Frankfurt",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 2
                 }
             ]
@@ -135,7 +135,7 @@
                 {
                     "title": "Existencialismo",
                     "type": "subtopic",
-                    "content": [],
+                    "videos": [],
                     "importance": 3
                 }
             ]
