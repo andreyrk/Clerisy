@@ -1,54 +1,19 @@
 import QtQuick 2.15
 import QtQuick.Controls 2.15
 import QtQuick.Layouts 1.15
+import "Utilities"
 
 Page {
     id: page
     title: "Matérias"
     property StackView stack: StackView.view
-    property string pageConteudo: "qrc:/UI/MateriasConteudo.qml"
+    property string pageAssuntos: "qrc:/UI/Assuntos.qml"
 
-    GridView {
+    DynamicGrid {
         id: grid
-        anchors.fill: parent
 
-        topMargin: 5
-        leftMargin: 5
-        bottomMargin: topMargin - verticalSpacing
-        rightMargin: leftMargin - horizontalSpacing
-
-        property int minimumCellWidth: 150
-        property int minimumCellHeight: 45
-        property int horizontalSpacing: 5
-        property int verticalSpacing: 5
-
-        cellWidth: minimumCellWidth
-        cellHeight: minimumCellHeight
-
-        onWidthChanged: {
-            let bounds = {
-                width: width - leftMargin - rightMargin,
-                height: height - topMargin - bottomMargin
-            }
-
-            if (minimumCellWidth * count < bounds.width)
-            {
-                cellWidth = minimumCellWidth
-            }
-            else if (minimumCellWidth * 1.5 <= bounds.width)
-            {
-                if (bounds.width % minimumCellWidth >= 0)
-                {
-                    cellWidth = Math.floor(bounds.width / Math.floor(bounds.width / minimumCellWidth))
-                } else {
-                    cellWidth = bounds.width
-                }
-            }
-            else if (minimumCellWidth * 1.5 > bounds.width)
-            {
-                cellWidth = bounds.width
-            }
-        }
+        preferredCellWidth: 150
+        preferredCellHeight: 45
 
         delegate: Rectangle {
             width: grid.cellWidth - grid.horizontalSpacing
@@ -68,7 +33,7 @@ Page {
                         "path": path
                     }
 
-                    stack.load(pageConteudo)
+                    stack.load(pageAssuntos)
                 }
             }
 
@@ -78,12 +43,6 @@ Page {
                 padding: 6
 
                 text: title
-                font {
-                    bold: false
-                    pixelSize: 14
-                    weight: Font.Thin
-                }
-
                 maximumLineCount: 1
                 elide: Text.ElideRight
 
@@ -173,7 +132,5 @@ Page {
                 path: "qrc:/Data/Atualidades.json"
             }
         }
-
-        boundsBehavior: Flickable.StopAtBounds
     }
 }

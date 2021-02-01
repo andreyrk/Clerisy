@@ -4,8 +4,8 @@ import QtQuick.Layouts 1.15
 
 ApplicationWindow {
     id: app
-    width: 960
-    height: 640
+    width: 450
+    height: 800
     visible: true
     title: "Prototype"
 
@@ -43,8 +43,14 @@ ApplicationWindow {
         }
 
         Label {
-            text: stack.currentItem ? stack.currentItem.title : ""
             anchors.centerIn: parent
+            anchors.leftMargin: 40
+            anchors.rightMargin: 40
+
+            text: stack.currentItem ? stack.currentItem.title : ""
+            font {
+                pixelSize: 15
+            }
         }
     }
 

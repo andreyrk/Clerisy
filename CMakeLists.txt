@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.14)
+cmake_minimum_required(VERSION 3.16)
 
 project(Prototype LANGUAGES CXX)
 
@@ -18,7 +18,6 @@ set(
     PROJECT_SOURCES
     rsc/qml.qrc
     src/main.cpp
-    src/qmlfile.h
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

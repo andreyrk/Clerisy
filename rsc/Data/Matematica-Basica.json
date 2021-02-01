@@ -10,12 +10,12 @@
                     "title": "As quatro operações e expressões numéricas",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=ObDVNlbQdm4",
-                        "https://www.youtube.com/watch?v=XlzDK_zamZw",
-                        "https://www.youtube.com/watch?v=e78_5WIssSU",
-                        "https://www.youtube.com/watch?v=BhDm2qGy780",
-                        "https://www.youtube.com/watch?v=0UGJRHq2PS4",
-                        "https://www.youtube.com/watch?v=PN0cASQhkhk"
+                        "ObDVNlbQdm4",
+                        "XlzDK_zamZw",
+                        "e78_5WIssSU",
+                        "BhDm2qGy780",
+                        "0UGJRHq2PS4",
+                        "PN0cASQhkhk"
                     ],
                     "importance": 3
                 },
@@ -23,10 +23,10 @@
                     "title": "Frações e dízimas periódicas",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=YJyY6A_MOQc",
-                        "https://www.youtube.com/watch?v=SgJpB78R7x0",
-                        "https://www.youtube.com/watch?v=d9GBEzzCuRg",
-                        "https://www.youtube.com/watch?v=IImqH5D29Uo"
+                        "YJyY6A_MOQc",
+                        "SgJpB78R7x0",
+                        "d9GBEzzCuRg",
+                        "IImqH5D29Uo"
                     ],
                     "importance": 3
                 },
@@ -34,9 +34,9 @@
                     "title": "Sistemas de numeração e sistema métrico",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=VBUD3CzsEH0",
-                        "https://www.youtube.com/watch?v=Jf0sA3wBqXE",
-                        "https://www.youtube.com/watch?v=epFmO0M8gDk"
+                        "VBUD3CzsEH0",
+                        "Jf0sA3wBqXE",
+                        "epFmO0M8gDk"
                     ],
                     "importance": 3
                 }
@@ -50,20 +50,20 @@
                     "title": "Raciocínio lógico",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=PltqUuwR9ec",
-                        "https://www.youtube.com/watch?v=i8jbzEWEOYk",
-                        "https://www.youtube.com/watch?v=QfDOFq9VmYc",
-                        "https://www.youtube.com/watch?v=KGAOeHyWefY",
-                        "https://www.youtube.com/watch?v=CkwaHNNXtv8",
-                        "https://www.youtube.com/watch?v=h_TMnWbI9pg",
-                        "https://www.youtube.com/watch?v=0sDKO4U9UtY",
-                        "https://www.youtube.com/watch?v=Xy8sCcEF-2s",
-                        "https://www.youtube.com/watch?v=cBlwBpWKMCw",
-                        "https://www.youtube.com/watch?v=bOTuY_3usik",
-                        "https://www.youtube.com/watch?v=AKtk0mICfyY",
-                        "https://www.youtube.com/watch?v=t6TL9RGZ_4U",
-                        "https://www.youtube.com/watch?v=McK-ahOry-0",
-                        "https://www.youtube.com/watch?v=vaWCsFUAVWM"
+                        "PltqUuwR9ec",
+                        "i8jbzEWEOYk",
+                        "QfDOFq9VmYc",
+                        "KGAOeHyWefY",
+                        "CkwaHNNXtv8",
+                        "h_TMnWbI9pg",
+                        "0sDKO4U9UtY",
+                        "Xy8sCcEF-2s",
+                        "cBlwBpWKMCw",
+                        "bOTuY_3usik",
+                        "AKtk0mICfyY",
+                        "t6TL9RGZ_4U",
+                        "McK-ahOry-0",
+                        "vaWCsFUAVWM"
                     ],
                     "importance": 3
                 }
@@ -77,10 +77,10 @@
                     "title": "Potenciação",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=4Vfw1XiHTpM",
-                        "https://www.youtube.com/watch?v=9EjqfNoVbY8",
-                        "https://www.youtube.com/watch?v=gzNVmoge5OM",
-                        "https://www.youtube.com/watch?v=zH43mX3ryTI"
+                        "4Vfw1XiHTpM",
+                        "9EjqfNoVbY8",
+                        "gzNVmoge5OM",
+                        "zH43mX3ryTI"
                     ],
                     "importance": 1
                 },
@@ -88,8 +88,8 @@
                     "title": "Notação científica",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=GPTxrh_mhow",
-                        "https://www.youtube.com/watch?v=sFqWN34zTaw"
+                        "GPTxrh_mhow",
+                        "sFqWN34zTaw"
                     ],
                     "importance": 2
                 }
@@ -103,9 +103,9 @@
                     "title": "Radiciação e racionalização de denomidadores",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=QmIjZgKhAEo",
-                        "https://www.youtube.com/watch?v=04nnroZrmgg",
-                        "https://www.youtube.com/watch?v=RwPis6vr3Fo"
+                        "QmIjZgKhAEo",
+                        "04nnroZrmgg",
+                        "RwPis6vr3Fo"
                     ],
                     "importance": 2
                 }
@@ -119,9 +119,9 @@
                     "title": "Produtos notáveis e fatoração",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=_3YQvVKbqn0",
-                        "https://www.youtube.com/watch?v=3amBZupsIdc",
-                        "https://www.youtube.com/watch?v=Z5G3aDjNPeY"
+                        "_3YQvVKbqn0",
+                        "3amBZupsIdc",
+                        "Z5G3aDjNPeY"
                     ],
                     "importance": 2
                 }
@@ -135,9 +135,9 @@
                     "title": "Equações e sistemas do primeiro grau",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=Tu08PYjt-2Q",
-                        "https://www.youtube.com/watch?v=oT4k6bhB4Dk",
-                        "https://www.youtube.com/watch?v=DmN535Y2PGw"
+                        "Tu08PYjt-2Q",
+                        "oT4k6bhB4Dk",
+                        "DmN535Y2PGw"
                     ],
                     "importance": 3
                 }
@@ -151,9 +151,9 @@
                     "title": "Equações do segundo grau e equações biquadradas",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=toAaUBwitFE",
-                        "https://www.youtube.com/watch?v=qYQllsg8ka8",
-                        "https://www.youtube.com/watch?v=YEaQDJeADTg"
+                        "toAaUBwitFE",
+                        "qYQllsg8ka8",
+                        "YEaQDJeADTg"
                     ],
                     "importance": 2
                 }
@@ -167,9 +167,9 @@
                     "title": "Critérios de divisibilidade e números primos",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=6YnChMLDcos",
-                        "https://www.youtube.com/watch?v=MrHhUUnOtPc",
-                        "https://www.youtube.com/watch?v=kjg8a41wwjQ"
+                        "6YnChMLDcos",
+                        "MrHhUUnOtPc",
+                        "kjg8a41wwjQ"
                     ],
                     "importance": 2
                 },
@@ -177,9 +177,9 @@
                     "title": "MMC e MDC",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=QCMUMufcK5M",
-                        "https://www.youtube.com/watch?v=NWtwEm8M2qw",
-                        "https://www.youtube.com/watch?v=LoiM5d7Kors"
+                        "QCMUMufcK5M",
+                        "NWtwEm8M2qw",
+                        "LoiM5d7Kors"
                     ],
                     "importance": 2
                 }
@@ -193,10 +193,10 @@
                     "title": "Razão e proporção",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=uIulBEk8gcM",
-                        "https://www.youtube.com/watch?v=6Dsta1eZ1BA",
-                        "https://www.youtube.com/watch?v=I-fPlExG5y4",
-                        "https://www.youtube.com/watch?v=BhPKDHA6kds"
+                        "uIulBEk8gcM",
+                        "6Dsta1eZ1BA",
+                        "I-fPlExG5y4",
+                        "BhPKDHA6kds"
                     ],
                     "importance": 3
                 }
@@ -210,12 +210,12 @@
                     "title": "Regra de 3 e escalas",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=alLifth7gxE",
-                        "https://www.youtube.com/watch?v=buYey1YGJhA",
-                        "https://www.youtube.com/watch?v=qrix-SCMvjA",
-                        "https://www.youtube.com/watch?v=0_9yCXj83so",
-                        "https://www.youtube.com/watch?v=StovbnDFCio",
-                        "https://www.youtube.com/watch?v=UYOwXqhMd4w"
+                        "alLifth7gxE",
+                        "buYey1YGJhA",
+                        "qrix-SCMvjA",
+                        "0_9yCXj83so",
+                        "StovbnDFCio",
+                        "UYOwXqhMd4w"
                     ],
                     "importance": 3
                 }
@@ -229,8 +229,8 @@
                     "title": "Porcentagem",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=CERiIwParX4",
-                        "https://www.youtube.com/watch?v=Nifqays8Auo"
+                        "CERiIwParX4",
+                        "Nifqays8Auo"
                     ],
                     "importance": 3
                 }
@@ -244,8 +244,8 @@
                     "title": "Juros simples",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=N27xZJj1m-4",
-                        "https://www.youtube.com/watch?v=yOQtPB4ZnBI"
+                        "N27xZJj1m-4",
+                        "yOQtPB4ZnBI"
                     ],
                     "importance": 3
                 },
@@ -253,8 +253,8 @@
                     "title": "Juros compostos",
                     "type": "subtopic",
                     "videos": [
-                        "https://www.youtube.com/watch?v=790S9GR5bWU",
-                        "https://www.youtube.com/watch?v=5kJIxd8MEkQ"
+                        "790S9GR5bWU",
+                        "5kJIxd8MEkQ"
                     ],
                     "importance": 3
                 }
