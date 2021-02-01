@@ -17,24 +17,66 @@ Page {
         }
     }
 
-    TabBar {
-        id: bar
+    footer: TabBar
+    {
+        id: tabBar
         width: parent.width
+        contentHeight: 40
+
         anchors.bottom: parent.bottom
+
+        background: Rectangle {
+            color: "#E0E0E0"
+        }
 
         TabButton {
             text: "Aulas"
+
+            contentItem: Text {
+                width: parent.width
+                height: parent.height
+                text: parent.text
+                font: parent.font
+                opacity: parent.checked ? 1.0 : 0.5
+                horizontalAlignment: Text.AlignHCenter
+                verticalAlignment: Text.AlignVCenter
+                elide: Text.ElideRight
+            }
+
+            background: Rectangle {
+                width: parent.width
+                height: parent.height
+                color: "#E0E0E0"
+            }
         }
 
         TabButton {
             text: "Exercícios"
+
+            contentItem: Text {
+                width: parent.width
+                height: parent.height
+                text: parent.text
+                font: parent.font
+                opacity: parent.checked ? 1.0 : 0.5
+                horizontalAlignment: Text.AlignHCenter
+                verticalAlignment: Text.AlignVCenter
+                elide: Text.ElideRight
+            }
+
+            background: Rectangle {
+                width: parent.width
+                height: parent.height
+                color: "#E0E0E0"
+            }
         }
     }
 
     StackLayout {
         width: parent.width
-        height: parent.height - bar.height
-        currentIndex: bar.currentIndex
+        height: parent.height
+
+        currentIndex: tabBar.currentIndex
 
         DynamicGrid {
             id: grid
