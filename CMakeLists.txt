@@ -14,10 +14,11 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 find_package(QT NAMES Qt6 Qt5 COMPONENTS Core Quick Xml Svg REQUIRED)
 find_package(Qt${QT_VERSION_MAJOR} COMPONENTS Core Quick Xml Svg REQUIRED)
 
-set(
+FILE(GLOB_RECURSE
     PROJECT_SOURCES
-    rsc/qml.qrc
-    src/main.cpp
+    "*.cpp"
+    "*.h"
+    "*.qrc"
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
