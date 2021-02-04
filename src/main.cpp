@@ -1,3 +1,4 @@
+#include <QIcon>
 #include <QApplication>
 #include <QQmlApplicationEngine>
 
@@ -9,9 +10,10 @@ int main(int argc, char *argv[])
     QApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
 #endif
     QApplication app(argc, argv);
+    app.setWindowIcon(QIcon(":/Icon/App.png"));
 
     QQmlApplicationEngine engine;
-    engine.load("qrc:/UI/App.qml");
+    engine.load(":/UI/App.qml");
 
     return app.exec();
 }

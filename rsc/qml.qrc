@@ -31,5 +31,6 @@
         <file>UI/Utilities/UrlRequest.qml</file>
         <file>Icon/Play-Arrow.svg</file>
         <file>Icon/Play-Circle.svg</file>
+        <file>Icon/App.png</file>
     </qresource>
 </RCC>

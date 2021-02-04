@@ -7,7 +7,7 @@ ApplicationWindow {
     width: 450
     height: 800
     visible: true
-    title: "Prototype"
+    title: "Clerisy"
 
     property string pageMaterias: "qrc:/UI/Materias.qml"
     property string pageOpcoes: "qrc:/UI/Opcoes.qml"

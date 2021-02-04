@@ -151,7 +151,7 @@ Page {
                             Image {
                                 anchors.centerIn: parent
 
-                                source: "qrc:/Icon/Play-Arrow.svg"
+                                source: ":/Icon/Play-Arrow.svg"
                                 sourceSize.width: 24
                                 sourceSize.height: 24
                             }
@@ -162,7 +162,7 @@ Page {
                             cursorShape: Qt.PointingHandCursor
 
                             onClicked: {
-                                Qt.openUrlExternally("http://youtube.com/watch?v=" + video)
+                                Qt.openUrlExternally("https://youtube.com/watch?v=" + video)
                             }
                         }
                     }
