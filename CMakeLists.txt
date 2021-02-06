@@ -26,29 +26,33 @@ FILE(GLOB_RECURSE
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
-    qt_add_executable(Clerisy
+    qt_add_executable(
+        ${PROJECT_NAME}
         ${PROJECT_SOURCES}
     )
 else()
     if(ANDROID)
-        add_library(Clerisy SHARED
+        add_library(
+            ${PROJECT_NAME}
+            SHARED
             ${PROJECT_SOURCES}
         )
     else()
-        add_executable(Clerisy
+        add_executable(
+            ${PROJECT_NAME}
             ${PROJECT_SOURCES}
         )
     endif()
 endif()
 
 target_compile_definitions(
-    Clerisy
+    ${PROJECT_NAME}
     PRIVATE
     $<$<OR:$<CONFIG:Debug>,$<CONFIG:RelWithDebInfo>>:QT_QML_DEBUG>
 )
 
 target_link_libraries(
-    Clerisy
+    ${PROJECT_NAME}
     PRIVATE
     Qt${QT_VERSION_MAJOR}::Core
     Qt${QT_VERSION_MAJOR}::Quick
