@@ -151,7 +151,7 @@ Page {
                             Image {
                                 anchors.centerIn: parent
 
-                                source: ":/Icon/Play-Arrow.svg"
+                                source: "qrc:/Icon/Play-Arrow.svg"
                                 sourceSize.width: 24
                                 sourceSize.height: 24
                             }
