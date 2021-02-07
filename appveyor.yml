@@ -11,5 +11,5 @@ install:
   - set PATH=%PATH%;%QTDIR%\bin
 build_script:
   - dir
-  - cmake -DCMAKE_PREFIX_PATH=%QTDIR% --build . --target all
+  - cmake --build . --target all
   - dir
