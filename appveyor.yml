@@ -9,7 +9,11 @@ image:
 install:
   - set QTDIR=C:\Qt\5.15.2\msvc2019_64
   - set PATH=%PATH%;%QTDIR%\bin
+before_build:
+  - md build
+  - cd build
 build_script:
+  - cmake .. -GNinja -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=%QTDIR%
+after_build:
   - dir
-  - cmake . -GNinja -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=%QTDIR%
-  - dir
+  - cd CMakeFiles; dir
