@@ -11,5 +11,5 @@ install:
   - set PATH=%PATH%;%QTDIR%\bin
 build_script:
   - dir
-  - cmake --build . --target all
+  - cmake . -GNinja -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=%QTDIR%
   - dir
