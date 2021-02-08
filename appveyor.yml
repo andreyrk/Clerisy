@@ -24,6 +24,6 @@ deploy:
   provider: GitHub
   description: ''
   artifact: Instalador_Clerisy.exe
-on:
-  branch: main
-  APPVEYOR_REPO_TAG: true
+  on:
+    branch: main
+    APPVEYOR_REPO_TAG: true
