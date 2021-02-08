@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <ReleaseDate>2021-01-01</ReleaseDate>
+    <DisplayName>Clerisy</DisplayName>
+    <Description></Description>
+    <Version>0.1.0</Version>
+    <Default>true</Default>
+    <Script>startmenu.qs</Script>
+</Package>

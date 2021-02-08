@@ -8,12 +8,22 @@ image:
   - Visual Studio 2019
 install:
   - set QTDIR=C:\Qt\5.15.2\msvc2019_64
-  - set PATH=%PATH%;%QTDIR%\bin
+  - set QTIFW=C:\Qt\Tools\QtInstallerFramework
+  - set PATH=%PATH%;%QTDIR%\bin;%QTIFW%\bin
 before_build:
   - md build
   - cd build
 build_script:
   - cmake .. -GNinja -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=%QTDIR%
+  - cmake --build . --target all
 after_build:
-  - dir
-  - cd CMakeFiles; dir
+  - cd ..
+  - move build\bin\* installer\packages\com.andreyrk.Clerisy\data
+  - binarycreator -c installer\config\config.xml -p installer\packages Instalador_Clerisy.exe
+deploy:
+  provider: GitHub
+  description: ''
+  artifact: Instalador_Clerisy.exe
+on:
+  branch: main
+  APPVEYOR_REPO_TAG: true

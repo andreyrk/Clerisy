@@ -3,6 +3,9 @@ cmake_minimum_required(VERSION 3.16)
 project(Clerisy LANGUAGES CXX)
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin/lib)
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin/lib)
 
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTOMOC ON)
@@ -26,10 +29,23 @@ FILE(GLOB_RECURSE
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
-    qt_add_executable(
-        ${PROJECT_NAME}
-        ${PROJECT_SOURCES}
-    )
+    if(ANDROID)
+        qt_add_executable(
+            ${PROJECT_NAME}
+            ${PROJECT_SOURCES}
+        )
+    endif()
+    if(WIN32)
+        qt_add_executable(
+            ${PROJECT_NAME}
+            ${PROJECT_SOURCES}
+        )
+
+        add_custom_command(
+            TARGET ${PROJECT_NAME} POST_BUILD
+            COMMAND "${CMAKE_PREFIX_PATH}/bin/windeployqt.exe" --qmldir ${CMAKE_SOURCE_DIR} \"$<TARGET_FILE:${PROJECT_NAME}>\"
+        )
+    endif()
 else()
     if(ANDROID)
         add_library(
@@ -37,10 +53,17 @@ else()
             SHARED
             ${PROJECT_SOURCES}
         )
-    else()
+    endif()
+    if(WIN32)
         add_executable(
             ${PROJECT_NAME}
+            WIN32
             ${PROJECT_SOURCES}
+        )
+
+        add_custom_command(
+            TARGET ${PROJECT_NAME} POST_BUILD
+            COMMAND "${CMAKE_PREFIX_PATH}/bin/windeployqt.exe" --qmldir ${CMAKE_SOURCE_DIR} \"$<TARGET_FILE:${PROJECT_NAME}>\"
         )
     endif()
 endif()
