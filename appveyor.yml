@@ -10,22 +10,15 @@ install:
   - set QTDIR=C:\Qt\5.15.2\msvc2019_64
   - set QTIFW=C:\Qt\Tools\QtInstallerFramework
   - set PATH=%PATH%;%QTDIR%\bin;%QTIFW%\bin
-before_build:
+build_script:
   - md build
   - cd build
-build_script:
   - cmake .. -GNinja -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=%QTDIR%
-  - echo "debug 1"
   - cmake --build . --target all
-  - echo "debug 2"
-after_build:
-  - echo "debug 3"
   - cd ..
-  - echo "debug 4"
+after_build:
   - move build\bin\* installer\packages\com.andreyrk.Clerisy\data
-  - echo "debug 5"
   - binarycreator -c installer\config\config.xml -p installer\packages Instalador_Clerisy.exe
-  - echo "debug 6"
 deploy:
   provider: GitHub
   description: ''
