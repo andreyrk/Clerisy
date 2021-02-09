@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
+set(CMAKE_TRY_COMPILE_TARGET_TYPE "STATIC_LIBRARY")
 
 project(Clerisy LANGUAGES CXX)
 
@@ -11,7 +12,7 @@ set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 if (ANDROID)
@@ -23,9 +24,9 @@ find_package(Qt${QT_VERSION_MAJOR} COMPONENTS Core Quick Xml Svg REQUIRED)
 
 FILE(GLOB_RECURSE
     PROJECT_SOURCES
-    "*.cpp"
-    "*.h"
-    "*.qrc"
+    "src/*.cpp"
+    "src/*.h"
+    "rsc/*.qrc"
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
