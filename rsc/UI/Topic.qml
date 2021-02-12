@@ -5,12 +5,11 @@ import "Utilities"
 
 Page {
     id: page
-    property StackView stack: StackView.view
 
     Component.onCompleted: {
-        title = stack.data.title
+        title = Globals.currentSubject.title
 
-        for (let video of stack.data.videos) {
+        for (let video of Globals.currentSubtopic.videos) {
             grid.model.append({
                 video: video
             })
@@ -44,8 +43,7 @@ Page {
             }
 
             background: Rectangle {
-                width: parent.width
-                height: parent.height
+                anchors.fill: parent
                 color: "#E0E0E0"
             }
         }
@@ -65,17 +63,14 @@ Page {
             }
 
             background: Rectangle {
-                width: parent.width
-                height: parent.height
+                anchors.fill: parent
                 color: "#E0E0E0"
             }
         }
     }
 
     StackLayout {
-        width: parent.width
-        height: parent.height
-
+        anchors.fill: parent
         currentIndex: tabBar.currentIndex
 
         DynamicGrid {
@@ -88,8 +83,7 @@ Page {
             preferredCellWidth: 480
             preferredCellHeight: 270
 
-            leftMargin: 10
-            topMargin: 10
+            margin: 10
             horizontalSpacing: 10
             verticalSpacing: 10
 
@@ -151,7 +145,7 @@ Page {
                             Image {
                                 anchors.centerIn: parent
 
-                                source: "qrc:/Icon/Play-Arrow.svg"
+                                source: Globals.icon_PlayArrow
                                 sourceSize.width: 24
                                 sourceSize.height: 24
                             }

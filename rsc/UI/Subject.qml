@@ -6,14 +6,14 @@ import "Utilities"
 Page {
     id: page
     title: "Matérias"
-    property StackView stack: StackView.view
-    property string pageAssuntos: "qrc:/UI/Assuntos.qml"
 
     DynamicGrid {
         id: grid
 
         preferredCellWidth: 150
         preferredCellHeight: 45
+
+        margin: 10
 
         delegate: Rectangle {
             width: grid.cellWidth - grid.horizontalSpacing
@@ -28,12 +28,12 @@ Page {
                 cursorShape: Qt.PointingHandCursor
 
                 onClicked: {
-                    stack.data = {
+                    Globals.currentSubject = {
                         "title": title,
                         "path": path
                     }
 
-                    stack.load(pageAssuntos)
+                    Globals.app.load(Globals.pageSubtopic)
                 }
             }
 

@@ -1,16 +1,18 @@
 import QtQuick 2.15
 import QtQuick.Controls 2.15
 import QtQuick.Layouts 1.15
+import "Utilities"
 
 ApplicationWindow {
     id: app
-    width: 450
-    height: 800
+    width: 800
+    height: 450
     visible: true
     title: "Clerisy"
 
-    property string pageMaterias: "qrc:/UI/Materias.qml"
-    property string pageOpcoes: "qrc:/UI/Opcoes.qml"
+    Component.onCompleted: {
+        Globals.app = this
+    }
 
     header: ToolBar {
         id: header
@@ -36,7 +38,7 @@ ApplicationWindow {
             Image {
                 anchors.centerIn: parent
 
-                source: stack.depth > 1 ? "qrc:/Icon/Chevron-Left.svg" : "qrc:/Icon/Menu.svg"
+                source: stack.depth > 1 ? Globals.icon_ChevronLeft : Globals.icon_Menu
                 sourceSize.width: 24
                 sourceSize.height: 24
             }
@@ -44,13 +46,16 @@ ApplicationWindow {
 
         Label {
             anchors.centerIn: parent
-            anchors.leftMargin: 40
-            anchors.rightMargin: 40
+            width: parent.width - 80
 
             text: stack.currentItem ? stack.currentItem.title : ""
             font {
                 pixelSize: 15
             }
+            maximumLineCount: 1
+            elide: Text.ElideRight
+            horizontalAlignment: Text.AlignHCenter
+            verticalAlignment: Text.AlignVCenter
         }
     }
 
@@ -64,6 +69,7 @@ ApplicationWindow {
             width: parent.width - 1
 
             ItemDelegate {
+                background: Item {}
                 text: "Matérias"
                 Layout.fillWidth: true
                 Layout.preferredHeight: header.height
@@ -71,11 +77,12 @@ ApplicationWindow {
                 onClicked: {
                     drawer.close()
                     stack.clear()
-                    stack.load(pageMaterias)
+                    app.load(Globals.pageSubject)
                 }
             }
 
             ItemDelegate {
+                background: Item {}
                 text: "Opções"
                 Layout.fillWidth: true
                 Layout.preferredHeight: header.height
@@ -83,7 +90,7 @@ ApplicationWindow {
                 onClicked: {
                     drawer.close()
                     stack.clear()
-                    stack.load(pageOpcoes)
+                    app.load(Globals.pageOptions)
                 }
             }
         }
@@ -92,12 +99,10 @@ ApplicationWindow {
     StackView {
         id: stack
         anchors.fill: parent
-        initialItem: pageMaterias
+        initialItem: Globals.pageSubject
+    }
 
-        property var data: ({})
-
-        function load(page) {
-            push(page)
-        }
+    function load(page) {
+        stack.push(page)
     }
 }

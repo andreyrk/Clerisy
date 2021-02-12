@@ -5,14 +5,12 @@ import "Utilities"
 
 Page {
     id: page
-    property StackView stack: StackView.view
-    property string pageAulas: "qrc:/UI/Aulas.qml"
 
     UrlRequest {
         id: file
 
         onStart: {
-            url = stack.data.path
+            url = Globals.currentSubject.path
         }
 
         onFinish: {
@@ -63,10 +61,10 @@ Page {
                     onClicked: {
                         if (listChildren.visible) {
                             listChildren.visible = false
-                            icon.source = "qrc:/Icon/Expand-Less.svg"
+                            icon.source = Globals.icon_ExpandLess
                         } else {
                             listChildren.visible = true
-                            icon.source = "qrc:/Icon/Expand-More.svg"
+                            icon.source = Globals.icon_ExpandMore
                         }
                     }
                 }
@@ -80,7 +78,7 @@ Page {
                             id: icon
                             anchors.centerIn: parent
 
-                            source: "qrc:/Icon/Expand-Less.svg"
+                            source: Globals.icon_ExpandLess
                             sourceSize.width: 24
                             sourceSize.height: 24
                         }
@@ -142,8 +140,8 @@ Page {
                             cursorShape: Qt.PointingHandCursor
 
                             onClicked: {
-                                stack.data = modelData
-                                stack.load(pageAulas)
+                                Globals.currentSubtopic = modelData
+                                Globals.app.load(Globals.pageTopic)
                             }
                         }
                     }

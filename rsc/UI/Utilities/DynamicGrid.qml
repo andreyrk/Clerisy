@@ -4,25 +4,22 @@ import QtQuick.Layouts 1.15
 GridView {
     anchors.fill: parent
 
-    Component.onCompleted: {
-        refresh()
-    }
+    Component.onCompleted: refresh()
     onWidthChanged: refresh()
 
-    topMargin: 5
-    leftMargin: 5
-    bottomMargin: topMargin - verticalSpacing
-    rightMargin: leftMargin - horizontalSpacing
-
     property bool keepAspectRatio: false
-
     property int preferredCellWidth: 100
     property int preferredCellHeight: 100
-    property int horizontalSpacing: 5
-    property int verticalSpacing: 5
-
     cellWidth: preferredCellWidth
     cellHeight: preferredCellHeight
+
+    property int margin: 5
+    property int horizontalSpacing: 5
+    property int verticalSpacing: 5
+    topMargin: margin
+    leftMargin: margin
+    bottomMargin: margin - verticalSpacing
+    rightMargin: margin - horizontalSpacing
 
     function refresh() {
         let bounds = {
