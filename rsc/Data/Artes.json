@@ -9,7 +9,13 @@
                 {
                     "title": "Arte: conceitos, modalidades, estéticas, funções e estados",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "SkS2xg8NYKk",
+                        "iWUk13JG3C8",
+                        "nPktUa4ZpCw",
+                        "kKPXqXsFMGw",
+                        "89pLkl-pZtc"
+                    ],
                     "importance": 1
                 }
             ]
@@ -21,13 +27,23 @@
                 {
                     "title": "Arte na Pré-história",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "h2h24Q_J7M8",
+                        "pgVEx0BGKvk"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Arte na Idade Antiga",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "_pchLc-pUfw",
+                        "oN7fclLO9mE",
+                        "npXEHa6Ka1Y",
+                        "lAb02Y3u8zw",
+                        "f4mRWEZLmsk",
+                        "SA1lTZxb76M"
+                    ],
                     "importance": 1
                 }
             ]
@@ -39,7 +55,11 @@
                 {
                     "title": "Arte na Idade Média",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "-5Azmm7WWDM",
+                        "7pim_dMPHGU",
+                        "nRK8noyEpAw"
+                    ],
                     "importance": 1
                 }
             ]
@@ -51,7 +71,11 @@
                 {
                     "title": "Arte Renascentista",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "dVndoT87eTA",
+                        "PU7JyzGhOiQ",
+                        "kZQxsayfiuc"
+                    ],
                     "importance": 2
                 }
             ]
@@ -63,7 +87,11 @@
                 {
                     "title": "Maneirismo, Barroco e Rococó",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "lfd7jzlnHJo",
+                        "kHawYcX92Qs",
+                        "8OXJyn2P1Dw"
+                    ],
                     "importance": 2
                 }
             ]
@@ -75,7 +103,11 @@
                 {
                     "title": "Arte Neoclássica e Romântica",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "UqEs3TOMBWE",
+                        "rf4VMGWz0pY",
+                        "g5uqGcd6mBk"
+                    ],
                     "importance": 2
                 }
             ]
@@ -87,19 +119,31 @@
                 {
                     "title": "Arte Moderna: Impressionismo e outros movimentos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "FrxZE4XZmTc",
+                        "c9lPIdTqQqo",
+                        "ie0dw5od4xQ",
+                        "NdMf2PxmnXw",
+                        "kk8r6MzgyIQ",
+                        "rOA0iXUIEu8"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Arte Moderna: Vanguardas europeias",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "FRCYQq_HAac"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Arte moderna no Brasil",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "KUOPX0LWRBU",
+                        "-GuOcRDWLnY"
+                    ],
                     "importance": 2
                 }
             ]
@@ -111,7 +155,11 @@
                 {
                     "title": "Arte contemporânea",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "c7WAbSnINuQ",
+                        "fDp6gXqoWCc",
+                        "PCxvMzXy3iE"
+                    ],
                     "importance": 3
                 }
             ]
@@ -123,7 +171,9 @@
                 {
                     "title": "Cultura popular",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "XuBktCcpi84"
+                    ],
                     "importance": 3
                 }
             ]
@@ -135,7 +185,10 @@
                 {
                     "title": "Culturas africana e indígena",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "RPzxt1iZGiA",
+                        "xg01PI-G2-E"
+                    ],
                     "importance": 3
                 }
             ]
@@ -147,7 +200,11 @@
                 {
                     "title": "Música",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "FjY4q7NSgRs",
+                        "1D1-REmjgZ4",
+                        "qvklwdDMHas"
+                    ],
                     "importance": 3
                 }
             ]
@@ -159,7 +216,11 @@
                 {
                     "title": "Teatro",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "9pq01NqrnhM",
+                        "Kh4ofdaLSVM",
+                        "Xlbn_V5nuL4"
+                    ],
                     "importance": 3
                 }
             ]
@@ -171,7 +232,12 @@
                 {
                     "title": "Educação Física",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "w81ui8GDj38",
+                        "5s_WM5y_l9I",
+                        "OZ4OwcHZI7M",
+                        "TlM8OQamE50"
+                    ],
                     "importance": 3
                 }
             ]
