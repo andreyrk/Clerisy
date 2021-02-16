@@ -9,7 +9,10 @@
                 {
                     "title": "Objetivos da Leitura e Níveis de Compreensão",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "b4bAuswvMWg",
+                        "FKVCFNO8cHE"
+                    ],
                     "importance": 3
                 }
             ]
@@ -21,7 +24,10 @@
                 {
                     "title": "Vocabulário",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "DSEEIghgutY",
+                        "d34itHg3TMA"
+                    ],
                     "importance": 1
                 }
             ]
@@ -33,7 +39,10 @@
                 {
                     "title": "Técnicas de leitura",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "3eV4KxLM-Zc",
+                        "cidHmE1mwUY"
+                    ],
                     "importance": 2
                 }
             ]
@@ -45,19 +54,25 @@
                 {
                     "title": "Charges, Tirinhas e Anúncios Publicitários",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "fhNX0gcBdPE"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Letras de Músicas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "cpR0PIExyAs"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Artigos científicos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "d34itHg3TMA"
+                    ],
                     "importance": 3
                 }
             ]
