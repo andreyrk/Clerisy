@@ -9,7 +9,9 @@
                 {
                     "title": "Objetivos da Leitura e Níveis de Compreensão",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "C-Mc6SlvrfM"
+                    ],
                     "importance": 3
                 }
             ]
@@ -33,7 +35,9 @@
                 {
                     "title": "Técnicas de leitura",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "jBkRAG8L12o"
+                    ],
                     "importance": 2
                 }
             ]
@@ -45,19 +49,26 @@
                 {
                     "title": "Charges, Tirinhas e Anúncios Publicitários",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "jbeefq7fNOY",
+                        "KPHsxvzRbv8"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Letras de Músicas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "Rl4C997pImg"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Artigos científicos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "nbRxEbpD6MI"
+                    ],
                     "importance": 3
                 }
             ]
