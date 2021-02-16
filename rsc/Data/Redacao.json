@@ -9,7 +9,11 @@ VM2739:41 {
                 {
                     "title": "Planejamento textual",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "PYGzF4b0Kbk",
+                        "38wnwP48udI",
+                        "XhCHwTgOSA0"
+                    ],
                     "importance": 3
                 }
             ]
@@ -21,25 +25,44 @@ VM2739:41 {
                 {
                     "title": "Estrutura da redação para Enem",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "m5AzTqZMSAY",
+                        "dQUfpQOoUxs",
+                        "ERi-XrWtaWA",
+                        "Oj7GaN7ILdQ"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Estrutura redacional: Introdução",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "x5QtpUm8OQo",
+                        "me9Fnmlw6Hw",
+                        "BUkIYnDTmTI"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Estrutura redacional: Desenvolvimento",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "jaUyaTxtPw4",
+                        "M7qMWZ9d9Bs",
+                        "ahqhxiIRkhA",
+                        "coPHQJ3A7SA"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Estrutura redacional: Conclusão",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "-8CARKA4Lvw",
+                        "1JvXtFGJGv0",
+                        "p0eP3t35pYA",
+                        "lOTilxDyIms"
+                    ],
                     "importance": 3
                 }
             ]
@@ -51,145 +74,370 @@ VM2739:41 {
                 {
                     "title": "Política e Corrupção",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "g8YFDT7_CnQ",
+                        "-yk12Toyqrs",
+                        "ZHa4924MDcM",
+                        "WyhfApWpFI4",
+                        "fQR8Uy7_5vg",
+                        "Ltsd2dXr6EY",
+                        "AaRydNjSC5Y"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Cidadania e Movimentos sociais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "c3mjvCfwRxc",
+                        "ibXWCrMQ_3w",
+                        "L_VWZtxmqA8",
+                        "OoEbOkf8C4g",
+                        "QrMCq57VgMM",
+                        "3VQXVcPLTdY",
+                        "qVKlaY4QoAk"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Tecnologia, Internet, Mídias sociais e Fake news",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "KT9L83OtYLs",
+                        "vjrRdz7tiTA",
+                        "k9Rzfp3RTb8",
+                        "Q8XSVelzPRA",
+                        "q_ivPqKTgoQ",
+                        "gZgl8mWaj24",
+                        "kSNQwJhPMDY",
+                        "RzFiIcY-YZU",
+                        "QztGuAICquc",
+                        "qIM89h80cSk"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Envelhecimento e Previdência social",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "lukt4xVaX8g",
+                        "T-ClfH_E8o0",
+                        "AHfrBeu_67A",
+                        "cJfOrBmHEG8",
+                        "svHRED7w2lA"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Saúde pública e Doação de órgãos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "Lv2JXAoAxKY",
+                        "tTLQOJo63Jo",
+                        "5AY1kfmaA7w",
+                        "OeL04Su0nw4",
+                        "NM_PpaOyvdc",
+                        "n3dmFbjovFg",
+                        "GE2v0GmESdg"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Fome, Desigualdade e População de rua",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "TRmypRriQSM",
+                        "k_s5BmWT0hc",
+                        "UgnralDeScU",
+                        "lDS5VhVGSZc",
+                        "ffpWiDGct2M",
+                        "MjctI7ENoz8",
+                        "kT2XxGo9R2w",
+                        "waz2vosV-zQ",
+                        "Y5-fDL4rXO0",
+                        "ALWtioeHFS8",
+                        "wYeDvVA-bSY",
+                        "qBVaM7I2PvY"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Intolerância, racismo, assédio, preconceito e xenofobia.",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "1_Ct45mlWNM",
+                        "XTp-gxFL29w",
+                        "z9VXuYuhTjk",
+                        "eyY4r70RQpU",
+                        "fpBB2BjD92g",
+                        "59tyqzz_lLc",
+                        "18U3uvlYoxE",
+                        "MRWnjmHNz3w"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Bullying e violência nas escolas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "4RnCOdZnU8s",
+                        "7IJlwcP3bQU",
+                        "v-5TfJ39sC0"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Exclusão digital",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "7n_hb8kNF_Y",
+                        "tA0OKq68heQ",
+                        "N6jWgVncs2I"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Consumismo",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "k9-8V95__AY",
+                        "emkWUYpAK4I",
+                        "_3Pr98elSU8",
+                        "eXrEWEGDfIs",
+                        "IeMQ0OGCAqc",
+                        "WifjzIbSIhk"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Culto ao corpo e obesidade",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "soPECGsLtaE",
+                        "ugIQS0MIoMQ",
+                        "C5RTYyx1SWE",
+                        "Oiccaa4WenM",
+                        "AT57nTZljvw",
+                        "O-xm7ndbOKQ",
+                        "-AOT7f2aIB4",
+                        "eUwSZZF5-eI",
+                        "vRKc-tKKqWc",
+                        "VC1W1BVdnuI"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Trabalho e realização",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "AoEK0Ei1KT8",
+                        "mYifLgC-sEQ",
+                        "zYJ8ivgjVFs",
+                        "tf4MGk1TaPQ",
+                        "xKloe0Fw-AQ"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Povos indígenas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "vAOgocC_Bso",
+                        "iqmRqKackzM",
+                        "WjyiL6Ez5vU",
+                        "yLTlAAdh1w4",
+                        "uU3mkldq6gA",
+                        "pbZUShKVw_c"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Lixo e saneamento",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "ECVOfChZS2Y",
+                        "HJCb9db1CWw",
+                        "X-fBZeBenUo",
+                        "sSH_Oqs4IR4",
+                        "qoPNtMObQsY",
+                        "IvlaS2vmvd4",
+                        "EdQRTcTqF_Y",
+                        "1_JJPq5FJjY",
+                        "1ykLqawVgaI"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Mobilidade urbana",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "6j9HXdNxO2o",
+                        "uy-ribW6aJA",
+                        "VydHdx0y3Hg",
+                        "kiIKzC8JnjM"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Educação e Leitura",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "WXa1RrzNL0o",
+                        "9tVL6aKYofQ",
+                        "4x9Fx3DOUEM",
+                        "6lhXjmqpMr4",
+                        "tL4I5vEN3wM",
+                        "htS1QaD7tUI",
+                        "8gineWXbmbk",
+                        "nyhIy6ed6-g",
+                        "DgCUJlI-0-Q",
+                        "tmOWpyeqC58",
+                        "s0_VtJHwbpg",
+                        "NcfrIfOYb38",
+                        "lgoYCfJFVJg",
+                        "StEPtYED5sE",
+                        "G2hLhJhbvII"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Guerras e armas de destruição em massa",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "J9SAZ314yNg",
+                        "J4qaEYTP5BY",
+                        "E_yP7QkgboA",
+                        "YIT7gyVPw68"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Suicídio, depressão e solidão",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "I2iv6SVZcz8",
+                        "Hw-AgET0Ev0",
+                        "LGXBPDIO99Y",
+                        "MgFl8VDTgK0",
+                        "wj3tdcqLaoA",
+                        "Wih3l98A-zI",
+                        "6Ych7CK3-0M",
+                        "4YZjlHRjVFk",
+                        "7o-eT4kcRK0",
+                        "BJnXA1Il64g",
+                        "0m09iKAcMzU",
+                        "I_TOJOu_YJY",
+                        "tks8gG-S-uk",
+                        "Gl7Xc6QqHU4",
+                        "UWxP-ML7AeA",
+                        "RWBxrJnp-lE",
+                        "lyxMbP_4JgE",
+                        "5-wCAXaI62w",
+                        "wQ92Ug0dPDQ",
+                        "iEmR_Ez1dVE",
+                        "odqOtLDhOzc",
+                        "8njK5p9KlUo"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Sistema prisional, violência urbana, medo e criminalidade",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "MmXpyQTNtX4",
+                        "l3Fbvz3CZRc",
+                        "T2U_Qebx9mI",
+                        "iP52vWvyBY8",
+                        "ofVpwbg-zGY",
+                        "FSBAxorEtpE",
+                        "-165-MX5u7I",
+                        "szPtLX-lim8",
+                        "gOgrS0FDjjk",
+                        "u7mPwqz0a_A",
+                        "lFJPAq960sg",
+                        "1l7TfsLrxi8",
+                        "eWYLr9hJVPg",
+                        "K1oq0bekHhs",
+                        "kf7LQJWQS04",
+                        "ORtEQahRhc4"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Meio ambiente e Mudanças climáticas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "MKUPxG61k6k",
+                        "GAychD_1qzw",
+                        "Oc6RW6NkGIY",
+                        "Wy9NdJpXYTs",
+                        "eurz_TPwxIw",
+                        "gMHC4eJIGy8",
+                        "C1TTrWWv-X4",
+                        "FajQKhDawrE"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Recursos hídricos, Energia e Sustentabilidade",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "20lzvXboYaY",
+                        "pXtVUobPQLs",
+                        "6FFjh9O0KXc",
+                        "4gzrJ2NjUmI",
+                        "kEiUlcxzXr8",
+                        "K_uNu9_GtUg",
+                        "VDWTUoQ3q5g",
+                        "coKslHDhChM",
+                        "PR0fYhTam-4",
+                        "4zubZc_tokQ",
+                        "lpe6CkIO8cg"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Drogas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "4aCtWXQl4oM",
+                        "bqh-nlsjcNY",
+                        "BPlNpbc0ocI",
+                        "kP15q815Saw",
+                        "HpmZDO6bo2s",
+                        "3KkTkcY-knc",
+                        "ZPBF1IX_ybc",
+                        "MpHoE0BfzpM",
+                        "SzuF7VUazGs"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Acessibilidade e Inclusão de pessoas com deficiência",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "-bgA4r-Qnbg",
+                        "4mS23CcPDI8",
+                        "S4KNmtSl5k8",
+                        "6RhFT0ur1Do",
+                        "zqA76lmh-yI"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Lazer, Esporte e Cultura",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "NA8NSt7sl4o",
+                        "kEblhlCfJXc",
+                        "_09Wy2GhgVg",
+                        "vdGHwOtFP1I",
+                        "6LNWURPKMhM",
+                        "cFwHzS1gPvE",
+                        "cNs3nRufGqg",
+                        "UOYNhEhL6eA",
+                        "Uuy4912G39M"
+                    ],
                     "importance": 1
                 }
             ]
