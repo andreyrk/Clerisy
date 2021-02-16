@@ -9,13 +9,25 @@
                 {
                     "title": "Origem da filosofia",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "wlqmk6vZcNc",
+                        "WPSDYtxd_d0"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Pré-Socráticos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "TIIzrsbx74E",
+                        "b8gsidcbprs",
+                        "dsQoi6b3-Wo",
+                        "qhALrNZEvis",
+                        "epFMWZD2Erc",
+                        "F6ELaI6rfcw",
+                        "H328rUUlmus",
+                        "w0cJAinrE9c"
+                    ],
                     "importance": 2
                 }
             ]
@@ -27,13 +39,26 @@
                 {
                     "title": "Sofistas, Sócrates e Platão",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "HJ0G0FNDrb4",
+                        "8cfp9vxE7Uw",
+                        "GYISmIglyc8",
+                        "-R2nayquhJo",
+                        "sCaxAvAFG0A",
+                        "0wkBkrP3ZNY",
+                        "VrTTQH6zOC4"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Aristóteles",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "LIowUF7oZrM",
+                        "s-dNSJY5Dpk",
+                        "FHF1HBpjLXw",
+                        "cTAh-Jvegp0"
+                    ],
                     "importance": 3
                 }
             ]
@@ -45,7 +70,15 @@
                 {
                     "title": "Filosofia Helenística",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "VKBzGRepW8U",
+                        "9-bvJy6CvOY",
+                        "sqLo6C2WGi0",
+                        "jL2M3WWhRE4",
+                        "V4jUUQlg8k0",
+                        "Mz0ylEoAWrU",
+                        "kWwU-l08R2A"
+                    ],
                     "importance": 2
                 }
             ]
@@ -57,7 +90,18 @@
                 {
                     "title": "Filosofia Medieval",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "y6RDV-FlmAo",
+                        "EIGiCMbPz60",
+                        "n1d61aPD0XM",
+                        "4R3p8UkVmpM",
+                        "VC8fgL1GDVY",
+                        "oqDUfQKnRbY",
+                        "hpf_Gjq2RyE",
+                        "1EYZbQI6DkA",
+                        "knoTMbvQoVA",
+                        "DSHyjqgdi-s"
+                    ],
                     "importance": 3
                 }
             ]
@@ -69,37 +113,81 @@
                 {
                     "title": "Filosofia Renascentista e Revolução científica",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "6NbSXIdObDk",
+                        "mILMl-dJcqI",
+                        "9LnEZSVNhu0",
+                        "GCHUUOqJRTs",
+                        "whUqnCcGOXE",
+                        "rrMeyTQW_Qk",
+                        "tC1xH1w5uek",
+                        "2KnV1f03a8A",
+                        "btGrFGKzM_o",
+                        "mG2XEFg7lxY"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Filosofia Moderna: Introdução",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "XuHr8nLI7ec"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Filosofia Moderna: Racionalismo",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "2Tg0cgYHMhs",
+                        "rGGxJMxZawM",
+                        "KAVaTmGvfKA",
+                        "LMVQKC2py-Q",
+                        "iLR2t6D0EOc"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Filosofia Moderna: Empirismo",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "mzN9w1SGBQw",
+                        "haxE15k9YNs",
+                        "L4muar9_Fvo",
+                        "keX0CKCVqu4",
+                        "obxET70yGuc",
+                        "xF_mqxBaJnY",
+                        "7o8x71D9tnk",
+                        "quB59LjzXWA",
+                        "vVwckAou7LY"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Filosofia Moderna: Iluminismo",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "wJEhiUVMa4M",
+                        "9_pkGzeYbrg",
+                        "rXGbaJoSfc4",
+                        "DnnvgOwlyiY",
+                        "9w9T1WAiXjY",
+                        "wbPGwWeDZ6g"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Filosofia Moderna: Immanuel Kant",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "8vPquLLVpzQ",
+                        "gC-8IlAGRYM",
+                        "Xfri3iIO71s",
+                        "XpBVv0sxznE",
+                        "jIwXAxfAMx8",
+                        "SkaGfGK6Pps",
+                        "_z-uwONGW94"
+                    ],
                     "importance": 2
                 }
             ]
@@ -111,7 +199,12 @@
                 {
                     "title": "Idealismo Alemão",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "IB4sDbtPpFo",
+                        "CZIUYOs8FZ0",
+                        "GoNOo27lq30",
+                        "OZM86dtBFr8"
+                    ],
                     "importance": 2
                 }
             ]
@@ -123,7 +216,9 @@
                 {
                     "title": "Escola de Frankfurt",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "2cRmI_bYEyc"
+                    ],
                     "importance": 2
                 }
             ]
@@ -135,7 +230,14 @@
                 {
                     "title": "Existencialismo",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "g26I8ufn2xc",
+                        "_XSHx0JSYmw",
+                        "zhaq6AqeS_o",
+                        "MgFl8VDTgK0",
+                        "IwBQ5HLctS4",
+                        "MucaOivk50s"
+                    ],
                     "importance": 3
                 }
             ]
