@@ -33,7 +33,7 @@ Page {
                         "path": path
                     }
 
-                    Globals.app.load(Globals.pageSubtopic)
+                    Globals.app.load(Globals.pageTopic)
                 }
             }
 

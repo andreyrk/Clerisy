@@ -6,133 +6,149 @@ import "Utilities"
 Page {
     id: page
 
-    UrlRequest {
-        id: file
+    Component.onCompleted: {
+        title = Globals.currentSubject.title
 
-        onStart: {
-            url = Globals.currentSubject.path
-        }
-
-        onFinish: {
-            var obj = JSON.parse(response)
-            var index = 0
-
-            for (var item of obj.content)
-            {
-                item.index = index++
-                item.content = JSON.stringify(item.content)
-
-                listView.model.append(item)
-            }
-
-            page.title = obj.title
+        for (let video of Globals.currentSubtopic.videos) {
+            grid.model.append({
+                video: video
+            })
         }
     }
 
-    ListView {
-        id: listView
+    footer: TabBar
+    {
+        id: tabBar
+        width: parent.width
+        contentHeight: 40
+
+        anchors.bottom: parent.bottom
+
+        background: Rectangle {
+            color: "#E0E0E0"
+        }
+
+        TabButton {
+            text: "Aulas"
+
+            contentItem: Text {
+                width: parent.width
+                height: parent.height
+                text: parent.text
+                font: parent.font
+                opacity: parent.checked ? 1.0 : 0.5
+                horizontalAlignment: Text.AlignHCenter
+                verticalAlignment: Text.AlignVCenter
+                elide: Text.ElideRight
+            }
+
+            background: Rectangle {
+                anchors.fill: parent
+                color: "#E0E0E0"
+            }
+        }
+
+        TabButton {
+            text: "Exercícios"
+
+            contentItem: Text {
+                width: parent.width
+                height: parent.height
+                text: parent.text
+                font: parent.font
+                opacity: parent.checked ? 1.0 : 0.5
+                horizontalAlignment: Text.AlignHCenter
+                verticalAlignment: Text.AlignVCenter
+                elide: Text.ElideRight
+            }
+
+            background: Rectangle {
+                anchors.fill: parent
+                color: "#E0E0E0"
+            }
+        }
+    }
+
+    StackLayout {
         anchors.fill: parent
-        boundsBehavior: Flickable.StopAtBounds
+        currentIndex: tabBar.currentIndex
 
-        model: ListModel {}
-        delegate: Column {
-            width: page.width
-            height: listParent.height + (listChildren.visible ? listChildren.height : 0)
+        DynamicGrid {
+            id: grid
+            Layout.fillWidth: true
+            Layout.fillHeight: true
 
-            property var contentArray
+            keepAspectRatio: true
 
-            Component.onCompleted: {
-                contentArray = JSON.parse(content)
+            preferredCellWidth: 480
+            preferredCellHeight: 270
 
-                for (var item of contentArray) {
-                    item.index = index
-                }
-            }
+            margin: 10
+            horizontalSpacing: 10
+            verticalSpacing: 10
 
-            Item {
-                id: listParent
-                width: page.width
-                height: 40
+            delegate: Rectangle {
+                width: grid.cellWidth - grid.horizontalSpacing
+                height: grid.cellHeight - grid.verticalSpacing
 
-                MouseArea {
-                    anchors.fill: parent
-                    cursorShape: Qt.PointingHandCursor
+                border.width: 1
+                border.color: "#E0E0E0"
 
-                    onClicked: {
-                        if (listChildren.visible) {
-                            listChildren.visible = false
-                            icon.source = Globals.icon_ExpandLess
-                        } else {
-                            listChildren.visible = true
-                            icon.source = Globals.icon_ExpandMore
-                        }
-                    }
-                }
+                Image {
+                    id: thumbnail
+                    anchors.centerIn: parent
 
-                RowLayout {
-                    Item {
-                        width: 40
-                        height: 40
+                    width: parent.width
+                    height: parent.height
 
-                        Image {
-                            id: icon
-                            anchors.centerIn: parent
+                    fillMode: Image.PreserveAspectCrop
+                    source: "https://img.youtube.com/vi/" + video + "/0.jpg"
 
-                            source: Globals.icon_ExpandLess
-                            sourceSize.width: 24
-                            sourceSize.height: 24
-                        }
-                    }
+                    Rectangle {
+                        anchors.left: parent.left
+                        anchors.leftMargin: 5
+                        anchors.right: parent.right
+                        anchors.rightMargin: 5
+                        anchors.bottom: parent.bottom
+                        anchors.bottomMargin: 5
 
-                    Text {
-                        id: text
+                        height: 36
 
-                        text: title
-                        font {
-                            bold: false
-                            pixelSize: 14
-                            weight: Font.Thin
-                        }
-                        maximumLineCount: 1
-                        elide: Text.ElideRight
-                        horizontalAlignment: Text.AlignLeft
-                        verticalAlignment: Text.AlignVCenter
+                        border.width: 1
+                        border.color: "#E0E0E0"
 
-                        Layout.fillWidth: true
-                        Layout.fillHeight: true
-                    }
-                }
-            }
+                        Label {
+                            id: title
+                            padding: 10
 
-            Column {
-                id: listChildren
-                visible: false
+                            width: parent.width - parent.height + padding
+                            height: parent.height
 
-                Repeater {
-                    model: contentArray
-
-                    Item {
-                        width: page.width;
-                        height: 40
-                        x: 40
-                        y: 40
-
-                        Text {
-                            anchors.fill: parent
-
-                            text: modelData.title
                             font {
-                                bold: false
-                                pixelSize: 14
-                                weight: Font.Thin
+                                pixelSize: 13
+                                weight: Font.DemiBold
+                                capitalization: Font.AllUppercase
                             }
+
                             maximumLineCount: 1
                             elide: Text.ElideRight
-                            horizontalAlignment: Text.AlignLeft
-                            verticalAlignment: Text.AlignVCenter
 
-                            Layout.fillWidth: true
-                            Layout.fillHeight: true
+                            horizontalAlignment: Text.AlignHLeft
+                            verticalAlignment: Text.AlignVCenter
+                        }
+
+                        Item {
+                            anchors.right: parent.right
+                            height: parent.height
+                            width: parent.height
+
+                            Image {
+                                anchors.centerIn: parent
+
+                                source: Globals.icon_PlayArrow
+                                sourceSize.width: 24
+                                sourceSize.height: 24
+                            }
                         }
 
                         MouseArea {
@@ -140,19 +156,33 @@ Page {
                             cursorShape: Qt.PointingHandCursor
 
                             onClicked: {
-                                Globals.currentSubtopic = modelData
-                                Globals.app.load(Globals.pageTopic)
+                                Qt.openUrlExternally("https://youtube.com/watch?v=" + video)
                             }
                         }
                     }
                 }
+
+                UrlRequest {
+                    property string endpoint: "https://www.youtube.com/oembed?format=json&url=https://www.youtube.com/watch?v="
+
+                    onStart: {
+                        url = endpoint + video
+                    }
+
+                    onFinish: {
+                        let data = JSON.parse(response)
+
+                        if (data) {
+                            title.text = data.title
+                        }
+                    }
+                }
             }
+            model: ListModel {}
+        }
+
+        Item {
+            id: tabExercicios
         }
     }
 }
-
-/*##^##
-Designer {
-    D{i:0;autoSize:true;height:480;width:640}
-}
-##^##*/

@@ -8,7 +8,7 @@
         <file>UI/Options.qml</file>
         <file>Icon/Chevron-Left.svg</file>
         <file>Icon/Menu.svg</file>
-        <file>UI/Subtopic.qml</file>
+        <file>UI/Topic.qml</file>
         <file>Icon/Expand-Less.svg</file>
         <file>Icon/Expand-More.svg</file>
         <file>Data/Matematica.json</file>
@@ -26,7 +26,7 @@
         <file>Data/Ingles.json</file>
         <file>Data/Sociologia.json</file>
         <file>Data/Espanhol.json</file>
-        <file>UI/Topic.qml</file>
+        <file>UI/Subtopic.qml</file>
         <file>UI/Utilities/DynamicGrid.qml</file>
         <file>UI/Utilities/UrlRequest.qml</file>
         <file>Icon/Play-Arrow.svg</file>
