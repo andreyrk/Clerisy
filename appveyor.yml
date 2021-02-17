@@ -13,7 +13,8 @@ install:
 build_script:
   - md build
   - cd build
-  - vcvars64.bat cmake .. -GNinja -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=%QTDIR%
+  - vcvars64.bat
+  - cmake .. -GNinja -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=%QTDIR%
   - cmake --build . --target all
   - cd ..
 after_build:
