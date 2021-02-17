@@ -7,13 +7,13 @@ skip_non_tags: true
 image:
   - Visual Studio 2019
 install:
-  - set QTDIR=C:/Qt/6.0/msvc2019_64
+  - set QTDIR=C:/Qt/6.0/mingw81_64
   - set QTIFW=C:/Qt/Tools/QtInstallerFramework
   - set PATH=%PATH%;%QTDIR%/bin;%QTIFW%/bin
 build_script:
   - md build
   - cd build
-  - cmake .. -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=%QTDIR%
+  - cmake .. -GNinja -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=%QTDIR%
   - cmake --build . --target all
   - cd ..
 after_build:
