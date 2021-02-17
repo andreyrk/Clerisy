@@ -11,10 +11,9 @@ install:
   - set QTIFW=C:/Qt/Tools/QtInstallerFramework
   - set PATH=%PATH%;%QTDIR%/bin;%QTIFW%/bin;"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build"
 build_script:
-  - dir "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build"
   - md build
   - cd build
-  - vcvars64.bat cmake .. -GNinja -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=%QTDIR%
+  - vcvarsall.bat x86 cmake .. -GNinja -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=%QTDIR%
   - cmake --build . --target all
   - cd ..
 after_build:
