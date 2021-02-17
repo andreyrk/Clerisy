@@ -11,15 +11,13 @@ Page {
         id: grid
 
         preferredCellWidth: 150
-        preferredCellHeight: 45
-
+        preferredCellHeight: 40
         margin: 10
 
         delegate: Rectangle {
             width: grid.cellWidth - grid.horizontalSpacing
             height: grid.cellHeight - grid.verticalSpacing
 
-            radius: 4
             border.width: 1
             border.color: "#E0E0E0"
 

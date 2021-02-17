@@ -36,7 +36,7 @@ Page {
                 height: parent.height
                 text: parent.text
                 font: parent.font
-                opacity: parent.checked ? 1.0 : 0.5
+                opacity: parent.checked ? 1.0 : 0.33
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 elide: Text.ElideRight
@@ -56,7 +56,7 @@ Page {
                 height: parent.height
                 text: parent.text
                 font: parent.font
-                opacity: parent.checked ? 1.0 : 0.5
+                opacity: parent.checked ? 1.0 : 0.33
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 elide: Text.ElideRight
@@ -75,72 +75,78 @@ Page {
 
         DynamicGrid {
             id: grid
-            Layout.fillWidth: true
-            Layout.fillHeight: true
+            anchors.fill: parent
 
             keepAspectRatio: true
-
             preferredCellWidth: 480
             preferredCellHeight: 270
-
-            margin: 10
             horizontalSpacing: 10
             verticalSpacing: 10
+            margin: 10
 
             delegate: Rectangle {
                 width: grid.cellWidth - grid.horizontalSpacing
                 height: grid.cellHeight - grid.verticalSpacing
 
                 border.width: 1
-                border.color: "#E0E0E0"
+                border.color: "#000000"
 
                 Image {
                     id: thumbnail
                     anchors.centerIn: parent
 
-                    width: parent.width
-                    height: parent.height
+                    width: parent.width - 2
+                    height: parent.height - 2
 
                     fillMode: Image.PreserveAspectCrop
                     source: "https://img.youtube.com/vi/" + video + "/0.jpg"
 
-                    Rectangle {
+                    RowLayout {
                         anchors.left: parent.left
-                        anchors.leftMargin: 5
+                        anchors.leftMargin: 10
                         anchors.right: parent.right
-                        anchors.rightMargin: 5
+                        anchors.rightMargin: 10
                         anchors.bottom: parent.bottom
-                        anchors.bottomMargin: 5
+                        anchors.bottomMargin: 10
 
-                        height: 36
+                        height: 40
+                        spacing: 10
 
-                        border.width: 1
-                        border.color: "#E0E0E0"
+                        Rectangle {
+                            Layout.fillWidth: true
+                            Layout.fillHeight: true
 
-                        Label {
-                            id: title
-                            padding: 10
+                            border.width: 1
+                            border.color: "#000000"
+                            color: "#FFFFFF"
 
-                            width: parent.width - parent.height + padding
-                            height: parent.height
+                            Label {
+                                id: title
+                                padding: 10
+                                width: parent.width
+                                height: parent.height
 
-                            font {
-                                pixelSize: 13
-                                weight: Font.DemiBold
-                                capitalization: Font.AllUppercase
+                                font {
+                                    pixelSize: 13
+                                    weight: Font.DemiBold
+                                    capitalization: Font.AllUppercase
+                                }
+
+                                maximumLineCount: 1
+                                elide: Text.ElideRight
+
+                                horizontalAlignment: Text.AlignHLeft
+                                verticalAlignment: Text.AlignVCenter
                             }
-
-                            maximumLineCount: 1
-                            elide: Text.ElideRight
-
-                            horizontalAlignment: Text.AlignHLeft
-                            verticalAlignment: Text.AlignVCenter
                         }
 
-                        Item {
-                            anchors.right: parent.right
-                            height: parent.height
-                            width: parent.height
+                        Rectangle {
+                            Layout.preferredWidth: parent.height
+                            Layout.preferredHeight: parent.height
+
+                            border.width: 1
+                            border.color: "#000000"
+                            color: "#FFFFFF"
 
                             Image {
                                 anchors.centerIn: parent
@@ -150,14 +156,18 @@ Page {
                                 sourceSize.height: 24
                             }
                         }
+                    }
 
-                        MouseArea {
-                            anchors.fill: parent
-                            cursorShape: Qt.PointingHandCursor
+                    MouseArea {
+                        anchors.left: parent.left
+                        anchors.right: parent.right
+                        anchors.bottom: parent.bottom
+                        height: 60
 
-                            onClicked: {
-                                Qt.openUrlExternally("https://youtube.com/watch?v=" + video)
-                            }
+                        cursorShape: Qt.PointingHandCursor
+
+                        onClicked: {
+                            Qt.openUrlExternally("https://youtube.com/watch?v=" + video)
                         }
                     }
                 }
@@ -183,6 +193,7 @@ Page {
 
         Item {
             id: tabExercicios
+            anchors.fill: parent
         }
     }
 }

@@ -70,6 +70,8 @@ Page {
                 }
 
                 RowLayout {
+                    spacing: 0
+
                     Item {
                         width: 40
                         height: 40
