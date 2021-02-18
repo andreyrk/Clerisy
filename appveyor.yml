@@ -19,7 +19,9 @@ build_script:
   - cd ..
 after_build:
   - robocopy build/bin installer/packages/com.andreyrk.studyguide/data /E /IS /IT > null
+  - echo Debug
   - binarycreator -c installer/config/config.xml -p installer/packages Instalador_Clerisy.exe
+  - echo Debug
 deploy:
   provider: GitHub
   description: ''
