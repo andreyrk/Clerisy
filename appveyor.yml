@@ -18,7 +18,7 @@ build_script:
   - cmake --build . --target all
   - cd ..
 after_build:
-  - copy build/bin/* installer/packages/com.andreyrk.studyguide/data
+  - xcopy /E build\bin installer\packages\com.andreyrk.studyguide\data
   - echo Debug
   - binarycreator -c installer/config/config.xml -p installer/packages Instalador_Clerisy.exe
   - echo Debug
