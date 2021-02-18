@@ -7,9 +7,9 @@ skip_non_tags: true
 image:
   - Visual Studio 2019
 install:
-  - set QTDIR=C:/Qt/6.0/msvc2019_64
-  - set QTIFW=C:/Qt/Tools/QtInstallerFramework
-  - set PATH=%PATH%;%QTDIR%/bin;%QTIFW%/bin;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build;%PATH%
+  - set QTDIR=C:\Qt\6.0\msvc2019_64
+  - set QTIFW=C:\Qt\Tools\QtInstallerFramework\4.0
+  - set PATH=%PATH%;%QTDIR%\bin;%QTIFW%\bin;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build;%PATH%
   - vcvars64.bat
 build_script:
   - md build
@@ -18,12 +18,17 @@ build_script:
   - cmake --build . --target all
   - cd ..
 after_build:
-  - robocopy build/bin installer\packages\com.andreyrk.studyguide\data /E /IS /IT
-  - binarycreator -c installer/config/config.xml -p installer/packages Instalador_Clerisy.exe
+  - xcopy /E /i build\bin installer\packages\com.andreyrk.studyguide\data
+  - binarycreator -c installer/config/config.xml -p installer/packages Instalador.exe
+artifacts:
+- path: Instalador.exe
+  name: Instalador
 deploy:
   provider: GitHub
   description: ''
-  artifact: Instalador_Clerisy.exe
+  artifact: Instalador
   on:
     branch: main
-    APPVEYOR_REPO_TAG: true
+    appveyor_repo_tag: true
+  auth_token:
+    secure: 2xi7Sw3N6ixIQyxZMVAhBG8W8/JvSgqtY2F+N2NqPRqdQs8cpatBG27cyls+BGUn
