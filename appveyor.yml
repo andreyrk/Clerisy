@@ -18,7 +18,7 @@ build_script:
   - cmake --build . --target all
   - cd ..
 after_build:
-  - robocopy build/bin installer/packages/com.andreyrk.studyguide/data /E /IS /IT > null
+  - (robocopy build/bin installer/packages/com.andreyrk.studyguide/data /E /IS /IT > null) ^& IF %ERRORLEVEL% LEQ 1 exit 0
   - echo Debug
   - binarycreator -c installer/config/config.xml -p installer/packages Instalador_Clerisy.exe
   - echo Debug
