@@ -8,11 +8,11 @@ image:
   - Visual Studio 2019
 install:
   - set QTDIR=C:\Qt\6.0\msvc2019_64
-  - set QTIFW=C:\Qt\Tools\QtInstallerFramework\3.1
+  - set QTIFW=C:\Qt\Tools\QtInstallerFramework\3.2
   - set PATH=%PATH%;%QTDIR%\bin;%QTIFW%\bin;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build;%PATH%
   - vcvars64.bat
 build_script:
-  - dir "C:\Qt\Tools\QtInstallerFramework"
+  - dir %QTIFW%\..
   - md build
   - cd build
   - cmake .. -GNinja -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=%QTDIR%
