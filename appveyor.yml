@@ -19,13 +19,16 @@ build_script:
   - cd ..
 after_build:
   - xcopy /E /i build\bin installer\packages\com.andreyrk.studyguide\data
-  - binarycreator -c installer/config/config.xml -p installer/packages Instalador_Clerisy.exe
+  - binarycreator -c installer/config/config.xml -p installer/packages Instalador.exe
+artifacts:
+- path: Instalador.exe
+  name: Instalador
 deploy:
   provider: GitHub
   description: ''
-  artifact: Instalador_Clerisy.exe
+  artifact: Instalador
   on:
     branch: main
-    APPVEYOR_REPO_TAG: true
+    appveyor_repo_tag: true
   auth_token:
     secure: 2xi7Sw3N6ixIQyxZMVAhBG8W8/JvSgqtY2F+N2NqPRqdQs8cpatBG27cyls+BGUn
