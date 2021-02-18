@@ -9,13 +9,23 @@
                 {
                     "title": "Teoria dos conjuntos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "0aUEDxYjZg8",
+                        "Wxm3ugnq9Sw",
+                        "c5a99sX-Sq8",
+                        "eZfFpnvudR0"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Conjuntos numéricos e Intervalos reais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "Y_mYgLkuEl4",
+                        "NYAeWhz53NM",
+                        "J4vD5RpOqJY",
+                        "OPACJhL_mLY"
+                    ],
                     "importance": 2
                 }
             ]
@@ -27,13 +37,34 @@
                 {
                     "title": "Progressão aritmética (PA)",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "TC2HcZV3mGo",
+                        "yfmhfoB0kVA",
+                        "dzoloHN076c",
+                        "qoX9HFbYbK4",
+                        "PGDk9ZHPudg",
+                        "vyJGTm6WvdU",
+                        "wPB7riMEUbY",
+                        "XeIohrmZtbA"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Progressão geométrica (PG)",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "Jad_XG9bDCE",
+                        "0rRuhofRVuU",
+                        "6ShsVLOtGQI",
+                        "NM9H8__q4gU",
+                        "Hsp10bhYQEs",
+                        "CDZYMkxv2JA",
+                        "N_EatIhGANo",
+                        "ANwGhVVhs-s",
+                        "W1c4vhQSoVI",
+                        "d0EcswGgJdI",
+                        "SYLtTfrh3w4"
+                    ],
                     "importance": 3
                 }
             ]
@@ -45,49 +76,140 @@
                 {
                     "title": "Teoria geral de funções",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "SPZqQ5qn3P0",
+                        "G3zjNRYbDv8",
+                        "Y1urlgE0lBU",
+                        "iC4q1AGeN5A",
+                        "K7wtLRXGLJw",
+                        "w13aeOGO3ZI",
+                        "xsIMsYRl46M",
+                        "5aLsdGSxCM4",
+                        "8sXnloWAU8s",
+                        "HYvlmUiRpGc",
+                        "OMvGmAB96do",
+                        "057CkKna7kM",
+                        "B8TtvV_vKQc",
+                        "_BLoeOJemOs",
+                        "n2OT5EGEJvE",
+                        "JS9AL_UfZ6s",
+                        "BieXxZ1xL0M",
+                        "rkapkXaTDoE"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Função composta e Função inversa",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "V9yhPL87lGs",
+                        "mytzKEjGM_A",
+                        "k-BPycvaZLA",
+                        "HXAdRVV_SMc",
+                        "C4IxcdO6afw",
+                        "5x-detAH3gk"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Função constante e Função afim",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "hdMFlAv5GkU",
+                        "-EnodYhcQw4",
+                        "yTfNuU2xrrc",
+                        "2KWDWpmDZwQ",
+                        "xDTd2a4NJ40",
+                        "Bs2Ylb4x2V8",
+                        "567sWGTnf5Q",
+                        "PgOLmJ00KPQ",
+                        "5FpSn7-k2sk",
+                        "BU5XJv7bKB0",
+                        "gu_hGWzh_YM",
+                        "9yH6zCAgHmw",
+                        "fOYqWamB_yg",
+                        "9_uRmhvSXFI",
+                        "5YWhXvcJQw4",
+                        "bLz31ohOpxk",
+                        "RBBj7R7SQns",
+                        "LsX-0I5w9UE",
+                        "q1dYyoDKVs4",
+                        "pxkS0gN0gN0",
+                        "HBkSpbVoYW4"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Função do segundo grau (quadrática)",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "dM6U2tiWqBA",
+                        "1cqNdPSB_nY",
+                        "kv1S0khXZLg",
+                        "iAKFxIXT6K8",
+                        "dePo8CJ4uqs",
+                        "1_xHNa6ApZA",
+                        "mdVzgffO7MY",
+                        "J6Qc56TdVTc"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Função exponencial",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "PA8dyyTNykU",
+                        "tg9YIt9_qWk",
+                        "3lR3guqfbUg",
+                        "eqRfD3h2W2s",
+                        "0_r7IKcaXKk",
+                        "rfscaJLsPuI",
+                        "dz0YHryyAQ8"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Propriedades dos logaritmos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "m-N5aAiaM2Y",
+                        "Maio3bg18a4",
+                        "sMUU3vJXBXA",
+                        "Nw7DaHpTxmQ",
+                        "5O6dsrLZTsc",
+                        "24UeL06rrE0",
+                        "QjCWRasz4Uk",
+                        "uWHZI0aSZVc",
+                        "JHZ5fFr44SA"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Função logarítmica",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "P8uxcolt8OQ",
+                        "7alpXiySB5M",
+                        "K5JIdV9EGPE",
+                        "T14-9qBt5MI",
+                        "diR-9lhy-sY",
+                        "Pg_miDhPTBo",
+                        "PxEddevzTew",
+                        "I1jz5xiU7Go"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Função modular",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "iT0KSy08itc",
+                        "73bac86B4qU",
+                        "HUjgLbzvw_g",
+                        "17LRtgz4Q2A",
+                        "pmZdHEsr5LM",
+                        "b9K884tjeO4"
+                    ],
                     "importance": 1
                 }
             ]
@@ -99,7 +221,30 @@
                 {
                     "title": "Matriz e Determinante",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "lZ9onrdpusA",
+                        "k2ssH1Hx9Yg",
+                        "3hTlEWrGtf8",
+                        "PCzXBP-TA-s",
+                        "eCmv6v53V88",
+                        "wfDoPGfo2fE",
+                        "XaZZNxj26qU",
+                        "726AOpEEXrw",
+                        "939xOYVcJ2I",
+                        "3DinmEi5ygQ",
+                        "hKf9KktbvDI",
+                        "iv8YNa_jXMQ",
+                        "mw0mEZ4DBsk",
+                        "uah0mHwCKps",
+                        "40LjiTXFuyY",
+                        "-tdj_vMekdg",
+                        "s958ELGm2ps",
+                        "szDVO_TzWLM",
+                        "F10TdwBH8qc",
+                        "xY02ioZP4kE",
+                        "m3hlfARoobs",
+                        "CNWvpQu1PKg"
+                    ],
                     "importance": 1
                 }
             ]
@@ -111,61 +256,103 @@
                 {
                     "title": "Ângulos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "0CnUdzmpO8E",
+                        "pyb-5syEWdI"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Triângulo equilátero",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "TyyTOvjo3D0",
+                        "3x920GHyF4g",
+                        "OO8NKf_NKJo",
+                        "WZXvZgkiG1w"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Semelhança de triângulos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "LxFlnxS6iMg"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Teorema de Tales",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "MQw2524ZZcU"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Triângulo retângulo: relações métricas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "LDw4QSfWVug",
+                        "f4JBVvr72MQ"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Triângulo retângulo: relações trigonométricas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "MWPXfX8YmOY"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Lei dos senos e dos cossenos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "t6zTP7fU8lA",
+                        "-ChDnLM47xo"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Polígonos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "Fmzr95op6xc",
+                        "lT3BKSR3pmE",
+                        "Z6E1d5O75ek",
+                        "Z6E1d5O75ek",
+                        "jDtFCb2K7f0",
+                        "WbqxVAtoWl0"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Quadriláteros e Hexágonos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "KrFNq-8aP_4",
+                        "ddfkogMMVEc",
+                        "BWWaSz-X6nM",
+                        "p6xYxnH6yPs",
+                        "2IPnbQmO88Y",
+                        "Y5Yq_QJcTEw"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Circunferência e Círculo",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "gojZfbyitrM",
+                        "kIqcsGBKRq0",
+                        "qKyE7Q8rr1I",
+                        "NKEPE99XOkQ",
+                        "JphuTOv_kE8",
+                        "Prj7bgIh3VA",
+                        "oBx4sskFcmI"
+                    ],
                     "importance": 3
                 }
             ]
@@ -177,7 +364,10 @@
                 {
                     "title": "Geometria de posição: Posições relativas e Projeção ortogonal",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "Z-RDx98ugG4",
+                        "toO6S_gbKC4"
+                    ],
                     "importance": 3
                 }
             ]
@@ -189,43 +379,70 @@
                 {
                     "title": "Poliedros",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "v_PQnBk-8Mc",
+                        "EO_DD_2yB_c",
+                        "oLbzYParKtc",
+                        "n4RtMz5_5bY",
+                        "I_7E_Oq0ipw"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Prismas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "QjW6pSH0jVc",
+                        "_sKcgx590J4",
+                        "P8Cw3tafL3s"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Cilindros",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "rpbFsCa7D4E"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Pirâmides e Troncos de pirâmides",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "U2Ip283DZiM",
+                        "UUyX2FlenuI",
+                        "lnQnoZ5-_24"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Cones e Troncos de cones",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "RJSBvqVWHJo",
+                        "QD3I7FbFCPo"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Esferas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "4mEqtfBXrl8",
+                        "YIf2mUNcJjg",
+                        "_QLB4uC0vpw",
+                        "J5nnGEIAudg",
+                        "-zJBbCf7nPY"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Sólidos inscritos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "GxhWrDq32SE"
+                    ],
                     "importance": 2
                 }
             ]
@@ -237,19 +454,43 @@
                 {
                     "title": "Estudo do ponto",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "Hws4tKt5dHk",
+                        "ZJ5Aqwcx9f4",
+                        "VQZC0Irmx6g",
+                        "gHSkOeW1sRc",
+                        "vMK8ehuAZk8",
+                        "UaPAWHTkCBE"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Estudo da reta",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "N4QfzVvgH4Y",
+                        "pRNnguDcR6Y",
+                        "9dhtGUPgekw",
+                        "KjugJ3kIkU0",
+                        "JeLjoqSrBqI",
+                        "c1y5CJQaPdk",
+                        "toO6S_gbKC4",
+                        "P5Fkmldajg4",
+                        "FSfwY1fM4EI",
+                        "UaPAWHTkCBE"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Estudo da circunferência",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "p93CirSoL8A",
+                        "tu81HCPl4mU",
+                        "8187RbQWFas",
+                        "5GNJmo1bMlY",
+                        "9lK6KL9kQmk"
+                    ],
                     "importance": 2
                 }
             ]
@@ -261,31 +502,50 @@
                 {
                     "title": "Princípio Fundamental da Contagem (PFC)",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "a1FtCh6Snm0",
+                        "a0GcRAWcoUY",
+                        "MjMwLY3rUu0",
+                        "uQrfpkkZtjA"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Fatorial",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "WXyZUWAKtws",
+                        "KR4xUGGgYZk"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Arranjo",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "UaTPoG0WDEM"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Permutação simples e Permutação circular",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "lHiMcxLYyds",
+                        "gtQyYF4EmII",
+                        "JiW2Oyjx-CE",
+                        "GSadFgqbLwk",
+                        "AvWsIh1lbag"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Combinação",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "fvPIb7Vtez4",
+                        "sd9-uIlKA80"
+                    ],
                     "importance": 3
                 }
             ]
@@ -297,19 +557,31 @@
                 {
                     "title": "Estatística: Visão geral, Organização e Representação de dados",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "DLOQvKvbBW8",
+                        "TArPqgSSGmg",
+                        "i8dDBLSQc6U"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Estatística: Médias, Medidas de tendência central e de dispersão",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "CG_AGULJJz8",
+                        "rNIEwtT8lbA",
+                        "Iq1TputJKnE",
+                        "Iq1TputJKnE"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Interpretação de gráficos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "8j4ZMn4-nv8",
+                        "P5N_fL1yD6A"
+                    ],
                     "importance": 3
                 }
             ]
@@ -321,25 +593,35 @@
                 {
                     "title": "Probabilidade: Visão geral",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "8g571hUvgeo",
+                        "_AaYS_kTvps",
+                        "U99Rensi0as"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Probabilidade da união de eventos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "QkO3HJgzTrA"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Probabilidade de eventos simultâneos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "VifuLscFmV0"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Probabilidade condicional",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "uo16XTg2CIQ"
+                    ],
                     "importance": 2
                 }
             ]
