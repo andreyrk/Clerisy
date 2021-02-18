@@ -27,4 +27,5 @@ deploy:
   on:
     branch: main
     APPVEYOR_REPO_TAG: true
-  auth_token: 2xi7Sw3N6ixIQyxZMVAhBG8W8/JvSgqtY2F+N2NqPRqdQs8cpatBG27cyls+BGUn
+  auth_token:
+    secure: 2xi7Sw3N6ixIQyxZMVAhBG8W8/JvSgqtY2F+N2NqPRqdQs8cpatBG27cyls+BGUn
