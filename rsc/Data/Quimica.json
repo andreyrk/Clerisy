@@ -9,67 +9,109 @@
                 {
                     "title": "Modelos atômicos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "MtBbVt7eInE",
+                        "pXQyG1m8fPk",
+                        "lDrKIqubzdw",
+                        "XCZyx2IHdxA"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Distribuição eletrônica",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "zYZMuUSIMj8",
+                        "lPeSPYqxQFw",
+                        "d-9u_8yLvuI"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Números quânticos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "9yEkR-i0-zg",
+                        "ANmX2F2_H90",
+                        "-wbmsfThICA"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Classificação periódica",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "X9FLNt3bJ1k",
+                        "yv5168bi1X4",
+                        "TGtw2reBkaU",
+                        "tALz9306I8M"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Propriedades periódicas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "eaGqKb22_7I",
+                        "yF9rwei8qPg"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Ligações químicas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "DJCEuoBQV_M",
+                        "PXHUR3rUR5U",
+                        "8qMZtbiK0KM",
+                        "v1lRSDue_O8",
+                        "UFbuCKUQ9Bg"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Geometria molecular",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "QX2WA7coHZ0"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Hibridização de orbitais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "jo5uCLTaZXE"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Polaridade das ligações e das moléculas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "r9aaNqPGPIU",
+                        "u_NQp9bmQXU"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Forças intermoleculares",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "yJN6a_mPe6A",
+                        "Cl7Su7PesCE",
+                        "d5CLSyeoJDU"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Radioatividade",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "tfOR6rRlbwA",
+                        "Lai11_fs8rM",
+                        "P8tqZrXu9zA"
+                    ],
                     "importance": 3
                 }
             ]
@@ -81,139 +123,236 @@
                 {
                     "title": "Propriedades da matéria",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "AT0oHyV61jo"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Substâncias puras e misturas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "iDcTy55Nia0",
+                        "6ybGRp9DUhA"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Materiais de laboratório",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "WorXRPZqjeI",
+                        "05PhEC3BR8M"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Separação de misturas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "WJOB0iHCFhc",
+                        "8CVKUR2pwBQ",
+                        "DxsCqqLeTHo"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Tratamento da água e do esgoto",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "YKIiDy4hgKc",
+                        "m80HNCrBH70"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Poluição ambiental, Efeito estufa e Chuvas ácidas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "utxzvj61WmI",
+                        "zOgGSHqSRE4",
+                        "p8U2L_nGuf8"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Estudo dos ácidos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "FRSsB-_9An4",
+                        "wNvl_RGOEvQ",
+                        "_cc4pXGgQlY",
+                        "jJ0PfLUBKnQ"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Estudo das bases",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "FzClnCk3QQ8",
+                        "gHYNjKn_gpI",
+                        "X-TYBiZhRPM"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Potencial hidrogeniônico (pH) e Indicadores ácido-base",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "alSvlGOMgfc",
+                        "OMhmYkn_cN0"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Estudo dos sais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "FiPkkIYqy0E",
+                        "FNmpw31UI-E",
+                        "D5JZXsSNFl0",
+                        "TKn780feTFE"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Estudo dos óxidos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "t3xuXIVpqoA",
+                        "ZsUDg9uNpkg",
+                        "TIYXQER1hAg"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Ácidos, bases, sais e óxidos importantes",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "GYz8KjmOVKc",
+                        "QiKt10_zwzM"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Reações inorgânicas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "c9B3PhCWozE",
+                        "uD-ZlZhTM3M"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Grandezas químicas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "RU-6HO-pWZw",
+                        "rYGTH-o9-yg",
+                        "dqG6Wi9KnWw",
+                        "MJZloeYEx0g"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Fórmulas químicas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "3j1oeaBxmFk",
+                        "kBJi5V_pFss"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Balanceamento de reações",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "qjjpmI2MTfA",
+                        "0S7yfvQzYg8",
+                        "lxUl0Hdxu7M"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Leis ponderais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "5uafdMk-C2Q",
+                        "f5GNS-z0V4Y",
+                        "rn025_jZUYQ",
+                        "AEqcj4TdgtA",
+                        "pS6gYu1HLkA",
+                        "lj8yIGefzvI"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Cálculo estequiométrico",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "cQUfUtHpuos",
+                        "W6_yFulL4cs",
+                        "DaERYSAAxY4",
+                        "HPec-nBN110",
+                        "V3ByH6JAqKc",
+                        "gFhvIFxA598",
+                        "Q6M51rLlUCs",
+                        "ljTn_Vh2qm4"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Reagente limitante ou em excesso",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "IOlOxWiehHU",
+                        "DR2g0J85-Hg"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Pureza e Rendimento",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "9394CcOBLEE",
+                        "QSGWNJgjRT0",
+                        "BimVI-eGQrQ",
+                        "UmcZu43LtEw",
+                        "5uuJAlqkExQ",
+                        "Tnq0ytgUE9Q",
+                        "E0nWNZ84Xvc"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Variáveis de estado e Transformações gasosas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "JRSKiKCytkE",
+                        "rMkn_MTt2kE",
+                        "syKxXaDDEYc"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Densidade, Efusão e Difusão de gases",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "jI7jGHqMrA0",
+                        "Gh0SmNEo2bY"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Mistura dos gases",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "weOsXGQ4Mew",
+                        "A1VMBLN281o",
+                        "1mD8RxycMjs",
+                        "UdwoS-VoMrA"
+                    ],
                     "importance": 1
                 }
             ]
@@ -225,19 +364,31 @@
                 {
                     "title": "Entalpia",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "61iYsJLZ9sU",
+                        "WKnT2xCb5E0",
+                        "7xnz612r8pg"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Lei de Hess",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "YoU1GWt0Ga0",
+                        "f7JpT0b-BtM"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Entalpia de Ligação",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "KUPzP4pP8oM",
+                        "PX6ZwndTsiI",
+                        "_UESTvSe4dM",
+                        "dUhO9bkz8qo"
+                    ],
                     "importance": 3
                 }
             ]
@@ -249,25 +400,44 @@
                 {
                     "title": "Soluções: classificação e solubilidade",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "mJWMLfpX6dM",
+                        "NGs7TebsgQw"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Unidades de concentração",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "t-XSbCStpxw",
+                        "59Ci8JRQdiI",
+                        "S1_GxvPAclI",
+                        "xNWOAsQPMjI",
+                        "GCzTILfWFGE",
+                        "Dp-XOYEpIPQ",
+                        "pjoqIbcEjdw",
+                        "bmiwvBObkoc",
+                        "U1c3NgdaBEc",
+                        "4n_t_w2pBoo"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Diluição de soluções",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "YzBZE_7rkoY"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Mistura de soluções",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "esC7PJ3_5VI",
+                        "DereOlXF5qc"
+                    ],
                     "importance": 2
                 }
             ]
@@ -279,7 +449,14 @@
                 {
                     "title": "Propriedades coligativas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "md43B9CkpQ4",
+                        "qPaG3xiPJIg",
+                        "QwBON3gGEBQ",
+                        "Q_nYvxyh42I",
+                        "rvVtxkNBJwQ",
+                        "H8JHIXAeews"
+                    ],
                     "importance": 3
                 }
             ]
@@ -291,7 +468,9 @@
                 {
                     "title": "Coloides",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "ZRkLPNm_T_8"
+                    ],
                     "importance": 2
                 }
             ]
@@ -303,13 +482,22 @@
                 {
                     "title": "Cinética química: Visão geral",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "gjR4WbrOjq4",
+                        "2OPYDqNPqWk",
+                        "l-YI_zjyQ-E",
+                        "9vnradf4erw"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Cinética química: Velocidade média e Lei da velocidade",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "CXk6RmA9hN8",
+                        "PvCRfVhmpTc",
+                        "sjyyRSVkyzM"
+                    ],
                     "importance": 2
                 }
             ]
@@ -321,37 +509,62 @@
                 {
                     "title": "Noções e cálculos de equilíbrio químico",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "VYlMJFBrE1c",
+                        "ffbtEVXRj3k",
+                        "GDyQYW1CGn4",
+                        "KtRYa5QN8jw"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Deslocamento de equilíbrio",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "hay1S4PKLO8",
+                        "GXZJYiSyGVs",
+                        "zdg1Tdw6Y3Y",
+                        "L8I-PUOd8DQ"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Equilíbrio iônico e Produto de Solubilidade (Kps)",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "RTIV8JxPNE8",
+                        "dfYWIYqvJ1E",
+                        "iZUUxLFDGZU",
+                        "Hj8IJ774Xmc",
+                        "OOTq-M-zre4"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Equilíbrio iônico da água, pH e pOH",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "ydsWBNtbDSI"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Hidrólise de sais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "EIq0sdX32r8",
+                        "A2WLLlw_sjs",
+                        "5v_U86Id_zE"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Soluções tampão e Titulação",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "lX0nCZrGfZw",
+                        "yzhi20NadN4"
+                    ],
                     "importance": 1
                 }
             ]
@@ -363,43 +576,61 @@
                 {
                     "title": "Número de oxidação (NOX)",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "_qpteq3XgMI",
+                        "d8sznrZfpjU"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Reações e Balanceamento por oxirredução",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "4VT2LWMhIyE",
+                        "1G1tt4ku50I"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Pilhas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "viGHq4B4Epo",
+                        "k-h9ssv-oow",
+                        "zj27AyJYifo"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Eletrólise ígnea",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "P5DBdFlPPLg"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Eletrólise aquosa",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "4qvdCWb3E_A"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Eletrólise com eletrodos reativos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "TlIwpTZX3F0"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Estequiometria da eletrólise",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "8hBB_iJo33o"
+                    ],
                     "importance": 1
                 }
             ]
@@ -411,13 +642,20 @@
                 {
                     "title": "Introdução à Química Orgânica",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "KdFDd6QMTDo",
+                        "OcMxZl_HaH8"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Classificação das cadeias carbônicas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "6TXGNIXgvgI",
+                        "7sKn8gpGjNA",
+                        "TpL7Q19syVY"
+                    ],
                     "importance": 3
                 }
             ]
@@ -429,13 +667,23 @@
                 {
                     "title": "Hidrocarbonetos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "uQJJTE9sJSg",
+                        "A0b8JZuT7Vw",
+                        "OEcs-iGtxgI",
+                        "ohPi1u_sgjM",
+                        "8gD2vwGW5uE",
+                        "w2yAx84hGDY"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Petróleo",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "V-Z_-HeGE2I",
+                        "obykQpO5nRU"
+                    ],
                     "importance": 3
                 }
             ]
@@ -447,7 +695,15 @@
                 {
                     "title": "Funções oxigenadas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "uz8zYSc9YjY",
+                        "J8NO_nKkibw",
+                        "AP-w7S5KTxA",
+                        "-a9rCkScako",
+                        "3FWE6i2_WtY",
+                        "D-z7wUb3RtE",
+                        "qzhTAcrr8pg"
+                    ],
                     "importance": 3
                 }
             ]
@@ -459,7 +715,13 @@
                 {
                     "title": "Funções nitrogenadas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "m2lv1wrEZ6w",
+                        "O1Z4ENSzEUQ",
+                        "cX6RpCSu2cw",
+                        "FVpKyY9KovE",
+                        "BuTrgrF0FzU"
+                    ],
                     "importance": 2
                 }
             ]
@@ -471,7 +733,13 @@
                 {
                     "title": "Outras funções orgânicas, Funções mistas e Séries orgânicas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "7hLZl1kfFyg",
+                        "2rRuVh3BCKI",
+                        "86CZ1Xzhb4c",
+                        "1TShDRfe9VE",
+                        "B2mJeDrBNSg"
+                    ],
                     "importance": 2
                 }
             ]
@@ -483,7 +751,10 @@
                 {
                     "title": "Propriedades físicas e químicas dos compostos orgânicos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "1fnXRC0T8L8",
+                        "TTAVFplzjSQ"
+                    ],
                     "importance": 3
                 }
             ]
@@ -495,19 +766,36 @@
                 {
                     "title": "Isomeria plana",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "TyFUinQc4uk",
+                        "gVrDzZE_CfU",
+                        "C6yx2TfwswA",
+                        "gSdV_CpfpZA",
+                        "4mAaC7IyrbY",
+                        "1HjM_adHOX4"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Isomeria geométrica (cis-trans)",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "UpuNSbpPi08",
+                        "2RQGdBCUnbY",
+                        "nv5ziUIe-wU"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Isomeria óptica",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "XgDE3oBDoF4",
+                        "RdFnCSUaISQ",
+                        "OrshN9jUmJo",
+                        "qemN1UtPcmw",
+                        "WucPYF9qCaA"
+                    ],
                     "importance": 2
                 }
             ]
@@ -517,34 +805,71 @@
             "type": "topic",
             "content": [
                 {
+                    "title": "Reações orgânicas de adição",
+                    "type": "subtopic",
+                    "videos": [
+                        "D0hauL1ogkA",
+                        "S64KsQKgma8",
+                        "AWCxZGUWtgQ",
+                        "pYQp1rnhDN8",
+                        "iW06doSY4Pk",
+                        "gco8vvykjdM",
+                        "D091QrQsQ1s",
+                        "k0ZxxZNDzj8",
+                        "1nB_cgnNF04",
+                        "A9dgNaNqY6w"
+                    ],
+                    "importance": 1
+                },
+                {
+                    "title": "Esterificação, Transesterificação e Hidrólise",
+                    "type": "subtopic",
+                    "videos": [
+                        "k3wxm-kBsyM",
+                        "3b9qitIAAfA",
+                        "8yyHRIdp7E0"
+                    ],
+                    "importance": 3
+                },
+                {
                     "title": "Reações orgânicas de eliminação",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "D0hauL1ogkA",
+                        "UN9N36ZDPXA",
+                        "3QEIBqC67PU",
+                        "2DkWbdaQN-c",
+                        "7Y0ptIrDGcE",
+                        "MPqezK0JwWs"
+                    ],
+                    "importance": 2
+                },
+                {
+                    "title": "Reações orgânicas de substituição",
+                    "type": "subtopic",
+                    "videos": [
+                        "QCF3UG3ROKc",
+                        "26Q_utM89-c",
+                        "X3NPUZFpvNw",
+                        "Ky8kzrmYWu8",
+                        "xWNhUpM8Fgw",
+                        "7qhUt0dxKMY",
+                        "AOXJbK3y6p4",
+                        "0jDCM4k5PvQ"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Reações orgânicas de oxidação",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "PcQSLhw44PY",
+                        "jqm2eysbPwg",
+                        "Uss_vGTtYQk",
+                        "JWrA6E9wiek",
+                        "0-KcPGq2I0I"
+                    ],
                     "importance": 3
-                },
-                {
-                    "title": "Esterificação, Transesterificação e Hidrólise",
-                    "type": "subtopic",
-                    "videos": [],
-                    "importance": 3
-                },
-                {
-                    "title": "Reações orgânicas de substituição",
-                    "type": "subtopic",
-                    "videos": [],
-                    "importance": 2
-                },
-                {
-                    "title": "Reações orgânicas de adição",
-                    "type": "subtopic",
-                    "videos": [],
-                    "importance": 1
                 }
             ]
         },
@@ -555,7 +880,11 @@
                 {
                     "title": "Polímeros",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "tnbDd3yIh40",
+                        "nTVkriFI87s",
+                        "1KDOo-FFI9U"
+                    ],
                     "importance": 3
                 }
             ]
@@ -567,7 +896,18 @@
                 {
                     "title": "Biomoléculas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "dcZRBhQbbiM",
+                        "cOEAWXKV9SU",
+                        "k81jTEV4fBg",
+                        "gsxilsx5QVs",
+                        "C0AtiAkASyU",
+                        "q__OR5uKJxg",
+                        "TBwmSmIM2qE",
+                        "aSTkudjoxbU",
+                        "Coi9hojY-3Y",
+                        "zUUIxipGYNs"
+                    ],
                     "importance": 3
                 }
             ]
