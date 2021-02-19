@@ -9,31 +9,52 @@
                 {
                     "title": "Orientação e Coordenadas geográficas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "A1KFBoYEFFE",
+                        "KoXjKrLQfv0"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Cartografia: Elementos, Escalas e Convenções",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "TLY0q8sxsa0",
+                        "5bObBFWg0t0",
+                        "P0OxNTnu80w",
+                        "AZGRty29KJ8",
+                        "tR_rXa4BdpE",
+                        "BQlKNrpmhlM"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Projeções cartográficas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "gHHxGepMxlI",
+                        "b-IJoUkYW9g",
+                        "ug4W9X4qBbM"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Fuso horário",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "tFDiM_gWgQ0",
+                        "94szb_O5KkU"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Movimentos da Terra e da Lua",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "bTutNM9mJRM",
+                        "v4M2-5tZQOA",
+                        "2cBkW63JzZw"
+                    ],
                     "importance": 2
                 }
             ]
@@ -45,55 +66,87 @@
                 {
                     "title": "Estrutura interna da Terra e Eras geológicas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "P2_TpkbTSUI",
+                        "Eh3M8uH92pY",
+                        "y0WA1-0MgLM"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Dinâmica das placas tectônicas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "oDeZRW3gya4",
+                        "tUjYpMY_bEg",
+                        "GicW3UpL6Mw"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Dinâmica interna e externa do relevo",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "TG6ndUtyhW8",
+                        "aSWHfd_jcCU",
+                        "gmayTkzxS5U"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Rochas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "VwVBeqIWKqk"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Estruturas geológicas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "bZsCX-R1nwM",
+                        "Gti1dH723wQ"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Relevo brasileiro",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "bZsCX-R1nwM",
+                        "Gti1dH723wQ"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Recursos minerais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "TZ0HIVBsV68",
+                        "Ii2vpjJv1Lc"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Formação e tipos de solo",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "YjULv1hxxZQ",
+                        "Kr44kQgcF98",
+                        "gDAYiBiI1cU"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Recursos hídricos e Bacias hidrográficas do Brasil",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "_Bu_dZw4WWs",
+                        "gZph9ax8Xpg",
+                        "Cuq-6nXtiSE",
+                        "lJQMEH24l9w"
+                    ],
                     "importance": 3
                 }
             ]
@@ -105,25 +158,43 @@
                 {
                     "title": "Atmosfera e Fatores climáticos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "qTJ3sFhul4Y",
+                        "tzx9NEtTiDc",
+                        "XBZWK2N0JSg"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Dinâmica dos ventos e Zonas climáticas da Terra",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "QbnUOHHUwlY",
+                        "oZmYOSKqpyg",
+                        "Ri0FMSEcv-4"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Fenômenos e mudanças climáticas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "JbQxzWBVl1g",
+                        "kej3_SuE08k",
+                        "EQD-i22uTG0",
+                        "cQZSqVYlJPA",
+                        "B2zSWZGJTdc",
+                        "JZKma1QA7WI"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Clima do Brasil",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "zd8R5BLWjyM",
+                        "HM2FDn7aoKw"
+                    ],
                     "importance": 1
                 }
             ]
@@ -135,31 +206,46 @@
                 {
                     "title": "Grandes biomas terrestres",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "ZlB6MZmpKls"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Conferências Internacionais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "2AF1rjwuNqg"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Ecossistemas Brasileiros",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "7PWBEtDFERk",
+                        "PIIK1bR54uw",
+                        "MeMQR8hv88A",
+                        "QZFvpcdMogg",
+                        "7nKagFN85v8"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Problemas ambientais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "AAYv1-uFskk",
+                        "ftQbZYfC38U"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Uso e degradação das formações vegetais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "aVdpCueXMR4"
+                    ],
                     "importance": 3
                 }
             ]
@@ -171,25 +257,39 @@
                 {
                     "title": "Espaço geográfico",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "uWa2WLOveaQ"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Urbanização e Hierarquias urbanas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "7svcoojhegM",
+                        "HPnOeF73atU",
+                        "JhURjqj2te0",
+                        "FwfT-RIqvuI"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Problemas sociais e ambientais urbanos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "WNUBfchLgMA",
+                        "Yb2AzJvTZto",
+                        "Ijxf5vvQgY4"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Urbanização do Brasil",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "6TxINZf2-vU",
+                        "g-DEwpP2xuM"
+                    ],
                     "importance": 2
                 }
             ]
@@ -201,31 +301,48 @@
                 {
                     "title": "Movimentos migratórios",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "hYEsRQfB05k",
+                        "J0pACZMQeak",
+                        "akaHeopBJCo"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Teorias demográficas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "acU-dfwALgk",
+                        "1CmEbiuDvws"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Demografia do Brasil",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "LMrjYNLeaXk",
+                        "9CDtMsfkAuY",
+                        "vzA-8hd_Szs",
+                        "Zt5PnNdeHy0"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Estrutura da população",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "pMYQWJNDWfg"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Fatores do desenvolvimento e Indicadores sociais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "iAh2XDEsTYA",
+                        "DzmDLhA-_2U"
+                    ],
                     "importance": 1
                 }
             ]
@@ -237,37 +354,65 @@
                 {
                     "title": "Região Sul",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "cxnXTw1BQus",
+                        "oKXlsybK29Y",
+                        "hXRk2KL_hs0",
+                        "c_LEvT752sA"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Região Sudeste",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "cxnXTw1BQus",
+                        "lPNiNGiaA5Y",
+                        "sXyVjIGsFOs",
+                        "I7bji6wdSDM",
+                        "9DmqZ-lRpPE"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Região Norte",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "Ngitj0y5ym8",
+                        "aLK8b5hArdM",
+                        "J4RT_0PhQRE",
+                        "PXS39AKJ98M",
+                        "OzsYIHtvC-I"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Região Nordeste",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "QlysAEZohI8",
+                        "mrjv71UaFLw",
+                        "vAq-FWLntgE"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Região Centro-Oeste",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "2OEXWxp82xE",
+                        "cYPBhRwOoz8",
+                        "cxnXTw1BQus",
+                        "jaLkV013UVk"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Complexos regionais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "e8jJbdfw2cw"
+                    ],
                     "importance": 2
                 }
             ]
@@ -279,7 +424,14 @@
                 {
                     "title": "Energias renováveis e não renováveis",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "MDRqtfyyvFc",
+                        "fEijZivtS80",
+                        "D99GKisz9Gg",
+                        "jIk9TOrLbxE",
+                        "Bg5SDf2C_HQ",
+                        "bdgYTLW4ec4"
+                    ],
                     "importance": 1
                 }
             ]
@@ -291,25 +443,42 @@
                 {
                     "title": "Revolução Industrial",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "txhLgXxPZJM",
+                        "BI5XHfjyFaU",
+                        "jTLpqipsw0g"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Modelos produtivos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "KX2JtlM3cR8",
+                        "kev0Dn9ryNo",
+                        "giMSj0VW61s",
+                        "ltI0Qp4V8hQ",
+                        "v4npmZhMTZw"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Classificação das Indústrias",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "a3PHKbOUkyo",
+                        "rghOYydhmDU",
+                        "TvWic7VxEko"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Regiões industriais do Brasil",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "ewxVG5D4LEU",
+                        "I4IJdUDzRXE"
+                    ],
                     "importance": 1
                 }
             ]
@@ -321,13 +490,19 @@
                 {
                     "title": "Transportes",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "4ti3b4-CRyQ",
+                        "SX4uAj0WV0s",
+                        "aZg1nxa1hP8"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Corredores de exportação e Canais internacionais de navegação",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "bDMK9ZfpB4E"
+                    ],
                     "importance": 1
                 }
             ]
@@ -339,13 +514,19 @@
                 {
                     "title": "Globalização e Regionalização",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "Db-RoMb0aeM",
+                        "5STtrQ7M4Xc",
+                        "476cUJY7xbw"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Comércio no Brasil",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "qu3kKadqPmo"
+                    ],
                     "importance": 3
                 }
             ]
@@ -357,19 +538,30 @@
                 {
                     "title": "Sistemas agrícolas",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "HOJ4IaTuG2I",
+                        "DuI5A-quhJg"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Revolução verde, Transgênicos e Agronegócio",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "yTBXvjrmj90",
+                        "sEzClQhcAow",
+                        "GJSLTvgBTVw",
+                        "1OhsVUPKIZc"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Agricultura no Brasil",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "1t13KjJqd-Y",
+                        "DsKcv2cyUFQ"
+                    ],
                     "importance": 2
                 }
             ]
@@ -381,25 +573,46 @@
                 {
                     "title": "Guerra Fria",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "lPiCy2DvqTc",
+                        "A5aPPMkIcDs",
+                        "eJ4sEZwUO_8"
+                    ],
                     "importance": 3
                 },
                 {
                     "title": "Nova ordem mundial",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "1-1z2vT-_HU",
+                        "oSElG3zNtFw"
+                    ],
                     "importance": 2
                 },
                 {
                     "title": "Organizações internacionais",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "t9LzqYkM7dg",
+                        "T69n39bzDeo",
+                        "Nxn5G9ey9RE",
+                        "KXAhkWfYaWY",
+                        "5-LX6y7fODY",
+                        "VKE8I1Ixxrk",
+                        "N_HAOsyqhPo",
+                        "gbK1IoRimOc",
+                        "Ue4sN3VUD9o",
+                        "3Jld8cULyNc"
+                    ],
                     "importance": 1
                 },
                 {
                     "title": "Blocos econômicos",
                     "type": "subtopic",
-                    "videos": [],
+                    "videos": [
+                        "fGEc9exsKwg",
+                        "3G65dQBbTFc"
+                    ],
                     "importance": 2
                 }
             ]
