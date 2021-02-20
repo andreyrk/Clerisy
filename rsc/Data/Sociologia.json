@@ -15,10 +15,11 @@
                         "rf5ARKii0ew",
                         "i2uztouJZBY"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "hfhj9zy5m"
                 }
             ],
-            "id": "z7vpclani"
+            "id": "8d9gu4j4a"
         },
         {
             "title": "Comte e o Positivismo",
@@ -31,10 +32,11 @@
                         "wvkslsfuY4c",
                         "0ki0ySUVaT8"
                     ],
-                    "importance": 2
+                    "importance": 2,
+                    "id": "hml6qib2h"
                 }
             ],
-            "id": "ogeitb0fk"
+            "id": "hhit4dhxx"
         },
         {
             "title": "Émile Durkheim",
@@ -47,10 +49,11 @@
                         "L-A8u46YUss",
                         "2zwXhDCuJgs"
                     ],
-                    "importance": 2
+                    "importance": 2,
+                    "id": "pwrlixxwn"
                 }
             ],
-            "id": "ff7t4d60c"
+            "id": "mej2gr46y"
         },
         {
             "title": "Max Weber",
@@ -65,10 +68,11 @@
                         "Fr1zTZT3a94",
                         "cvis2gsQr5o"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "yjr0jxnja"
                 }
             ],
-            "id": "r50fyjxpt"
+            "id": "tosn25r03"
         },
         {
             "title": "Karl Marx",
@@ -82,10 +86,11 @@
                         "_QQVwDemTQQ",
                         "TOkHZNEpFTk"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "j67xdftsr"
                 }
             ],
-            "id": "or6bbgfmo"
+            "id": "gayv7jnc9"
         },
         {
             "title": "Sociologia no Brasil",
@@ -106,10 +111,11 @@
                         "Z4ZU1fkpaSw",
                         "qzCB7Se_Njg"
                     ],
-                    "importance": 2
+                    "importance": 2,
+                    "id": "ndvo856jj"
                 }
             ],
-            "id": "xn2in9ev3"
+            "id": "7db4glimd"
         },
         {
             "title": "Revolução Industrial e Globalização",
@@ -126,16 +132,18 @@
                         "giMSj0VW61s",
                         "ltI0Qp4V8hQ"
                     ],
-                    "importance": 3
+
+        "importance": 3,
+                    "id": "zcwh25y7b"
                 }
             ],
-            "id": "covoc4yee"
+            "id": "zkxlpr6tw"
         },
         {
             "title": "Estratificação, Classe e Mobilidade social",
             "type": "topic",
             "content": [
-           {
+                {
                     "title": "Estratificação, Classe e Mobilidade social",
                     "type": "subtopic",
                     "videos": [
@@ -143,10 +151,11 @@
                         "40k3qAP-Sh4",
                         "GZ3hdoA9V3I"
                     ],
-                    "importance": 3
+                    "importance": 3,
+                    "id": "ohs5vo00q"
                 }
             ],
-            "id": "k3cm7zjd7"
+            "id": "1ezchmhrc"
         },
         {
             "title": "Poder, Política e Estado",
@@ -161,10 +170,11 @@
                         "Xov8D81xnyo",
                         "90N6xRU58Vo"
                     ],
-                    "importance": 3
+                    "importance": 3,
+                    "id": "n1v1neyli"
                 }
             ],
-            "id": "hg3it0mzt"
+            "id": "yqllg5odh"
         },
         {
             "title": "Direitos, cidadania e movimentos sociais",
@@ -177,10 +187,11 @@
                         "hjGY5RpGebY",
                         "qVKlaY4QoAk"
                     ],
-                    "importance": 3
+                    "importance": 3,
+                    "id": "efhkdkst4"
                 }
             ],
-            "id": "4gujbvwxi"
+            "id": "ysd2b7kiu"
         },
         {
             "title": "Instituições Sociais",
@@ -197,10 +208,11 @@
                         "lvQA384TBAk",
                         "YS2Zxf6S-DQ"
                     ],
-                    "importance": 3
+                    "importance": 3,
+                    "id": "8et9bslrn"
                 }
             ],
-            "id": "qxjjt5j6g"
+            "id": "mr33xsb96"
         },
         {
             "title": "Cultura e Educação",
@@ -219,10 +231,11 @@
                         "ZgsMLUlWINw",
                         "wXF4xO2EE98"
                     ],
-                    "importance": 2
+                    "importance": 2,
+                    "id": "i2atyxkqk"
                 }
             ],
-            "id": "226m55o33"
+            "id": "0o96ygmpp"
         },
         {
             "title": "Sociologia contemporânea",
@@ -236,10 +249,11 @@
                         "J6L0xSxcOiQ",
                         "-PkLsEHE7kU"
                     ],
-                    "importance": 2
+                    "importance": 2,
+                    "id": "htmmfrc9m"
                 }
             ],
-            "id": "tjlipuqkr"
+            "id": "7uyd26kxq"
         }
     ]
 }
