@@ -1,390 +1,434 @@
 {
-    "title": "Português",
-    "type": "subject",
-    "content": [
-        {
-            "title": "Morfologia",
-            "type": "topic",
-            "content": [
+        "title": "Português",
+        "type": "subject",
+        "content": [
                 {
-                    "title": "Classes gramaticais",
-                    "type": "subtopic",
-                    "videos": [
-                        "s8a6eXncWY8",
-                        "8iXiBgCnGv4",
-                        "2d6PW3xp2pA",
-                        "lkxc-hStcuE",
-                        "PQRdgiIutrE",
-                        "cZ3MmXT0uys",
-                        "ocwqxQmGHuU",
-                        "PPKSKYJenkE",
-                        "T8MB4vzTAv4",
-                        "vvXx5hGeqKA",
-                        "eoZ0aEJQACg"
-                    ],
-                    "importance": 1
+                        "title": "Morfologia",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Classes gramaticais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "s8a6eXncWY8",
+                                                "8iXiBgCnGv4",
+                                                "2d6PW3xp2pA",
+                                                "lkxc-hStcuE",
+                                                "PQRdgiIutrE",
+                                                "cZ3MmXT0uys",
+                                                "ocwqxQmGHuU",
+                                                "PPKSKYJenkE",
+                                                "T8MB4vzTAv4",
+                                                "vvXx5hGeqKA",
+                                                "eoZ0aEJQACg"
+                                        ],
+                                        "importance": 1,
+                                        "id": "3uagkvxi8"
+                                },
+                                {
+                                        "title": "Formação de palavras",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "U_nRXQh5L40",
+                                                "98qXxXx51T0"
+                                        ],
+                                        "importance": 1,
+                                        "id": "od320289o"
+                                }
+                        ],
+                        "id": "7a25o596n"
                 },
                 {
-                    "title": "Formação de palavras",
-                    "type": "subtopic",
-                    "videos": [
-                        "U_nRXQh5L40",
-                        "98qXxXx51T0"
-                    ],
-                    "importance": 1
+                        "title": "Pronomes",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Pronomes pessoais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "PQRdgiIutrE"
+                                        ],
+                                        "importance": 1,
+                                        "id": "fc4kyttqt"
+                                },
+                                {
+                                        "title": "Pronomes possessivos, demonstrativos, indefinidos, interrogativos e relativos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "cZ3MmXT0uys",
+                                                "ocwqxQmGHuU"
+                                        ],
+                                        "importance": 1,
+                                        "id": "esdnca2r9"
+                                },
+                                {
+                                        "title": "Colocação pronominal",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "l_WxqVvmyGo",
+                                                "baP8RkBYRNw"
+                                        ],
+                                        "importance": 3,
+                                        "id": "mao9188jc"
+                                }
+                        ],
+                        "id": "6wo9tlfxh"
+                },
+                {
+                        "title": "Acentuação",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Visão geral de acentuação",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Sy_LUnePfRE"
+                                        ],
+                                        "importance": 1,
+                                        "id": "ya4mf9en1"
+                                },
+                                {
+                                        "title": "Crase",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "yUpRa62vcSI",
+                                                "8-5pg3PuY8o",
+                                                "1aoM2HPwFgQ"
+                                        ],
+                                        "importance": 1,
+                                        "id": "h7jij0gnn"
+                                }
+                        ],
+                        "id": "z1dm6g9b8"
+                },
+                {
+                        "title": "Pontuação",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Visão geral de pontuação",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "ODkVN0kRciE",
+                                                "9tdpcfdr244",
+                                                "HwMYC5pFJGo",
+                                                "LQgt2Edt9dE"
+                                        ],
+                                        "importance": 1,
+                                        "id": "itj38ouaj"
+                                },
+                                {
+                                        "title": "Vírgula",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "AM9JjLQzsGE",
+                                                "IEYg_2PyIOE",
+                                                "kTJ0_upUzrc"
+                                        ],
+                                        "importance": 1,
+                                        "id": "oftlq2bla"
+                                }
+                        ],
+                        "id": "rx73fic5o"
+                },
+                {
+                        "title": "Ortografia",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Novo Acordo Ortográfico",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "LhW_Ee3Wkms",
+                                                "2Ou4ApRLj88"
+                                        ],
+                                        "importance": 1,
+                                        "id": "vbk7t48ji"
+                                }
+                        ],
+                        "id": "cerfi652r"
+                },
+                {
+                        "title": "Sintaxe",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Sujeito e Predicado",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "jv2Nucfx-Rk",
+                                                "3uH39VAnAv8"
+                                        ],
+                                        "importance": 2,
+                                        "id": "5cx7oq72h"
+                                },
+                                {
+                                        "title": "Aposto e vocativo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "CFcjJ1cXJEg"
+                                        ],
+                                        "importance": 2,
+                                        "id": "sx4ozz2hh"
+                                },
+                                {
+                                        "title": "Termos ligados ao verbo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "uPoNVpFf4FQ",
+                                                "3uH39VAnAv8",
+                                                "y2haxLgR4BM",
+                                                "Z8S0Bbax5Jo",
+                                                "HsqM3NskCBc",
+                                                "pnHDAdm7toU"
+                                        ],
+                                        "importance": 1,
+                                        "id": "meyxa4r2c"
+                                },
+                                {
+                                        "title": "Termos ligados ao nome",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "bLg5Ug8SBYw",
+                                                "Mg8nF0mCv14"
+                                        ],
+                                        "importance": 1,
+                                        "id": "0gp7igfvg"
+                                },
+                                {
+                                        "title": "Função sintática dos pronomes relativos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "b8_7UxkMb6s"
+                                        ],
+                                        "importance": 1,
+                                        "id": "h8tn7wh1e"
+                                },
+                                {
+                                        "title": "Concordância verbal",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "4ZJnTqTk4_Y",
+                                                "iZ7Ryffdoc0"
+                                        ],
+                                        "importance": 2,
+                                        "id": "igp7tbvsc"
+                                },
+                                {
+                                        "title": "Concordância nominal",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "wtYgEDzjcWM",
+                                                "ISPEMEtMprA",
+                                                "OXIx5oHteG8"
+                                        ],
+                                        "importance": 2,
+                                        "id": "0kvz3nrfu"
+                                },
+                                {
+                                        "title": "Regência",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "B0EgJVneeGE",
+                                                "r4Pew3CliXI",
+                                                "kpzcFU_zNqE"
+                                        ],
+                                        "importance": 1,
+                                        "id": "zufvtcbzq"
+                                }
+                        ],
+                        "id": "3v68zp1xx"
+                },
+                {
+                        "title": "Período composto",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Orações coordenadas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "UbrR7An5ZfY"
+                                        ],
+                                        "importance": 2,
+                                        "id": "ix1wzvcgr"
+                                },
+                                {
+                                        "title": "Orações subordinadas substantivas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "_kzTFOzf-_w"
+                                        ],
+                                        "importance": 2,
+                                        "id": "nfg4zwegk"
+                                },
+                                {
+                                        "title": "Orações subordinadas adjetivas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "HQcPjCQ72bo"
+                                        ],
+                                        "importance": 2,
+                                        "id": "7fvxuzxip"
+                                },
+                                {
+                                        "title": "Orações subordinadas adverbiais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "tCoaqWAaOKk"
+                                        ],
+                                        "importance": 2,
+                                        "id": "nbtz2kubt"
+                                },
+                                {
+                                        "title": "Orações subordinadas reduzidas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "XbJOsY5N0SQ",
+                                                "sLqKYjPIFZ4",
+                                                "0yYccW2lfBI"
+                                        ],
+                                        "importance": 1,
+                                        "id": "fu0ejr3i0"
+                                }
+                        ],
+                        "id": "w7t1lsiqp"
+                },
+                {
+                        "title": "Análise de palavras",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "A palavra QUE",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "nr5HLdP2bWc"
+                                        ],
+                                        "importance": 1,
+                                        "id": "uy7wef579"
+                                },
+                                {
+                                        "title": "A palavra SE",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "tcau9aFmuJ0"
+                                        ],
+                                        "importance": 1,
+                                        "id": "ihpj5g978"
+                                }
+                        ],
+                        "id": "aak4mtag8"
+                },
+                {
+                        "title": "Interpretação Textual",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Fatores de contextualização",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "oSf9UOtjkXU"
+                                        ],
+                                        "importance": 1,
+                                        "id": "pwv4fcknq"
+                                },
+                                {
+                                        "title": "Tipos e Gêneros textuais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "ibwf_X3498c",
+                                                "Ucjv4LT8CSg"
+                                        ],
+                                        "importance": 3,
+                                        "id": "jwmmzgnw0"
+                                },
+                                {
+                                        "title": "O texto dissertativo-argumentativo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "NYlOqcYEvcw"
+                                        ],
+                                        "importance": 1,
+                                        "id": "lzs1otbn2"
+                                },
+                                {
+                                        "title": "Estratégias argumentativas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "VQ2ta0VF4z0",
+                                                "5bHtgXXvdJM",
+                                                "aheSvhcdcqM"
+                                        ],
+                                        "importance": 3,
+                                        "id": "n5udsfgl7"
+                                },
+                                {
+                                        "title": "Inferências",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Dhs1YAIsztw"
+                                        ],
+                                        "importance": 3,
+                                        "id": "bd4ezrunc"
+                                },
+                                {
+                                        "title": "Coesão, coerência e concisão",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "IIU6i3UXyi0",
+                                                "IkO2T0Rqjdc"
+                                        ],
+                                        "importance": 2,
+                                        "id": "vptmwe16l"
+                                },
+                                {
+                                        "title": "Variações linguísticas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "6fBOVygtNoU",
+                                                "G3F7sRfK9FE",
+                                                "dffRZNrhQ7w"
+                                        ],
+                                        "importance": 3,
+                                        "id": "3br3v36e4"
+                                },
+                                {
+                                        "title": "Tecnologias da comunicação e informação",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Ucjv4LT8CSg",
+                                                "VPuEs9gdKTM"
+                                        ],
+                                        "importance": 3,
+                                        "id": "jxr1phbsf"
+                                },
+                                {
+                                        "title": "Charges e Tirinhas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "doaGNbaFFNg",
+                                                "EKOEiCOEt-0",
+                                                "CaUjNENatNY"
+                                        ],
+                                        "importance": 3,
+                                        "id": "ydg8nazas"
+                                },
+                                {
+                                        "title": "Gêneros jornalísticos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "liYbOndd0cA",
+                                                "k9EDaXAWuJw",
+                                                "_S3w9FepIFE",
+                                                "rvZPMj9Iwyc",
+                                                "49IGKUS2uRQ",
+                                                "2XcMASxk4oM",
+                                                "Cw3VZUnCA4E"
+                                        ],
+                                        "importance": 3,
+                                        "id": "34jib5hqh"
+                                }
+                        ],
+                        "id": "oaawiy0r7"
                 }
-            ]
-        },
-        {
-            "title": "Pronomes",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Pronomes pessoais",
-                    "type": "subtopic",
-                    "videos": [
-                        "PQRdgiIutrE"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Pronomes possessivos, demonstrativos, indefinidos, interrogativos e relativos",
-                    "type": "subtopic",
-                    "videos": [
-                        "cZ3MmXT0uys",
-                        "ocwqxQmGHuU"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Colocação pronominal",
-                    "type": "subtopic",
-                    "videos": [
-                        "l_WxqVvmyGo",
-                        "baP8RkBYRNw"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Acentuação",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Visão geral de acentuação",
-                    "type": "subtopic",
-                    "videos": [
-                        "Sy_LUnePfRE"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Crase",
-                    "type": "subtopic",
-                    "videos": [
-                        "yUpRa62vcSI",
-                        "8-5pg3PuY8o",
-                        "1aoM2HPwFgQ"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Pontuação",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Visão geral de pontuação",
-                    "type": "subtopic",
-                    "videos": [
-                        "ODkVN0kRciE",
-                        "9tdpcfdr244",
-                        "HwMYC5pFJGo",
-                        "LQgt2Edt9dE"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Vírgula",
-                    "type": "subtopic",
-                    "videos": [
-                        "AM9JjLQzsGE",
-                        "IEYg_2PyIOE",
-                        "kTJ0_upUzrc"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Ortografia",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Novo Acordo Ortográfico",
-                    "type": "subtopic",
-                    "videos": [
-                        "LhW_Ee3Wkms",
-                        "2Ou4ApRLj88"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Sintaxe",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Sujeito e Predicado",
-                    "type": "subtopic",
-                    "videos": [
-                        "jv2Nucfx-Rk",
-                        "3uH39VAnAv8"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Aposto e vocativo",
-                    "type": "subtopic",
-                    "videos": [
-                        "CFcjJ1cXJEg"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Termos ligados ao verbo",
-                    "type": "subtopic",
-                    "videos": [
-                        "uPoNVpFf4FQ",
-                        "3uH39VAnAv8",
-                        "y2haxLgR4BM",
-                        "Z8S0Bbax5Jo",
-                        "HsqM3NskCBc",
-                        "pnHDAdm7toU"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Termos ligados ao nome",
-                    "type": "subtopic",
-                    "videos": [
-                        "bLg5Ug8SBYw",
-                        "Mg8nF0mCv14"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Função sintática dos pronomes relativos",
-                    "type": "subtopic",
-                    "videos": [
-                        "b8_7UxkMb6s"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Concordância verbal",
-                    "type": "subtopic",
-                    "videos": [
-                        "4ZJnTqTk4_Y",
-                        "iZ7Ryffdoc0"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Concordância nominal",
-                    "type": "subtopic",
-                    "videos": [
-                        "wtYgEDzjcWM",
-                        "ISPEMEtMprA",
-                        "OXIx5oHteG8"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Regência",
-                    "type": "subtopic",
-                    "videos": [
-                        "B0EgJVneeGE",
-                        "r4Pew3CliXI",
-                        "kpzcFU_zNqE"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Período composto",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Orações coordenadas",
-                    "type": "subtopic",
-                    "videos": [
-                        "UbrR7An5ZfY"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Orações subordinadas substantivas",
-                    "type": "subtopic",
-                    "videos": [
-                        "_kzTFOzf-_w"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Orações subordinadas adjetivas",
-                    "type": "subtopic",
-                    "videos": [
-                        "HQcPjCQ72bo"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Orações subordinadas adverbiais",
-                    "type": "subtopic",
-                    "videos": [
-                        "tCoaqWAaOKk"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Orações subordinadas reduzidas",
-                    "type": "subtopic",
-                    "videos": [
-                        "XbJOsY5N0SQ",
-                        "sLqKYjPIFZ4",
-                        "0yYccW2lfBI"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Análise de palavras",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "A palavra QUE",
-                    "type": "subtopic",
-                    "videos": [
-                        "nr5HLdP2bWc"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "A palavra SE",
-                    "type": "subtopic",
-                    "videos": [
-                        "tcau9aFmuJ0"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Interpretação Textual",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Fatores de contextualização",
-                    "type": "subtopic",
-                    "videos": [
-                        "oSf9UOtjkXU"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Tipos e Gêneros textuais",
-                    "type": "subtopic",
-                    "videos": [
-                        "ibwf_X3498c",
-                        "Ucjv4LT8CSg"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "O texto dissertativo-argumentativo",
-                    "type": "subtopic",
-                    "videos": [
-                        "NYlOqcYEvcw"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Estratégias argumentativas",
-                    "type": "subtopic",
-                    "videos": [
-                        "VQ2ta0VF4z0",
-                        "5bHtgXXvdJM",
-                        "aheSvhcdcqM"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Inferências",
-                    "type": "subtopic",
-                    "videos": [
-                        "Dhs1YAIsztw"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Coesão, coerência e concisão",
-                    "type": "subtopic",
-                    "videos": [
-                        "IIU6i3UXyi0",
-                        "IkO2T0Rqjdc"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Variações linguísticas",
-                    "type": "subtopic",
-                    "videos": [
-                        "6fBOVygtNoU",
-                        "G3F7sRfK9FE",
-                        "dffRZNrhQ7w"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Tecnologias da comunicação e informação",
-                    "type": "subtopic",
-                    "videos": [
-                        "Ucjv4LT8CSg",
-                        "VPuEs9gdKTM"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Charges e Tirinhas",
-                    "type": "subtopic",
-                    "videos": [
-                        "doaGNbaFFNg",
-                        "EKOEiCOEt-0",
-                        "CaUjNENatNY"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Gêneros jornalísticos",
-                    "type": "subtopic",
-                    "videos": [
-                        "liYbOndd0cA",
-                        "k9EDaXAWuJw",
-                        "_S3w9FepIFE",
-                        "rvZPMj9Iwyc",
-                        "49IGKUS2uRQ",
-                        "2XcMASxk4oM",
-                        "Cw3VZUnCA4E"
-                    ],
-                    "importance": 3
-                }
-            ]
-        }
-    ]
+        ]
 }
