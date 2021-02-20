@@ -1,1043 +1,1160 @@
 {
-    "title": "Biologia",
-    "type": "subject",
-    "content": [
-        {
-            "title": "Introdução à biologia e método científico",
-            "type": "topic",
-            "content": [
+        "title": "Biologia",
+        "type": "subject",
+        "content": [
                 {
-                    "title": "Introdução à Biologia e Método Científico",
-                    "type": "subtopic",
-                    "videos": [
-                        "eFKBRvEs8lU",
-                        "B_AN9rRdMlw",
-                        "0q16ky-S-48",
-                        "TKPf1TAhmlc"
-                    ],
-                    "importance": 1
+                        "title": "Introdução à biologia e método científico",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Introdução à Biologia e Método Científico",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "eFKBRvEs8lU",
+                                                "B_AN9rRdMlw",
+                                                "0q16ky-S-48",
+                                                "TKPf1TAhmlc"
+                                        ],
+                                        "importance": 1,
+                                        "id": "12d7i2asc"
+                                }
+                        ],
+                        "id": "kbqcl3nz8"
+                },
+                {
+                        "title": "Bioquímica",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Água e Sais Minerais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "f7mZBDlcR-A",
+                                                "qbVcdT5nhfg"
+                                        ],
+                                        "importance": 3,
+                                        "id": "rneeoz6b1"
+                                },
+                                {
+                                        "title": "Carboidratos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "d_GcAjlQshE",
+                                                "1mSIM66hhhU",
+                                                "zEtnX2p7UpM",
+                                                "9KjeGKlunFw"
+                                        ],
+                                        "importance": 2,
+                                        "id": "mxlnt4cp0"
+                                },
+                                {
+                                        "title": "Lipídios e Colesterol",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "7Vkx7buEzyw",
+                                                "u0it7IzIGrc"
+                                        ],
+                                        "importance": 2,
+                                        "id": "qfo64qq6f"
+                                },
+                                {
+                                        "title": "Aminoácidos e Proteínas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "3TCBscfKzxw",
+                                                "rUo7ga20Wyg"
+                                        ],
+                                        "importance": 3,
+                                        "id": "hscfbv3ow"
+                                },
+                                {
+                                        "title": "Enzimas e Anticorpos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "zviUDpPHSdo",
+                                                "oQbFK7CgzEU",
+                                                "Ltu7uYneynk"
+                                        ],
+                                        "importance": 2,
+                                        "id": "1nfcsdqiy"
+                                },
+                                {
+                                        "title": "Vitaminas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "KJxk94LPZPc",
+                                                "-0sPTGY0djw"
+                                        ],
+                                        "importance": 2,
+                                        "id": "vdd1eyf3u"
+                                },
+                                {
+                                        "title": "Ácidos nucleicos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "ii7b3cF7j4o",
+                                                "gY5_EWmrYGU",
+                                                "ufhUY1JaSSk",
+                                                "BkQXUSmi0Wk",
+                                                "TROYY3AKj8M",
+                                                "ywMYH1D8OTc"
+                                        ],
+                                        "importance": 3,
+                                        "id": "kjjyned6p"
+                                }
+                        ],
+                        "id": "tcqltkmhm"
+                },
+                {
+                        "title": "Citologia",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Introdução à citologia e Modelos celulares",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "FGqPZ1EKA2Q",
+                                                "N33jWXzV8RU",
+                                                "C5wehaJMyjE"
+                                        ],
+                                        "importance": 2,
+                                        "id": "bahst487m"
+                                },
+                                {
+                                        "title": "Membrana plasmática: Classificação e Fisiologia",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "yaiEgmOboq0",
+                                                "rXL2mDLDy_0"
+                                        ],
+                                        "importance": 2,
+                                        "id": "1jzj6yger"
+                                },
+                                {
+                                        "title": "Membrana plasmática: Transporte passivo e transporte ativo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "A5_zCY2xkdo",
+                                                "hlVwlPfb0mo",
+                                                "PI-uXlIJXDI",
+                                                "1U-YH0647Ws"
+                                        ],
+                                        "importance": 3,
+                                        "id": "6uneunxn3"
+                                },
+                                {
+                                        "title": "Citoplasma: Visão geral, Citoesqueleto e Ribossomos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "-26zr45146k",
+                                                "M2doyYlMBg4"
+                                        ],
+                                        "importance": 3,
+                                        "id": "kr80s9w8x"
+                                },
+                                {
+                                        "title": "Citoplasma: Retículo endoplasmático e Complexo de Golgi",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "stbfESp7_vA"
+                                        ],
+                                        "importance": 2,
+                                        "id": "9y1lg3rcb"
+                                },
+                                {
+                                        "title": "Citoplasma: Lisossomos, Peroxissomos, Centríolos e Mitocôndrias",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "tePrgaPCIko",
+                                                "bBR_1z0p7wg",
+                                                "Do11VW4k5GM",
+                                                "M2doyYlMBg4",
+                                                "SszZjEcCs1U"
+                                        ],
+                                        "importance": 3,
+                                        "id": "92ipfyomo"
+                                },
+                                {
+                                        "title": "Citoplasma: Plastos, Cloroplastos e Vacúolo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "wbpHo5w56ho",
+                                                "TBEpshmaagE",
+                                                "SrJwf9o8D1k"
+                                        ],
+                                        "importance": 1,
+                                        "id": "0kpi7319m"
+                                }
+                        ],
+                        "id": "9jl3oe622"
+                },
+                {
+                        "title": "Bioenergética",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Fotossíntese e Quimiossíntese",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "SDNc_5qXa0Q",
+                                                "OZ8T-OjEf78",
+                                                "GHYV7DOzFfk"
+                                        ],
+                                        "importance": 3,
+                                        "id": "khx88vxma"
+                                },
+                                {
+                                        "title": "Respiração celular",
+                                        "type": "subtopic",
+                                        "videos"
+: [
+                                                "7WPrpm1ucDw",
+                                                "mZ7dv3UKIGo",
+                                                "CJfCUHqN5k0"
+                                        ],
+                                        "importance": 3,
+                                        "id": "9dkazbdrq"
+                                },
+                                {
+                                        "title": "Fermentação",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "HBzPWeexCno",
+                                                "kSRkYwF1yBo"
+                                        ],
+                                        "importance": 3,
+                                        "id": "y2cnw0snh"
+                                }
+                        ],
+                        "id": "sbwe4ectk"
+                },
+                {
+                        "title": "Citogenética",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Núcleo celular",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "nJr2ixAnisw",
+                                                "4oLfYw7xE3Q"
+                                        ],
+                                        "importance": 3,
+                                        "id": "u0ycv81b0"
+                                },
+                                {
+                                        "title": "Ciclo celular e Etapas da divisão celular",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Xpf6ZZFOqi0",
+                                                "3mjbqFkKINE",
+                                                "BjtlcnXFVvQ"
+                                        ],
+                                        "importance": 3,
+                                        "id": "xv6qxnioc"
+                                },
+                                {
+                                        "title": "Mitose",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "kTMx9njJk4I",
+                                                "zvr7O5tqNiY",
+                                                "oFdqrPcGx9Y"
+                                        ],
+                                        "importance": 3,
+                                        "id": "isjvcmk04"
+                                },
+                                {
+                                        "title": "Meiose",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "vKUjM20RVGE",
+                                                "9dL186flQ2U",
+                                                "ra9jALXMN-g"
+                                        ],
+                                        "importance": 3,
+                                        "id": "3tzy0rj1f"
+                                },
+                                {
+                                        "title": "Gametogênese",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "_8VUjE02XME"
+                                        ],
+                                        "importance": 2,
+                                        "id": "cbbw0wmvj"
+                                },
+                                {
+                                        "title": "Mutações e Anomalias cromossômicas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "1n4NL5xxamE",
+                                                "FSSWA-4SVeg",
+                                                "O1Fn3aJ3ntI",
+                                                "ReG_K23YtpQ"
+                                        ],
+                                        "importance": 2,
+                                        "id": "4d5krksur"
+                                }
+                        ],
+                        "id": "76oyox0ph"
+                },
+                {
+                        "title": "Genética",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Visão geral de Genética e Código genético",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "2rqEmRrtkYc",
+                                                "4R4Q1dcxQVI",
+                                                "RrKZBsIef-U"
+                                        ],
+                                        "importance": 2,
+                                        "id": "klolpa5nc"
+                                },
+                                {
+                                        "title": "Primeira lei de Mendel e Heredogramas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "okoZ9JSJUNs",
+                                                "jf8_SObkeiI",
+                                                "e49JlCCTCJE",
+                                                "sKH3NrzTBCc",
+                                                "8v4OZx6t3Bc"
+                                        ],
+                                        "importance": 3,
+                                        "id": "sdh5h2nos"
+                                },
+                                {
+                                        "title": "Segunda lei de Mendel",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "VWh8vP6azA4",
+                                                "ou282XmgcaQ",
+                                                "HEUHUnGV_uI",
+                                                "BgBOfbc1gIo"
+                                        ],
+                                        "importance": 2,
+                                        "id": "dgzzvxl8a"
+                                },
+                                {
+                                        "title": "Polialelia e Genes letais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "6NPRQMgCZaA",
+                                                "8v4OZx6t3Bc"
+                                        ],
+                                        "importance": 1,
+                                        "id": "7v5r5mwvi"
+                                },
+                                {
+                                        "title": "Interação Gênica",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "uhx8vbhR-yg",
+                                                "08LPYpObAxw",
+                                                "4J1Vbg9i_ro"
+                                        ],
+                                        "importance": 1,
+                                        "id": "njqhn0k9x"
+                                },
+                                {
+                                        "title": "Tipos sanguíneos, Sistema ABO e Fator RH",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "eXPI9ptO0Eg",
+                                                "txaNQbGW35Q",
+                                                "T_psII34_-k",
+                                                "c2seUlqQaog"
+                                        ],
+                                        "importance": 3,
+                                        "id": "0hgljsmil"
+                                },
+                                {
+                                        "title": "Herança sexual",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "iujcgOnooVY",
+                                                "k12MtShI-6k"
+                                        ],
+                                        "importance": 1,
+                                        "id": "jl95vs2wt"
+                                },
+                                {
+                                        "title": "Linkage e mapeamento de genes",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "iLwHBzxUSA0",
+                                                "WrlZoChXqyc",
+                                                "F6XXUuUYyow",
+                                                "4rSb40VDEjU"
+                                        ],
+                                        "importance": 1,
+                                        "id": "l7yntbv9d"
+                                },
+                                {
+                                        "title": "Engenharia genética, genoma e biotecnologia",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "5fQxOgZ_g_0",
+                                                "gEpO_ultTBo",
+                                                "V76X0IFFYI4",
+                                                "XCRLvWFqRcA",
+                                                "sEzClQhcAow"
+                                        ],
+                                        "importance": 3,
+                                        "id": "sj1arxidj"
+                                }
+                        ],
+                        "id": "xpbcgmf2z"
+                },
+                {
+                        "title": "Embriologia",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Fecundação, segmentação ou clivagem",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "IGiFuVulY60",
+                                                "C5WKro0kNEw"
+                                        ],
+                                        "importance": 2,
+                                        "id": "jl5ksj26b"
+                                },
+                                {
+                                        "title": "Gastrulação, Neurulação e Organogênese",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "yNj5az867lI"
+                                        ],
+                                        "importance": 1,
+                                        "id": "94gprog7k"
+                                },
+                                {
+                                        "title": "Anexos embrionários",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "1zEYnpPZRdE"
+                                        ],
+                                        "importance": 1,
+                                        "id": "8ruhf3fl7"
+                                },
+                                {
+                                        "title": "Embriologia humana",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "p4DZ9HrOSeE",
+                                                "_JpwsvyQTRA"
+                                        ],
+                                        "importance": 2,
+                                        "id": "b4cxqun1b"
+                                }
+                        ],
+                        "id": "ua7yi7ypu"
+                },
+                {
+                        "title": "Histologia animal",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Tecido epitelial",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "emucgjvtdw0",
+                                                "J-b2P6kvGNM"
+                                        ],
+                                        "importance": 2,
+                                        "id": "cirvaxz3l"
+                                },
+                                {
+                                        "title": "Tecido conjuntivo propriamente dito",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "G4Q0T3pcaz8",
+                                                "yGvKVuWR7cY"
+                                        ],
+                                        "importance": 2,
+                                        "id": "di5htsrz7"
+                                },
+                                {
+                                        "title": "Tecido adiposo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "jlxIEtQCWWE"
+                                        ],
+                                        "importance": 2,
+                                        "id": "66mp6b600"
+                                },
+                                {
+                                        "title": "Tecido cartilaginoso",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "a7MTQU7N6AM"
+                                        ],
+                                        "importance": 2,
+                                        "id": "gzi1q4kwq"
+                                },
+                                {
+                                        "title": "Tecido ósseo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "nraJccbFWXQ"
+                                        ],
+                                        "importance": 2,
+                                        "id": "cwupqhe3k"
+                                },
+                                {
+                                        "title": "Tecido sanguíneo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "DiKh_hBlrWU",
+                                                "h0mqq3BN7Co"
+                                        ],
+                                        "importance": 3,
+                                        "id": "98hs1z96h"
+                                },
+                                {
+                                        "title": "Tecido hematopoiético",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "dM24OlxCS88"
+                                        ],
+                                        "importance": 1,
+                                        "id": "uq4of32u6"
+                                },
+                                {
+                                        "title": "Tecido muscular",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "rpwNCVp2HRo"
+                                        ],
+                                        "importance": 2,
+                                        "id": "7xd7km5gc"
+                                },
+                                {
+                                        "title": "Tecido nervoso",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Vd9RVSKZoj4",
+                                                "2AnUH5cke8w"
+                                        ],
+                                        "importance": 2,
+                                        "id": "djrce42xh"
+                                }
+                        ],
+                        "id": "gadoekcme"
+                },
+                {
+                        "title": "Fisiologia humana",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Visão geral da fisiologia",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Dck3vDEmcEs",
+                                                "zrf6_UJlK-0"
+                                        ],
+                                        "importance": 2,
+                                        "id": "ac3p16kbd"
+                                },
+                                {
+                                        "title": "Sistema digestório",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "ccxiObyUGRA"
+                                        ],
+                                        "importance": 3,
+                                        "id": "po9k1m4h0"
+                                },
+                                {
+                                        "title": "Sistema respiratório",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "6BAypTlvWQM"
+                                        ],
+                                        "importance": 1,
+                                        "id": "5eenl5zc4"
+                                },
+                                {
+                                        "title": "Sistema cardiovascular",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "SwuPnrZdMzA",
+                                                "4_VfjPwECwY"
+                                        ],
+                                        "importance": 3,
+                                        "id": "isym7vo8a"
+                                },
+                                {
+                                        "title": "Sistemas linfático e imunológico",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "RcmOsoyce9M",
+                                                "lW_pOyMy74w"
+                                        ],
+                                        "importance": 3,
+                                        "id": "ludbn3gf1"
+                                },
+                                {
+                                        "title": "Sistema excretor",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "nOwrE9nzWUc"
+                                        ],
+                                        "importance": 2,
+                                        "id": "x8h518o50"
+                                },
+                                {
+                                        "title": "Sistema endócrino",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "f8dra4Nuxn8"
+                                        ],
+                                        "importance": 2,
+                                        "id": "n0yv53m9r"
+                                },
+                                {
+                                        "title": "Sistema nervoso",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "I-OO-4Dhosw"
+                                        ],
+                                        "importance": 1,
+                                        "id": "77xgthehs"
+                                },
+                                {
+                                        "title": "Sistema sensorial",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "P1mUO6JzSR8",
+                                                "aT8Awh0C1ik"
+                                        ],
+                                        "importance": 1,
+                                        "id": "yjb6s0rot"
+                                },
+                                {
+                                        "title": "Sistema reprodutor",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "yJoNsLA2uu4",
+                                                "DMywZks5o5A"
+                                        ],
+                                        "importance": 1,
+                                        "id": "he4zvzzt3"
+                                },
+                                {
+                                        "title": "Ciclo menstrual",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "DDFJ2sCPh3s",
+                                                "ts0AXpnpGMo"
+                                        ],
+                                        "importance": 2,
+                                        "id": "lp9lcf7mj"
+                                },
+                                {
+                                        "title": "Métodos contraceptivos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "zgGialCVqRw",
+                                                "RJNc_6SGWtk",
+                                                "t9A_7fEr3uE"
+                                        ],
+                                        "importance": 2,
+                                        "id": "736bu46bf"
+                                }
+                        ],
+                        "id": "jvg7mtrd7"
+                },
+                {
+                        "title": "Classificação Biológica",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Classificação Biológica",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "gcrn43B5HK8",
+                                                "eCEOc7J_nqU"
+                                        ],
+                                        "importance": 2,
+                                        "id": "6rvcuwcwb"
+                                }
+                        ],
+                        "id": "cxf9fihtr"
+                },
+                {
+                        "title": "Microbiologia",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Vírus, Príons e Viroses",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "StO7aM4JUzc",
+                                                "55BCWNAVuFw",
+                                                "y9onKICh6Uc"
+                                        ],
+                                        "importance": 3,
+                                        "id": "tc6vdhx46"
+                                },
+                                {
+                                        "title": "Reino Monera e Bacterioses",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "94dH_cu99-I",
+                                                "IK3wXsNl49k",
+                                                "cmJqinVRSb4",
+                                                "4RDcnPjCMJw",
+                                                "twACdjdqVow"
+                                        ],
+                                        "importance": 3,
+                                        "id": "pmu7ogqyl"
+                                },
+                                {
+                                        "title": "Algas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "e_zvM3RhRCE"
+                                        ],
+                                        "importance": 2,
+                                        "id": "zci3fuzzr"
+                                },
+                                {
+                                        "title": "Protozoários e Protozooses",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "u1ijYz37Ssw",
+                                                "yERpugEU6eA"
+                                        ],
+                                        "importance": 3,
+                                        "id": "0cxlmzhug"
+                                },
+                                {
+                                        "title": "Reino Fungi e Micoses",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "ms0V0-MaHeE"
+                                        ],
+                                        "importance": 2,
+                                        "id": "8doib01mt"
+                                }
+                        ],
+                        "id": "jjb5fqica"
+                },
+                {
+                        "title": "Zoologia",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Poríferos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "YSF95Y52aXQ"
+                                        ],
+                                        "importance": 1,
+                                        "id": "3lms7xlsa"
+                                },
+                                {
+                                        "title": "Cnidários",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "o_7pcj4wJL4"
+                                        ],
+                                        "importance": 2,
+                                        "id": "6mwjjp353"
+                                },
+                                {
+                                        "title": "Platelmintos e suas verminoses",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Ep-kTDbCSWY",
+                                                "zPGE16l0zfo",
+                                                "LWa6QmOPZ80"
+                                        ],
+                                        "importance": 2,
+                                        "id": "ueg9flgo0"
+                                },
+                                {
+                                        "title": "Nematelmintos e suas verminoses",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "e1XeoR5Fhts",
+                                                "tFpNLghkvHQ"
+                                        ],
+                                        "importance": 2,
+                                        "id": "qid2kfaj6"
+                                },
+                                {
+                                        "title": "Anelídeos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "BifQ3731tak"
+                                        ],
+                                        "importance": 1,
+                                        "id": "jay5xvyu4"
+                                },
+                                {
+                                        "title": "Artrópodes",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "TVlwv7zRnwQ"
+                                        ],
+                                        "importance": 3,
+                                        "id": "529eb4dyd"
+                                },
+                                {
+                                        "title": "Moluscos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "6ki3B5zDCso"
+                                        ],
+                                        "importance": 1,
+                                        "id": "yqze54b1z"
+                                },
+                                {
+                                        "title": "Equinodermos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "EEvHb-NpGbg"
+                                        ],
+                                        "importance": 2,
+                                        "id": "nra8isx94"
+                                },
+                                {
+                                        "title": "Cordados",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "JtKC6lVP5Dc",
+                                                "D1Uhi12aqWY"
+                                        ],
+                                        "importance": 3,
+                                        "id": "hgz6k78xs"
+                                },
+                                {
+                                        "title": "Peixes",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "WHpd0USoBE4"
+                                        ],
+                                        "importance": 2,
+                                        "id": "v0dbgx138"
+                                },
+                                {
+                                        "title": "Anfíbios",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "5KlKh7zVLG8",
+                                                "XyyTDp0BAgQ"
+                                        ],
+                                        "importance": 3,
+                                        "id": "6xokl2d0s"
+                                },
+                                {
+                                        "title": "Répteis",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "vxlid0SsGLY",
+                                                "TwjBViPTEl4",
+                                                "Z94zenbxjAE"
+                                        ],
+                                        "importance": 1,
+                                        "id": "3zurhxwbq"
+                                },
+                                {
+                                        "title": "Aves",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "ncIY1SI1reY",
+                                                "hTBEGO8dbRw"
+                                        ],
+                                        "importance": 2,
+                                        "id": "pdjuugcx1"
+                                },
+                                {
+                                        "title": "Mamíferos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "XkDC-BFkORw",
+                                                "-h_7CSc21j0"
+                                        ],
+                                        "importance": 1,
+                                        "id": "s9luh1f4t"
+                                }
+                        ],
+                        "id": "fvk0h2b6d"
+                },
+                {
+                        "title": "Botânica",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Introdução à Botânica",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "KQCFWpaCguU"
+                                        ],
+                                        "importance": 3,
+                                        "id": "x5hmze80l"
+                                },
+                                {
+                                        "title": "Ciclo reprodutivo dos vegetais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "2dUtnZFf_-4"
+                                        ],
+                                        "importance": 2,
+                                        "id": "cw75demhj"
+                                },
+                                {
+                                        "title": "Briófitas e Pteridófitas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "k-I7B5nVLP0",
+                                                "MWc0FIcfKWA"
+                                        ],
+                                        "importance": 3,
+                                        "id": "h1946cpre"
+                                },
+                                {
+                                        "title": "Gimnospermas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "3_ObUmmMz7c"
+                                        ],
+                                        "importance": 2,
+                                        "id": "xq1fc1z6v"
+                                },
+                                {
+                                        "title": "Angiospermas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "ZVJbHBqL-68"
+                                        ],
+                                        "importance": 3,
+                                        "id": "sddx88iea"
+                                },
+                                {
+                                        "title": "Morfologia vegetal: Flor, semente e fruto",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "rbbhRvcmV-E",
+                                                "xrLRtqXsWw4",
+                                                "6i2A73y_D54",
+                                                "HnWhnqcFiso",
+                                                "dd7lJQ0bDpg",
+                                                "YJgXf1TgxCY"
+                                        ],
+                                        "importance": 2,
+                                        "id": "6ljmvaopz"
+                                },
+                                {
+                                        "title": "Morfologia vegetal: Raiz, caule e folha",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "wh9_is0_Clw",
+                                                "ib2TCZca94Y",
+                                                "ShElVAh8xm8"
+                                        ],
+                                        "importance": 2,
+                                        "id": "qn5nn71t0"
+                                },
+                                {
+                                        "title": "Histologia vegetal",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "qwkg6si7SPM",
+                                                "BV2RDdrN6P8",
+                                                "WBvWr32CM5Q",
+                                                "oHUdSb0UCDo",
+                                                "dDbzOHamhWM",
+                                                "KFBn-Kc74Dg",
+                                                "op2sza0Jf2I"
+                                        ],
+                                        "importance": 1,
+                                        "id": "537gob9p9"
+                                },
+                                {
+                                        "title": "Fisiologia e Transpiração vegetal",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "5fN5noVVStg",
+                                                "7UzHzLXaRcg",
+                                                "L5u_H27xgpg",
+                                                "zwwA7Citg4Y",
+                                                "EnYIBL8-aAs"
+                                        ],
+                                        "importance": 2,
+                                        "id": "nhrnd2ks8"
+                                },
+                                {
+                                        "title": "Hormônios e Movimentos vegetais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "jOSHPNgeskE",
+                                                "HV9FMwK5SEI",
+                                                "dDNL8sqS_Uo",
+                                                "_BUZdgye6gE",
+                                                "2XfyJ-m7X9s"
+                                        ],
+                                        "importance": 2,
+                                        "id": "f5wjnycri"
+                                }
+                        ],
+                        "id": "zy0ni2rgz"
+                },
+                {
+                        "title": "Evolução",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Origem da vida",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "A7mC6q942Qc"
+                                        ],
+                                        "importance": 2,
+                                        "id": "vfbiiza6f"
+                                },
+                                {
+                                        "title": "Teorias evolutivas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "TQ_ygnfbrIM",
+                                                "piRSx5SvYv8",
+                                                "YRT3h2V4n8k"
+                                        ],
+                                        "importance": 3,
+                                        "id": "dsado3gbs"
+                                },
+                                {
+                                        "title": "Genética das populações e Lei de Hardy-Weinberg",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "4rSb40VDEjU",
+                                                "HbZC2Vyi8EA"
+                                        ],
+                                        "importance": 1,
+                                        "id": "fcili4yn2"
+                                },
+                                {
+                                        "title": "Especiação",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "76iUXt6ioOs"
+                                        ],
+                                        "importance": 2,
+                                        "id": "mk307w0q5"
+                                },
+                                {
+                                        "title": "Evolução dos primatas e humana",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "wQqGWPubiqA",
+                                                "4WO-A_GaA1o"
+                                        ],
+                                        "importance": 3,
+                                        "id": "bs83r6j71"
+                                }
+                        ],
+                        "id": "djkqxuzyf"
+                },
+                {
+                        "title": "Ecologia",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Introdução à ecologia",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "w8zHbA3CSBo"
+                                        ],
+                                        "importance": 3,
+                                        "id": "prlha43s4"
+                                },
+                                {
+                                        "title": "Dinâmica populacional e Potencial biótico",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "D7TCvCyAbEg",
+                                                "kmYcfFLdCIg"
+                                        ],
+                                        "importance": 3,
+                                        "id": "bngygczvo"
+                                },
+                                {
+                                        "title": "Fluxo de energia e Pirâmides ecológicas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Ihp38SxezhM",
+                                                "6V-VOHDJ8jQ"
+                                        ],
+                                        "importance": 3,
+                                        "id": "7s9u4c0dj"
+                                },
+                                {
+                                        "title": "Relações ecológicas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "cpmcIciaIWc",
+                                                "AY7rrPmcH90"
+                                        ],
+                                        "importance": 3,
+                                        "id": "vtyy5k0ic"
+                                },
+                                {
+                                        "title": "Sucessão ecológica",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "RPvTbMyfpok",
+                                                "SfReRM2r_GE"
+                                        ],
+                                        "importance": 2,
+                                        "id": "hn1off9hq"
+                                },
+                                {
+                                        "title": "Ecossistemas e Biomas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "RtCJk4wa50U",
+                                                "VO0z1u7YPxA"
+                                        ],
+                                        "importance": 3,
+                                        "id": "3w4rv41ai"
+                                },
+                                {
+                                        "title": "Desequilíbrios ecológicos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "8UZUECa49Tc",
+                                                "Q6vcRnLrclI",
+                                                "mjKGwtv7JK8",
+                                                "Kra2-har5Ww",
+                                                "LRMFA3eSlxM",
+                                                "mhH3i8DZJjI",
+                                                "Rmzd4OAdwsg"
+                                        ],
+                                        "importance": 3,
+                                        "id": "mliuu3238"
+                                },
+                                {
+                                        "title": "Ciclos biogeoquímicos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "yCwzJiYIm9M",
+                                                "rCuHiRzgQB8",
+                                                "LG48H_6LEDg",
+                                                "tqaSRf3rhgg"
+                                        ],
+                                        "importance": 3,
+                                        "id": "jci7vtpqu"
+                                }
+                        ],
+                        "id": "ul3c38wfm"
                 }
-            ]
-        },
-        {
-            "title": "Bioquímica",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Água e Sais Minerais",
-                    "type": "subtopic",
-                    "videos": [
-                        "f7mZBDlcR-A",
-                        "qbVcdT5nhfg"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Carboidratos",
-                    "type": "subtopic",
-                    "videos": [
-                        "d_GcAjlQshE",
-                        "1mSIM66hhhU",
-                        "zEtnX2p7UpM",
-                        "9KjeGKlunFw"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Lipídios e Colesterol",
-                    "type": "subtopic",
-                    "videos": [
-                        "7Vkx7buEzyw",
-                        "u0it7IzIGrc"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Aminoácidos e Proteínas",
-                    "type": "subtopic",
-                    "videos": [
-                        "3TCBscfKzxw",
-                        "rUo7ga20Wyg"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Enzimas e Anticorpos",
-                    "type": "subtopic",
-                    "videos": [
-                        "zviUDpPHSdo",
-                        "oQbFK7CgzEU",
-                        "Ltu7uYneynk"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Vitaminas",
-                    "type": "subtopic",
-                    "videos": [
-                        "KJxk94LPZPc",
-                        "-0sPTGY0djw"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Ácidos nucleicos",
-                    "type": "subtopic",
-                    "videos": [
-                        "ii7b3cF7j4o",
-                        "gY5_EWmrYGU",
-                        "ufhUY1JaSSk",
-                        "BkQXUSmi0Wk",
-                        "TROYY3AKj8M",
-                        "ywMYH1D8OTc"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Citologia",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Introdução à citologia e Modelos celulares",
-                    "type": "subtopic",
-                    "videos": [
-                        "FGqPZ1EKA2Q",
-                        "N33jWXzV8RU",
-                        "C5wehaJMyjE"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Membrana plasmática: Classificação e Fisiologia",
-                    "type": "subtopic",
-                    "videos": [
-                        "yaiEgmOboq0",
-                        "rXL2mDLDy_0"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Membrana plasmática: Transporte passivo e transporte ativo",
-                    "type": "subtopic",
-                    "videos": [
-                        "A5_zCY2xkdo",
-                        "hlVwlPfb0mo",
-                        "PI-uXlIJXDI",
-                        "1U-YH0647Ws"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Citoplasma: Visão geral, Citoesqueleto e Ribossomos",
-                    "type": "subtopic",
-                    "videos": [
-                        "-26zr45146k",
-                        "M2doyYlMBg4"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Citoplasma: Retículo endoplasmático e Complexo de Golgi",
-                    "type": "subtopic",
-                    "videos": [
-                        "stbfESp7_vA"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Citoplasma: Lisossomos, Peroxissomos, Centríolos e Mitocôndrias",
-                    "type": "subtopic",
-                    "videos": [
-                        "tePrgaPCIko",
-                        "bBR_1z0p7wg",
-                        "Do11VW4k5GM",
-                        "M2doyYlMBg4",
-                        "SszZjEcCs1U"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Citoplasma: Plastos, Cloroplastos e Vacúolo",
-                    "type": "subtopic",
-                    "videos": [
-                        "wbpHo5w56ho",
-                        "TBEpshmaagE",
-                        "SrJwf9o8D1k"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Bioenergética",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Fotossíntese e Quimiossíntese",
-                    "type": "subtopic",
-                    "videos": [
-                        "SDNc_5qXa0Q",
-                        "OZ8T-OjEf78",
-                        "GHYV7DOzFfk"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Respiração celular",
-                    "type": "subtopic",
-                    "videos": [
-                        "7WPrpm1ucDw",
-                        "mZ7dv3UKIGo",
-                        "CJfCUHqN5k0"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Fermentação",
-                    "type": "subtopic",
-                    "videos": [
-                        "HBzPWeexCno",
-                        "kSRkYwF1yBo"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Citogenética",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Núcleo celular",
-                    "type": "subtopic",
-                    "videos": [
-                        "nJr2ixAnisw",
-                        "4oLfYw7xE3Q"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Ciclo celular e Etapas da divisão celular",
-                    "type": "subtopic",
-                    "videos": [
-                        "Xpf6ZZFOqi0",
-                        "3mjbqFkKINE",
-                        "BjtlcnXFVvQ"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Mitose",
-                    "type": "subtopic",
-                    "videos": [
-                        "kTMx9njJk4I",
-                        "zvr7O5tqNiY",
-                        "oFdqrPcGx9Y"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Meiose",
-                    "type": "subtopic",
-                    "videos": [
-                        "vKUjM20RVGE",
-                        "9dL186flQ2U",
-                        "ra9jALXMN-g"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Gametogênese",
-                    "type": "subtopic",
-                    "videos": [
-                        "_8VUjE02XME"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Mutações e Anomalias cromossômicas",
-                    "type": "subtopic",
-                    "videos": [
-                        "1n4NL5xxamE",
-                        "FSSWA-4SVeg",
-                        "O1Fn3aJ3ntI",
-                        "ReG_K23YtpQ"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Genética",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Visão geral de Genética e Código genético",
-                    "type": "subtopic",
-                    "videos": [
-                        "2rqEmRrtkYc",
-                        "4R4Q1dcxQVI",
-                        "RrKZBsIef-U"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Primeira lei de Mendel e Heredogramas",
-                    "type": "subtopic",
-                    "videos": [
-                        "okoZ9JSJUNs",
-                        "jf8_SObkeiI",
-                        "e49JlCCTCJE",
-                        "sKH3NrzTBCc",
-                        "8v4OZx6t3Bc"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Segunda lei de Mendel",
-                    "type": "subtopic",
-                    "videos": [
-                        "VWh8vP6azA4",
-                        "ou282XmgcaQ",
-                        "HEUHUnGV_uI",
-                        "BgBOfbc1gIo"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Polialelia e Genes letais",
-                    "type": "subtopic",
-                    "videos": [
-                        "6NPRQMgCZaA",
-                        "8v4OZx6t3Bc"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Interação Gênica",
-                    "type": "subtopic",
-                    "videos": [
-                        "uhx8vbhR-yg",
-                        "08LPYpObAxw",
-                        "4J1Vbg9i_ro"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Tipos sanguíneos, Sistema ABO e Fator RH",
-                    "type": "subtopic",
-                    "videos": [
-                        "eXPI9ptO0Eg",
-                        "txaNQbGW35Q",
-                        "T_psII34_-k",
-                        "c2seUlqQaog"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Herança sexual",
-                    "type": "subtopic",
-                    "videos": [
-                        "iujcgOnooVY",
-                        "k12MtShI-6k"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Linkage e mapeamento de genes",
-                    "type": "subtopic",
-                    "videos": [
-                        "iLwHBzxUSA0",
-                        "WrlZoChXqyc",
-                        "F6XXUuUYyow",
-                        "4rSb40VDEjU"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Engenharia genética, genoma e biotecnologia",
-                    "type": "subtopic",
-                    "videos": [
-                        "5fQxOgZ_g_0",
-                        "gEpO_ultTBo",
-                        "V76X0IFFYI4",
-                        "XCRLvWFqRcA",
-                        "sEzClQhcAow"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Embriologia",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Fecundação, segmentação ou clivagem",
-                    "type": "subtopic",
-                    "videos": [
-                        "IGiFuVulY60",
-                        "C5WKro0kNEw"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Gastrulação, Neurulação e Organogênese",
-                    "type": "subtopic",
-                    "videos": [
-                        "yNj5az867lI"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Anexos embrionários",
-                    "type": "subtopic",
-                    "videos": [
-                        "1zEYnpPZRdE"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Embriologia humana",
-                    "type": "subtopic",
-                    "videos": [
-                        "p4DZ9HrOSeE",
-                        "_JpwsvyQTRA"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Histologia animal",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Tecido epitelial",
-                    "type": "subtopic",
-                    "videos": [
-                        "emucgjvtdw0",
-                        "J-b2P6kvGNM"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Tecido conjuntivo propriamente dito",
-                    "type": "subtopic",
-                    "videos": [
-                        "G4Q0T3pcaz8",
-                        "yGvKVuWR7cY"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Tecido adiposo",
-                    "type": "subtopic",
-                    "videos": [
-                        "jlxIEtQCWWE"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Tecido cartilaginoso",
-                    "type": "subtopic",
-                    "videos": [
-                        "a7MTQU7N6AM"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Tecido ósseo",
-                    "type": "subtopic",
-                    "videos": [
-                        "nraJccbFWXQ"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Tecido sanguíneo",
-                    "type": "subtopic",
-                    "videos": [
-                        "DiKh_hBlrWU",
-                        "h0mqq3BN7Co"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Tecido hematopoiético",
-                    "type": "subtopic",
-                    "videos": [
-                        "dM24OlxCS88"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Tecido muscular",
-                    "type": "subtopic",
-                    "videos": [
-                        "rpwNCVp2HRo"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Tecido nervoso",
-                    "type": "subtopic",
-                    "videos": [
-                        "Vd9RVSKZoj4",
-                        "2AnUH5cke8w"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Fisiologia humana",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Visão geral da fisiologia",
-                    "type": "subtopic",
-                    "videos": [
-                        "Dck3vDEmcEs",
-                        "zrf6_UJlK-0"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Sistema digestório",
-                    "type": "subtopic",
-                    "videos": [
-                        "ccxiObyUGRA"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Sistema respiratório",
-                    "type": "subtopic",
-                    "videos": [
-                        "6BAypTlvWQM"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Sistema cardiovascular",
-                    "type": "subtopic",
-                    "videos": [
-                        "SwuPnrZdMzA",
-                        "4_VfjPwECwY"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Sistemas linfático e imunológico",
-                    "type": "subtopic",
-                    "videos": [
-                        "RcmOsoyce9M",
-                        "lW_pOyMy74w"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Sistema excretor",
-                    "type": "subtopic",
-                    "videos": [
-                        "nOwrE9nzWUc"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Sistema endócrino",
-                    "type": "subtopic",
-                    "videos": [
-                        "f8dra4Nuxn8"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Sistema nervoso",
-                    "type": "subtopic",
-                    "videos": [
-                        "I-OO-4Dhosw"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Sistema sensorial",
-                    "type": "subtopic",
-                    "videos": [
-                        "P1mUO6JzSR8",
-                        "aT8Awh0C1ik"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Sistema reprodutor",
-                    "type": "subtopic",
-                    "videos": [
-                        "yJoNsLA2uu4",
-                        "DMywZks5o5A"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Ciclo menstrual",
-                    "type": "subtopic",
-                    "videos": [
-                        "DDFJ2sCPh3s",
-                        "ts0AXpnpGMo"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Métodos contraceptivos",
-                    "type": "subtopic",
-                    "videos": [
-                        "zgGialCVqRw",
-                        "RJNc_6SGWtk",
-                        "t9A_7fEr3uE"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Classificação Biológica",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Classificação Biológica",
-                    "type": "subtopic",
-                    "videos": [
-                        "gcrn43B5HK8",
-                        "eCEOc7J_nqU"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Microbiologia",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Vírus, Príons e Viroses",
-                    "type": "subtopic",
-                    "videos": [
-                        "StO7aM4JUzc",
-                        "55BCWNAVuFw",
-                        "y9onKICh6Uc"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Reino Monera e Bacterioses",
-                    "type": "subtopic",
-                    "videos": [
-                        "94dH_cu99-I",
-                        "IK3wXsNl49k",
-                        "cmJqinVRSb4",
-                        "4RDcnPjCMJw",
-                        "twACdjdqVow"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Algas",
-                    "type": "subtopic",
-                    "videos": [
-                        "e_zvM3RhRCE"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Protozoários e Protozooses",
-                    "type": "subtopic",
-                    "videos": [
-                        "u1ijYz37Ssw",
-                        "yERpugEU6eA"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Reino Fungi e Micoses",
-                    "type": "subtopic",
-                    "videos": [
-                        "ms0V0-MaHeE"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Zoologia",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Poríferos",
-                    "type": "subtopic",
-                    "videos": [
-                        "YSF95Y52aXQ"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Cnidários",
-                    "type": "subtopic",
-                    "videos": [
-                        "o_7pcj4wJL4"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Platelmintos e suas verminoses",
-                    "type": "subtopic",
-                    "videos": [
-                        "Ep-kTDbCSWY",
-                        "zPGE16l0zfo",
-                        "LWa6QmOPZ80"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Nematelmintos e suas verminoses",
-                    "type": "subtopic",
-                    "videos": [
-                        "e1XeoR5Fhts",
-                        "tFpNLghkvHQ"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Anelídeos",
-                    "type": "subtopic",
-                    "videos": [
-                        "BifQ3731tak"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Artrópodes",
-                    "type": "subtopic",
-                    "videos": [
-                        "TVlwv7zRnwQ"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Moluscos",
-                    "type": "subtopic",
-                    "videos": [
-                        "6ki3B5zDCso"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Equinodermos",
-                    "type": "subtopic",
-                    "videos": [
-                        "EEvHb-NpGbg"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Cordados",
-                    "type": "subtopic",
-                    "videos": [
-                        "JtKC6lVP5Dc",
-                        "D1Uhi12aqWY"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Peixes",
-                    "type": "subtopic",
-                    "videos": [
-                        "WHpd0USoBE4"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Anfíbios",
-                    "type": "subtopic",
-                    "videos": [
-                        "5KlKh7zVLG8",
-                        "XyyTDp0BAgQ"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Répteis",
-                    "type": "subtopic",
-                    "videos": [
-                        "vxlid0SsGLY",
-                        "TwjBViPTEl4",
-                        "Z94zenbxjAE"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Aves",
-                    "type": "subtopic",
-                    "videos": [
-                        "ncIY1SI1reY",
-                        "hTBEGO8dbRw"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Mamíferos",
-                    "type": "subtopic",
-                    "videos": [
-                        "XkDC-BFkORw",
-                        "-h_7CSc21j0"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Botânica",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Introdução à Botânica",
-                    "type": "subtopic",
-                    "videos": [
-                        "KQCFWpaCguU"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Ciclo reprodutivo dos vegetais",
-                    "type": "subtopic",
-                    "videos": [
-                        "2dUtnZFf_-4"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Briófitas e Pteridófitas",
-                    "type": "subtopic",
-                    "videos": [
-                        "k-I7B5nVLP0",
-                        "MWc0FIcfKWA"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Gimnospermas",
-                    "type": "subtopic",
-                    "videos": [
-                        "3_ObUmmMz7c"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Angiospermas",
-                    "type": "subtopic",
-                    "videos": [
-                        "ZVJbHBqL-68"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Morfologia vegetal: Flor, semente e fruto",
-                    "type": "subtopic",
-                    "videos": [
-                        "rbbhRvcmV-E",
-                        "xrLRtqXsWw4",
-                        "6i2A73y_D54",
-                        "HnWhnqcFiso",
-                        "dd7lJQ0bDpg",
-                        "YJgXf1TgxCY"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Morfologia vegetal: Raiz, caule e folha",
-                    "type": "subtopic",
-                    "videos": [
-                        "wh9_is0_Clw",
-                        "ib2TCZca94Y",
-                        "ShElVAh8xm8"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Histologia vegetal",
-                    "type": "subtopic",
-                    "videos": [
-                        "qwkg6si7SPM",
-                        "BV2RDdrN6P8",
-                        "WBvWr32CM5Q",
-                        "oHUdSb0UCDo",
-                        "dDbzOHamhWM",
-                        "KFBn-Kc74Dg",
-                        "op2sza0Jf2I"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Fisiologia e Transpiração vegetal",
-                    "type": "subtopic",
-                    "videos": [
-                        "5fN5noVVStg",
-                        "7UzHzLXaRcg",
-                        "L5u_H27xgpg",
-                        "zwwA7Citg4Y",
-                        "EnYIBL8-aAs"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Hormônios e Movimentos vegetais",
-                    "type": "subtopic",
-                    "videos": [
-                        "jOSHPNgeskE",
-                        "HV9FMwK5SEI",
-                        "dDNL8sqS_Uo",
-                        "_BUZdgye6gE",
-                        "2XfyJ-m7X9s"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Evolução",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Origem da vida",
-                    "type": "subtopic",
-                    "videos": [
-                        "A7mC6q942Qc"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Teorias evolutivas",
-                    "type": "subtopic",
-                    "videos": [
-                        "TQ_ygnfbrIM",
-                        "piRSx5SvYv8",
-                        "YRT3h2V4n8k"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Genética das populações e Lei de Hardy-Weinberg",
-                    "type": "subtopic",
-                    "videos": [
-                        "4rSb40VDEjU",
-                        "HbZC2Vyi8EA"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Especiação",
-                    "type": "subtopic",
-                    "videos": [
-                        "76iUXt6ioOs"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Evolução dos primatas e humana",
-                    "type": "subtopic",
-                    "videos": [
-                        "wQqGWPubiqA",
-                        "4WO-A_GaA1o"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Ecologia",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Introdução à ecologia",
-                    "type": "subtopic",
-                    "videos": [
-                        "w8zHbA3CSBo"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Dinâmica populacional e Potencial biótico",
-                    "type": "subtopic",
-                    "videos": [
-                        "D7TCvCyAbEg",
-                        "kmYcfFLdCIg"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Fluxo de energia e Pirâmides ecológicas",
-                    "type": "subtopic",
-                    "videos": [
-                        "Ihp38SxezhM",
-                        "6V-VOHDJ8jQ"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Relações ecológicas",
-                    "type": "subtopic",
-                    "videos": [
-                        "cpmcIciaIWc",
-                        "AY7rrPmcH90"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Sucessão ecológica",
-                    "type": "subtopic",
-                    "videos": [
-                        "RPvTbMyfpok",
-                        "SfReRM2r_GE"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Ecossistemas e Biomas",
-                    "type": "subtopic",
-                    "videos": [
-                        "RtCJk4wa50U",
-                        "VO0z1u7YPxA"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Desequilíbrios ecológicos",
-                    "type": "subtopic",
-                    "videos": [
-                        "8UZUECa49Tc",
-                        "Q6vcRnLrclI",
-                        "mjKGwtv7JK8",
-                        "Kra2-har5Ww",
-                        "LRMFA3eSlxM",
-                        "mhH3i8DZJjI",
-                        "Rmzd4OAdwsg"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Ciclos biogeoquímicos",
-                    "type": "subtopic",
-                    "videos": [
-                        "yCwzJiYIm9M",
-                        "rCuHiRzgQB8",
-                        "LG48H_6LEDg",
-                        "tqaSRf3rhgg"
-                    ],
-                    "importance": 3
-                }
-            ]
-        }
-    ]
+        ]
 }
