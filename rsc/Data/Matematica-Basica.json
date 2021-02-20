@@ -1,264 +1,293 @@
 {
-    "title": "Matemática Básica",
-    "type": "subject",
-    "content": [
-        {
-            "title": "Operações básicas",
-            "type": "topic",
-            "content": [
+        "title": "Matemática Básica",
+        "type": "subject",
+        "content": [
                 {
-                    "title": "As quatro operações e expressões numéricas",
-                    "type": "subtopic",
-                    "videos": [
-                        "ObDVNlbQdm4",
-                        "XlzDK_zamZw",
-                        "e78_5WIssSU",
-                        "BhDm2qGy780",
-                        "0UGJRHq2PS4",
-                        "PN0cASQhkhk"
-                    ],
-                    "importance": 3
+                        "title": "Operações básicas",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "As quatro operações e expressões numéricas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "ObDVNlbQdm4",
+                                                "XlzDK_zamZw",
+                                                "e78_5WIssSU",
+                                                "BhDm2qGy780",
+                                                "0UGJRHq2PS4",
+                                                "PN0cASQhkhk"
+                                        ],
+                                        "importance": 3,
+                                        "id": "ojorvhv3r"
+                                },
+                                {
+                                        "title": "Frações e dízimas periódicas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "YJyY6A_MOQc",
+                                                "SgJpB78R7x0",
+                                                "d9GBEzzCuRg",
+                                                "IImqH5D29Uo"
+                                        ],
+                                        "importance": 3,
+                                        "id": "j0ttijmxt"
+                                },
+                                {
+                                        "title": "Sistemas de numeração e sistema métrico",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "VBUD3CzsEH0",
+                                                "Jf0sA3wBqXE",
+                                                "epFmO0M8gDk"
+                                        ],
+                                        "importance": 3,
+                                        "id": "aqsqehvbm"
+                                }
+                        ],
+                        "id": "rifmp1y3w"
                 },
                 {
-                    "title": "Frações e dízimas periódicas",
-                    "type": "subtopic",
-                    "videos": [
-                        "YJyY6A_MOQc",
-                        "SgJpB78R7x0",
-                        "d9GBEzzCuRg",
-                        "IImqH5D29Uo"
-                    ],
-                    "importance": 3
+                        "title": "Raciocínio lógico",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Raciocínio lógico",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "PltqUuwR9ec",
+                                                "i8jbzEWEOYk",
+                                                "QfDOFq9VmYc",
+                                                "KGAOeHyWefY",
+                                                "CkwaHNNXtv8",
+                                                "h_TMnWbI9pg",
+                                                "0sDKO4U9UtY",
+                                                "Xy8sCcEF-2s",
+                                                "cBlwBpWKMCw",
+                                                "bOTuY_3usik",
+                                                "AKtk0mICfyY",
+                                                "t6TL9RGZ_4U",
+                                                "McK-ahOry-0",
+                                                "vaWCsFUAVWM"
+                                        ],
+                                        "importance": 3,
+                                        "id": "prssl831c"
+                                }
+                        ],
+                        "id": "3ncl7t61d"
                 },
                 {
-                    "title": "Sistemas de numeração e sistema métrico",
-                    "type": "subtopic",
-                    "videos": [
-                        "VBUD3CzsEH0",
-                        "Jf0sA3wBqXE",
-                        "epFmO0M8gDk"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Raciocínio lógico",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Raciocínio lógico",
-                    "type": "subtopic",
-                    "videos": [
-                        "PltqUuwR9ec",
-                        "i8jbzEWEOYk",
-                        "QfDOFq9VmYc",
-                        "KGAOeHyWefY",
-                        "CkwaHNNXtv8",
-                        "h_TMnWbI9pg",
-                        "0sDKO4U9UtY",
-                        "Xy8sCcEF-2s",
-                        "cBlwBpWKMCw",
-                        "bOTuY_3usik",
-                        "AKtk0mICfyY",
-                        "t6TL9RGZ_4U",
-                        "McK-ahOry-0",
-                        "vaWCsFUAVWM"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Potenciação e notação científica",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Potenciação",
-                    "type": "subtopic",
-                    "videos": [
-                        "4Vfw1XiHTpM",
-                        "9EjqfNoVbY8",
-                        "gzNVmoge5OM",
-                        "zH43mX3ryTI"
-                    ],
-                    "importance": 1
+                        "title": "Potenciação e notação científica",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Potenciação",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "4Vfw1XiHTpM",
+                                                "9EjqfNoVbY8",
+                                                "gzNVmoge5OM",
+                                                "zH43mX3ryTI"
+                                        ],
+                                        "importance": 1,
+                                        "id": "6n1e9y8f6"
+                                },
+                                {
+                                        "title": "Notação científica",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "GPTxrh_mhow",
+                                                "sFqWN34zTaw"
+                                        ],
+                                        "importance": 2,
+                                        "id": "2u6zcf48n"
+                                }
+                        ],
+                        "id": "dgkzybhkk"
                 },
                 {
-                    "title": "Notação científica",
-                    "type": "subtopic",
-                    "videos": [
-                        "GPTxrh_mhow",
-                        "sFqWN34zTaw"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Radiciação e racionalização de denomidadores",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Radiciação e racionalização de denomidadores",
-                    "type": "subtopic",
-                    "videos": [
-                        "QmIjZgKhAEo",
-                        "04nnroZrmgg",
-                        "RwPis6vr3Fo"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Produtos notáveis e fatoração",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Produtos notáveis e fatoração",
-                    "type": "subtopic",
-                    "videos": [
-                        "_3YQvVKbqn0",
-                        "3amBZupsIdc",
-                        "Z5G3aDjNPeY"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Equações e sistemas do primeiro grau",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Equações e sistemas do primeiro grau",
-                    "type": "subtopic",
-                    "videos": [
-                        "Tu08PYjt-2Q",
-                        "oT4k6bhB4Dk",
-                        "DmN535Y2PGw"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Equações do segundo grau e equações biquadradas",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Equações do segundo grau e equações biquadradas",
-                    "type": "subtopic",
-                    "videos": [
-                        "toAaUBwitFE",
-                        "qYQllsg8ka8",
-                        "YEaQDJeADTg"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Múltiplos e Divisores",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Critérios de divisibilidade e números primos",
-                    "type": "subtopic",
-                    "videos": [
-                        "6YnChMLDcos",
-                        "MrHhUUnOtPc",
-                        "kjg8a41wwjQ"
-                    ],
-                    "importance": 2
+                        "title": "Radiciação e racionalização de denomidadores",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Radiciação e racionalização de denomidadores",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "QmIjZgKhAEo",
+                                                "04nnroZrmgg",
+                                                "RwPis6vr3Fo"
+                                        ],
+                                        "importance": 2,
+                                        "id": "iiapzvmrt"
+                                }
+                        ],
+                        "id": "784fpfwm9"
                 },
                 {
-                    "title": "MMC e MDC",
-                    "type": "subtopic",
-                    "videos": [
-                        "QCMUMufcK5M",
-                        "NWtwEm8M2qw",
-                        "LoiM5d7Kors"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Razão e proporção",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Razão e proporção",
-                    "type": "subtopic",
-                    "videos": [
-                        "uIulBEk8gcM",
-                        "6Dsta1eZ1BA",
-                        "I-fPlExG5y4",
-                        "BhPKDHA6kds"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Regra de 3 e escalas",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Regra de 3 e escalas",
-                    "type": "subtopic",
-                    "videos": [
-                        "alLifth7gxE",
-                        "buYey1YGJhA",
-                        "qrix-SCMvjA",
-                        "0_9yCXj83so",
-                        "StovbnDFCio",
-                        "UYOwXqhMd4w"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Porcentagem",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Porcentagem",
-                    "type": "subtopic",
-                    "videos": [
-                        "CERiIwParX4",
-                        "Nifqays8Auo"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Juros simples e compostos",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Juros simples",
-                    "type": "subtopic",
-                    "videos": [
-                        "N27xZJj1m-4",
-                        "yOQtPB4ZnBI"
-                    ],
-                    "importance": 3
+                        "title": "Produtos notáveis e fatoração",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Produtos notáveis e fatoração",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "_3YQvVKbqn0",
+                                                "3amBZupsIdc",
+                                                "Z5G3aDjNPeY"
+                                        ],
+                                        "importance": 2,
+                                        "id": "slzwc7ydr"
+                                }
+                        ],
+                        "id": "346oy14pn"
                 },
                 {
-                    "title": "Juros compostos",
-                    "type": "subtopic",
-                    "videos": [
-                        "790S9GR5bWU",
-                        "5kJIxd8MEkQ"
-                    ],
-                    "importance": 3
+                        "title": "Equações e sistemas do primeiro grau",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Equações e sistemas do primeiro grau",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Tu08PYjt-2Q",
+                                                "oT4k6bhB4Dk",
+                                                "DmN535Y2PGw"
+                                        ],
+                                        "importance": 3,
+                                        "id": "kj9ej84qc"
+                                }
+                        ],
+                        "id": "xzv0vexxd"
+                },
+                {
+                        "title": "Equações do segundo grau e equações biquadradas",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Equações do segundo grau e equações biquadradas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "toAaUBwitFE",
+                                                "qYQllsg8ka8",
+                                                "YEaQDJeADTg"
+                                        ],
+                                        "importance": 2,
+                                        "id": "r1uanhv2q"
+                                }
+                        ],
+                        "id": "rnienso0p"
+                },
+                {
+                        "title": "Múltiplos e Divisores",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Critérios de divisibilidade e números primos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "6YnChMLDcos",
+                                                "MrHhUUnOtPc",
+                                                "kjg8a41wwjQ"
+                                        ],
+                                        "importance": 2,
+                                        "id": "x8of677z3"
+                                },
+                                {
+                                        "title": "MMC e MDC",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "QCMUMufcK5M",
+                                                "NWtwEm8M2qw",
+                                                "LoiM5d7Kors"
+                                        ],
+                                        "importance": 2,
+                                        "id": "hsl4rne73"
+                                }
+                        ],
+                        "id": "cu0x6h4qd"
+                },
+                {
+                        "title": "Razão e proporção",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Razão e proporção",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "uIulBEk8gcM",
+                                                "6Dsta1eZ1BA",
+                                                "I-fPlExG5y4",
+                                                "BhPKDHA6kds"
+                                        ],
+                                        "importance": 3,
+                                        "id": "7zlgtzbtu"
+                                }
+                        ],
+                        "id": "sjo0u62se"
+                },
+                {
+                        "title": "Regra de 3 e escalas",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Regra de 3 e escalas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "alLifth7gxE",
+                                                "buYey1YGJhA",
+                                                "qrix-SCMvjA",
+                                                "0_9yCXj83so",
+                                                "StovbnDFCio",
+                                                "UYOwXqhMd4w"
+                                        ],
+                                        "importance": 3,
+                                        "id": "90vwgz32b"
+                                }
+                        ],
+                        "id": "fje1ycj3d"
+                },
+                {
+                        "title": "Porcentagem",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Porcentagem",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "CERiIwParX4",
+                                                "Nifqays8Auo"
+                                        ],
+                                        "importance": 3,
+                                        "id": "3y41p0793"
+                                }
+                        ],
+                        "id": "vj4fj9z1l"
+                },
+                {
+                        "title": "Juros simples e compostos",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Juros simples",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "N27xZJj1m-4",
+                                                "yOQtPB4ZnBI"
+                                        ],
+                                        "importance": 3,
+                                        "id": "1ywujnra0"
+                                },
+                                {
+                                        "title": "Juros compostos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "790S9GR5bWU",
+                                                "5kJIxd8MEkQ"
+                                        ],
+                                        "importance": 3,
+                                        "id": "bjzxjtvah"
+                                }
+                        ],
+                        "id": "qre5obg0u"
                 }
-            ]
-        }
-    ]
+        ]
 }
