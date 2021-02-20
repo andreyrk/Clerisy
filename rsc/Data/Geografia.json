@@ -1,621 +1,688 @@
 {
-    "title": "Geografia",
-    "type": "subject",
-    "content": [
-        {
-            "title": "Cartografia",
-            "type": "topic",
-            "content": [
+        "title": "Geografia",
+        "type": "subject",
+        "content": [
                 {
-                    "title": "Orientação e Coordenadas geográficas",
-                    "type": "subtopic",
-                    "videos": [
-                        "A1KFBoYEFFE",
-                        "KoXjKrLQfv0"
-                    ],
-                    "importance": 3
+                        "title": "Cartografia",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Orientação e Coordenadas geográficas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "A1KFBoYEFFE",
+                                                "KoXjKrLQfv0"
+                                        ],
+                                        "importance": 3,
+                                        "id": "r0w9hcadz"
+                                },
+                                {
+                                        "title": "Cartografia: Elementos, Escalas e Convenções",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "TLY0q8sxsa0",
+                                                "5bObBFWg0t0",
+                                                "P0OxNTnu80w",
+                                                "AZGRty29KJ8",
+                                                "tR_rXa4BdpE",
+                                                "BQlKNrpmhlM"
+                                        ],
+                                        "importance": 2,
+                                        "id": "f1qfufkun"
+                                },
+                                {
+                                        "title": "Projeções cartográficas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "gHHxGepMxlI",
+                                                "b-IJoUkYW9g",
+                                                "ug4W9X4qBbM"
+                                        ],
+                                        "importance": 2,
+                                        "id": "wcp8ug0wq"
+                                },
+                                {
+                                        "title": "Fuso horário",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "tFDiM_gWgQ0",
+                                                "94szb_O5KkU"
+                                        ],
+                                        "importance": 3,
+                                        "id": "pnjohptyy"
+                                },
+                                {
+                                        "title": "Movimentos da Terra e da Lua",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "bTutNM9mJRM",
+                                                "v4M2-5tZQOA",
+                                                "2cBkW63JzZw"
+                                        ],
+                                        "importance": 2,
+                                        "id": "0kuxrpemd"
+                                }
+                        ],
+                        "id": "vykxa23gh"
                 },
                 {
-                    "title": "Cartografia: Elementos, Escalas e Convenções",
-                    "type": "subtopic",
-                    "videos": [
-                        "TLY0q8sxsa0",
-                        "5bObBFWg0t0",
-                        "P0OxNTnu80w",
-                        "AZGRty29KJ8",
-                        "tR_rXa4BdpE",
-                        "BQlKNrpmhlM"
-                    ],
-                    "importance": 2
+                        "title": "Geomorfologia, solos e minérios",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Estrutura interna da Terra e Eras geológicas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "P2_TpkbTSUI",
+                                                "Eh3M8uH92pY",
+                                                "y0WA1-0MgLM"
+                                        ],
+                                        "importance": 2,
+                                        "id": "9yc0f7ms2"
+                                },
+                                {
+                                        "title": "Dinâmica das placas tectônicas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "oDeZRW3gya4",
+                                                "tUjYpMY_bEg",
+                                                "GicW3UpL6Mw"
+                                        ],
+                                        "importance": 1,
+                                        "id": "8d9h2087u"
+                                },
+                                {
+                                        "title": "Dinâmica interna e externa do relevo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "TG6ndUtyhW8",
+                                                "aSWHfd_jcCU",
+                                                "gmayTkzxS5U"
+                                        ],
+                                        "importance": 3,
+                                        "id": "bu3pgb7hm"
+                                },
+                                {
+                                        "title": "Rochas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "VwVBeqIWKqk"
+                                        ],
+                                        "importance": 1,
+                                        "id": "clrpwclrg"
+                                },
+                                {
+                                        "title": "Estruturas geológicas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "bZsCX-R1nwM",
+                                                "Gti1dH723wQ"
+                                        ],
+                                        "importance": 2,
+                                        "id": "2te7ivsjo"
+                                },
+                                {
+                                        "title": "Relevo brasileiro",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "bZsCX-R1nwM",
+                                                "Gti1dH723wQ"
+                                        ],
+                                        "importance": 1,
+                                        "id": "ieb7gwtv6"
+                                },
+                                {
+                                        "title": "Recursos minerais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "TZ0HIVBsV68",
+                                                "Ii2vpjJv1Lc"
+                                        ],
+                                        "importance": 3,
+                                        "id": "ckbolftgq"
+                                },
+                                {
+                                        "title": "Formação e tipos de solo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "YjULv1hxxZQ",
+                                                "Kr44kQgcF98",
+                                                "gDAYiBiI1cU"
+                                        ],
+                                        "importance": 1,
+                                        "id": "6pp2up84t"
+                                },
+                                {
+                                        "title": "Recursos hídricos e Bacias hidrográficas do Brasil",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "_Bu_dZw4WWs",
+                                                "gZph9ax8Xpg",
+                                                "Cuq-6nXtiSE",
+                                                "lJQMEH24l9w"
+                                        ],
+                                        "importance": 3,
+                                        "id": "ay3urywmu"
+                                }
+                        ],
+                        "id": "yvjj616hb"
                 },
                 {
-                    "title": "Projeções cartográficas",
-                    "type": "subtopic",
-                    "videos": [
-                        "gHHxGepMxlI",
-                        "b-IJoUkYW9g",
-                        "ug4W9X4qBbM"
-                    ],
-                    "importance": 2
+                        "title": "Climatologia",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Atmosfera e Fatores climáticos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "qTJ3sFhul4Y",
+                                                "tzx9NEtTiDc",
+                                                "XBZWK2N0JSg"
+                                        ],
+                                        "importance": 3,
+                                        "id": "ksvs1sirs"
+                                },
+                                {
+                                        "title": "Dinâmica dos ventos e Zonas climáticas da Terra",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "QbnUOHHUwlY",
+                                                "oZmYOSKqpyg",
+                                                "Ri0FMSEcv-4"
+                                        ],
+                                        "importance": 1,
+                                        "id": "bwg70olff"
+                                },
+                                {
+                                        "title": "Fenômenos e mudanças climáticas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "JbQxzWBVl1g",
+                                                "kej3_SuE08k",
+                                                "EQD-i22uTG0",
+                                                "cQZSqVYlJPA",
+                                                "B2zSWZGJTdc",
+                                                "JZKma1QA7WI"
+                                        ],
+                                        "importance": 2,
+                                        "id": "ivw8gplb1"
+                                },
+                                {
+                                        "title": "Clima do Brasil",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "zd8R5BLWjyM",
+                                                "HM2FDn7aoKw"
+                                        ],
+                                        "importance": 1,
+                                        "id": "aej15fpkd"
+                                }
+                        ],
+                        "id": "6jx7zovhs"
                 },
                 {
-                    "title": "Fuso horário",
-                    "type": "subtopic",
-                    "videos": [
-                        "tFDiM_gWgQ0",
-                        "94szb_O5KkU"
-                    ],
-                    "importance": 3
+                        "title": "Meio ambiente",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Grandes biomas terrestres",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "ZlB6MZmpKls"
+                                        ],
+                                        "importance": 2,
+                                        "id": "zrn9j4ohg"
+                                },
+                                {
+                                        "title": "Conferências Internacionais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "2AF1rjwuNqg"
+                                        ],
+                                        "importance": 2,
+                                        "id": "8xy5v3qy1"
+                                },
+                                {
+                                        "title": "Ecossistemas Brasileiros",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "7PWBEtDFERk",
+                                                "PIIK1bR54uw",
+                                                "MeMQR8hv88A",
+                                                "QZFvpcdMogg",
+                                                "7nKagFN85v8"
+                                        ],
+                                        "importance": 2,
+                                        "id": "d4j44lu0e"
+                                },
+                                {
+                                        "title": "Problemas ambientais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "AAYv1-uFskk",
+                                                "ftQbZYfC38U"
+                                        ],
+                                        "importance": 2,
+                                        "id": "fwt7yukpu"
+                                },
+                                {
+                                        "title": "Uso e degradação das formações vegetais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "aVdpCueXMR4"
+                                        ],
+                                        "importance": 3,
+                                        "id": "f41qvjck6"
+                                }
+                        ],
+                        "id": "epck783jh"
                 },
                 {
-                    "title": "Movimentos da Terra e da Lua",
-                    "type": "subtopic",
-                    "videos": [
-                        "bTutNM9mJRM",
-                        "v4M2-5tZQOA",
-                        "2cBkW63JzZw"
-                    ],
-                    "importance": 2
+                        "title": "Espaço urbano",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Espaço geográfico",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "uWa2WLOveaQ"
+                                        ],
+                                        "importance": 3,
+                                        "id": "dnw3cezjq"
+                                },
+                                {
+                                        "title": "Urbanização e Hierarquias urbanas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "7svcoojhegM",
+                                                "HPnOeF73atU",
+                                                "JhURjqj2te0",
+                                                "FwfT-RIqvuI"
+                                        ],
+                                        "importance": 3,
+                                        "id": "fbr1tgfx5"
+                                },
+                                {
+                                        "title": "Problemas sociais e ambientais urbanos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "WNUBfchLgMA",
+                                                "Yb2AzJvTZto",
+                                                "Ijxf5vvQgY4"
+                                        ],
+                                        "importance": 2,
+                                        "id": "d9h0ler6e"
+                                },
+                                {
+                                        "title": "Urbanização do Brasil",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "6TxINZf2-vU",
+                                                "g-DEwpP2xuM"
+                                        ],
+                                        "importance": 2,
+                                        "id": "lz24su9kt"
+                                }
+                        ],
+                        "id": "ykj0fczze"
+                },
+                {
+                        "title": "Dinâmica demográfica e Qualidade de vida",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Movimentos migratórios",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "hYEsRQfB05k",
+                                                "J0pACZMQeak",
+                                                "akaHeopBJCo"
+                                        ],
+                                        "importance": 3,
+                                        "id": "j1r4ijr7u"
+                                },
+                                {
+                                        "title": "Teorias demográficas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "acU-dfwALgk",
+                                                "1CmEbiuDvws"
+                                        ],
+                                        "importance": 2,
+                                        "id": "10eqfgbhi"
+                                },
+                                {
+                                        "title": "Demografia do Brasil",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "LMrjYNLeaXk",
+                                                "9CDtMsfkAuY",
+                                                "vzA-8hd_Szs",
+                                                "Zt5PnNdeHy0"
+                                        ],
+                                        "importance": 3,
+                                        "id": "q5e52sezp"
+                                },
+                                {
+                                        "title": "Estrutura da população",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "pMYQWJNDWfg"
+                                        ],
+                                        "importance": 3,
+                                        "id": "un4l4gcif"
+                                },
+                                {
+                                        "title": "Fatores do desenvolvimento e Indicadores sociais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "iAh2XDEsTYA",
+                                                "DzmDLhA-_2U"
+                                        ],
+                                        "importance": 1,
+                                        "id": "pkm1cbo6t"
+                                }
+                        ],
+                        "id": "g7u8sgymu"
+                },
+                {
+                        "title": "Regionalização do espaço brasileiro",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Região Sul",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "cxnXTw1BQus",
+                                                "oKXlsybK29Y",
+                                                "hXRk2KL_hs0",
+                                                "c_LEvT752sA"
+                                        ],
+                                        "importance": 1,
+                                        "id": "ggartms45"
+                                },
+                                {
+                                        "title": "Região Sudeste",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "cxnXTw1BQus",
+                                                "lPNiNGiaA5Y",
+                                                "sXyVjIGsFOs",
+                                                "I7bji6wdSDM",
+                                                "9DmqZ-lRpPE"
+                                        ],
+                                        "importance": 1,
+                                        "id": "b6nvugulj"
+                                },
+                                {
+                                        "title": "Região Norte",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Ngitj0y5ym8",
+                                                "aLK8b5hArdM",
+                                                "J4RT_0PhQRE",
+                                                "PXS39AKJ98M",
+                                                "OzsYIHtvC-I"
+                                        ],
+                                        "importance": 3,
+                                        "id": "2cz29az63"
+                                },
+                                {
+                                        "title": "Região Nordeste",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "QlysAEZohI8",
+                                                "mrjv71UaFLw",
+                                                "vAq-FWLntgE"
+                                        ],
+                                        "importance": 2,
+                                        "id": "xss7kwqx0"
+                                },
+                                {
+                                        "title": "Região Centro-Oeste",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "2OEXWxp82xE",
+                                                "cYPBhRwOoz8",
+                                                "cxnXTw1BQus",
+                                                "jaLkV013UVk"
+                                        ],
+                                        "importance": 2,
+                                        "id": "6fz70v5i5"
+                                },
+                                {
+                                        "title": "Complexos regionais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "e8jJbdfw2cw"
+                                        ],
+                                        "importance": 2,
+                                        "id": "icppej54j"
+                                }
+                        ],
+                        "id": "6np4mnoso"
+                },
+                {
+                        "title": "Recursos Energéticos",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Energias renováveis e não renováveis",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "MDRqtfyyvFc",
+                                                "fEijZivtS80",
+                                                "D99GKisz9Gg",
+                                                "jIk9TOrLbxE",
+                                                "Bg5SDf2C_HQ",
+                                                "bdgYTLW4ec4"
+                                        ],
+                                        "importance": 1,
+                                        "id": "lcwa58nwq"
+                                }
+                        ],
+                        "id": "g9ax5e2yz"
+                },
+                {
+                        "title": "Indústria",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Revolução Industrial",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "txhLgXxPZJM",
+                                                "BI5XHfjyFaU",
+                                                "jTLpqipsw0g"
+                                        ],
+                                        "importance": 3,
+                                        "id": "orwrj5sjo"
+                                },
+                                {
+                                        "title": "Modelos produtivos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "KX2JtlM3cR8",
+                                                "kev0Dn9ryNo",
+                                                "giMSj0VW61s",
+                                                "ltI0Qp4V8hQ",
+                                                "v4npmZhMTZw"
+                                        ],
+                                        "importance": 1,
+                                        "id": "8pnf2kvym"
+                                },
+                                {
+                                        "title": "Classificação das Indústrias",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "a3PHKbOUkyo",
+                                                "rghOYydhmDU",
+                                                "TvWic7VxEko"
+                                        ],
+                                        "importance": 2,
+                                        "id": "7iden15en"
+                                },
+                                {
+                                        "title": "Regiões industriais do Brasil",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "ewxVG5D4LEU",
+                                                "I4IJdUDzRXE"
+                                        ],
+                                        "importance": 1,
+                                        "id": "ftb2d5gc0"
+                                }
+                        ],
+                        "id": "l8yv9ds7h"
+                },
+                {
+                        "title": "Transportes",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Transportes",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "4ti3b4-CRyQ",
+                                                "SX4uAj0WV0s",
+                                                "aZg1nxa1hP8"
+                                        ],
+                                        "importance": 3,
+                                        "id": "3n630utyv"
+                                },
+                                {
+                                        "title": "Corredores de exportação e Canais internacionais de navegação",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "bDMK9ZfpB4E"
+                                        ],
+                                        "importance": 1,
+                                        "id": "me68kgrhq"
+                                }
+                        ],
+                        "id": "ruxbq91ng"
+                },
+                {
+                        "title": "Comércio",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Globalização e Regionalização",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Db-RoMb0aeM",
+                                                "5STtrQ7M4Xc",
+                                                "476cUJY7xbw"
+                                        ],
+                                        "importance": 3,
+                                        "id": "cdiqkluy7"
+                                },
+                                {
+                                        "title": "Comércio no Brasil",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "qu3kKadqPmo"
+                                        ],
+                                        "importance": 3,
+                                        "id": "947qsb0ay"
+                                }
+                        ],
+                        "id": "by28rikeg"
+                },
+                {
+                        "title": "Agropecuária",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Sistemas agrícolas",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "HOJ4IaTuG2I",
+                                                "DuI5A-quhJg"
+                                        ],
+                                        "importance": 3,
+                                        "id": "q740a42ov"
+                                },
+                                {
+                                        "title": "Revolução verde, Transgênicos e Agronegócio",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "yTBXvjrmj90",
+                                                "sEzClQhcAow",
+                                                "GJSLTvgBTVw",
+                                                "1OhsVUPKIZc"
+                                        ],
+                                        "importance": 3,
+                                        "id": "uhy8eyyl5"
+                                },
+                                {
+                                        "title": "Agricultura no Brasil",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "1t13KjJqd-Y",
+                                                "DsKcv2cyUFQ"
+                                        ],
+                                        "importance": 2,
+                                        "id": "5o5zinsi5"
+                                }
+                        ],
+                        "id": "b0u0avim6"
+                },
+                {
+                        "title": "Geopolítica",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Guerra Fria",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "lPiCy2DvqTc",
+                                                "A5aPPMkIcDs",
+                                                "eJ4sEZwUO_8"
+                                        ],
+                                        "importance": 3,
+                                        "id": "v5t5l40sg"
+                                },
+                                {
+                                        "title": "Nova ordem mundial",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "1-1z2vT-_HU",
+                                                "oSElG3zNtFw"
+                                        ],
+                                        "importance": 2,
+                                        "id": "qdklr4em2"
+                                },
+                                {
+                                        "title": "Organizações internacionais",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "t9LzqYkM7dg",
+                                                "T69n39bzDeo",
+                                                "Nxn5G9ey9RE",
+                                                "KXAhkWfYaWY",
+                                                "5-LX6y7fODY",
+                                                "VKE8I1Ixxrk",
+                                                "N_HAOsyqhPo",
+                                                "gbK1IoRimOc",
+                                                "Ue4sN3VUD9o",
+                                                "3Jld8cULyNc"
+                                        ],
+                                        "importance": 1,
+                                        "id": "tfspidczp"
+                                },
+                                {
+                                        "title": "Blocos econômicos",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "fGEc9exsKwg",
+                                                "3G65dQBbTFc"
+                                        ],
+                                        "importance": 2,
+                                        "id": "3rdawenbd"
+                                }
+                        ],
+                        "id": "o5n78i9zx"
                 }
-            ]
-        },
-        {
-            "title": "Geomorfologia, solos e minérios",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Estrutura interna da Terra e Eras geológicas",
-                    "type": "subtopic",
-                    "videos": [
-                        "P2_TpkbTSUI",
-                        "Eh3M8uH92pY",
-                        "y0WA1-0MgLM"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Dinâmica das placas tectônicas",
-                    "type": "subtopic",
-                    "videos": [
-                        "oDeZRW3gya4",
-                        "tUjYpMY_bEg",
-                        "GicW3UpL6Mw"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Dinâmica interna e externa do relevo",
-                    "type": "subtopic",
-                    "videos": [
-                        "TG6ndUtyhW8",
-                        "aSWHfd_jcCU",
-                        "gmayTkzxS5U"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Rochas",
-                    "type": "subtopic",
-                    "videos": [
-                        "VwVBeqIWKqk"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Estruturas geológicas",
-                    "type": "subtopic",
-                    "videos": [
-                        "bZsCX-R1nwM",
-                        "Gti1dH723wQ"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Relevo brasileiro",
-                    "type": "subtopic",
-                    "videos": [
-                        "bZsCX-R1nwM",
-                        "Gti1dH723wQ"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Recursos minerais",
-                    "type": "subtopic",
-                    "videos": [
-                        "TZ0HIVBsV68",
-                        "Ii2vpjJv1Lc"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Formação e tipos de solo",
-                    "type": "subtopic",
-                    "videos": [
-                        "YjULv1hxxZQ",
-                        "Kr44kQgcF98",
-                        "gDAYiBiI1cU"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Recursos hídricos e Bacias hidrográficas do Brasil",
-                    "type": "subtopic",
-                    "videos": [
-                        "_Bu_dZw4WWs",
-                        "gZph9ax8Xpg",
-                        "Cuq-6nXtiSE",
-                        "lJQMEH24l9w"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Climatologia",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Atmosfera e Fatores climáticos",
-                    "type": "subtopic",
-                    "videos": [
-                        "qTJ3sFhul4Y",
-                        "tzx9NEtTiDc",
-                        "XBZWK2N0JSg"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Dinâmica dos ventos e Zonas climáticas da Terra",
-                    "type": "subtopic",
-                    "videos": [
-                        "QbnUOHHUwlY",
-                        "oZmYOSKqpyg",
-                        "Ri0FMSEcv-4"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Fenômenos e mudanças climáticas",
-                    "type": "subtopic",
-                    "videos": [
-                        "JbQxzWBVl1g",
-                        "kej3_SuE08k",
-                        "EQD-i22uTG0",
-                        "cQZSqVYlJPA",
-                        "B2zSWZGJTdc",
-                        "JZKma1QA7WI"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Clima do Brasil",
-                    "type": "subtopic",
-                    "videos": [
-                        "zd8R5BLWjyM",
-                        "HM2FDn7aoKw"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Meio ambiente",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Grandes biomas terrestres",
-                    "type": "subtopic",
-                    "videos": [
-                        "ZlB6MZmpKls"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Conferências Internacionais",
-                    "type": "subtopic",
-                    "videos": [
-                        "2AF1rjwuNqg"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Ecossistemas Brasileiros",
-                    "type": "subtopic",
-                    "videos": [
-                        "7PWBEtDFERk",
-                        "PIIK1bR54uw",
-                        "MeMQR8hv88A",
-                        "QZFvpcdMogg",
-                        "7nKagFN85v8"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Problemas ambientais",
-                    "type": "subtopic",
-                    "videos": [
-                        "AAYv1-uFskk",
-                        "ftQbZYfC38U"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Uso e degradação das formações vegetais",
-                    "type": "subtopic",
-                    "videos": [
-                        "aVdpCueXMR4"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Espaço urbano",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Espaço geográfico",
-                    "type": "subtopic",
-                    "videos": [
-                        "uWa2WLOveaQ"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Urbanização e Hierarquias urbanas",
-                    "type": "subtopic",
-                    "videos": [
-                        "7svcoojhegM",
-                        "HPnOeF73atU",
-                        "JhURjqj2te0",
-                        "FwfT-RIqvuI"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Problemas sociais e ambientais urbanos",
-                    "type": "subtopic",
-                    "videos": [
-                        "WNUBfchLgMA",
-                        "Yb2AzJvTZto",
-                        "Ijxf5vvQgY4"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Urbanização do Brasil",
-                    "type": "subtopic",
-                    "videos": [
-                        "6TxINZf2-vU",
-                        "g-DEwpP2xuM"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Dinâmica demográfica e Qualidade de vida",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Movimentos migratórios",
-                    "type": "subtopic",
-                    "videos": [
-                        "hYEsRQfB05k",
-                        "J0pACZMQeak",
-                        "akaHeopBJCo"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Teorias demográficas",
-                    "type": "subtopic",
-                    "videos": [
-                        "acU-dfwALgk",
-                        "1CmEbiuDvws"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Demografia do Brasil",
-                    "type": "subtopic",
-                    "videos": [
-                        "LMrjYNLeaXk",
-                        "9CDtMsfkAuY",
-                        "vzA-8hd_Szs",
-                        "Zt5PnNdeHy0"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Estrutura da população",
-                    "type": "subtopic",
-                    "videos": [
-                        "pMYQWJNDWfg"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Fatores do desenvolvimento e Indicadores sociais",
-                    "type": "subtopic",
-                    "videos": [
-                        "iAh2XDEsTYA",
-                        "DzmDLhA-_2U"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Regionalização do espaço brasileiro",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Região Sul",
-                    "type": "subtopic",
-                    "videos": [
-                        "cxnXTw1BQus",
-                        "oKXlsybK29Y",
-                        "hXRk2KL_hs0",
-                        "c_LEvT752sA"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Região Sudeste",
-                    "type": "subtopic",
-                    "videos": [
-                        "cxnXTw1BQus",
-                        "lPNiNGiaA5Y",
-                        "sXyVjIGsFOs",
-                        "I7bji6wdSDM",
-                        "9DmqZ-lRpPE"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Região Norte",
-                    "type": "subtopic",
-                    "videos": [
-                        "Ngitj0y5ym8",
-                        "aLK8b5hArdM",
-                        "J4RT_0PhQRE",
-                        "PXS39AKJ98M",
-                        "OzsYIHtvC-I"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Região Nordeste",
-                    "type": "subtopic",
-                    "videos": [
-                        "QlysAEZohI8",
-                        "mrjv71UaFLw",
-                        "vAq-FWLntgE"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Região Centro-Oeste",
-                    "type": "subtopic",
-                    "videos": [
-                        "2OEXWxp82xE",
-                        "cYPBhRwOoz8",
-                        "cxnXTw1BQus",
-                        "jaLkV013UVk"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Complexos regionais",
-                    "type": "subtopic",
-                    "videos": [
-                        "e8jJbdfw2cw"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Recursos Energéticos",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Energias renováveis e não renováveis",
-                    "type": "subtopic",
-                    "videos": [
-                        "MDRqtfyyvFc",
-                        "fEijZivtS80",
-                        "D99GKisz9Gg",
-                        "jIk9TOrLbxE",
-                        "Bg5SDf2C_HQ",
-                        "bdgYTLW4ec4"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Indústria",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Revolução Industrial",
-                    "type": "subtopic",
-                    "videos": [
-                        "txhLgXxPZJM",
-                        "BI5XHfjyFaU",
-                        "jTLpqipsw0g"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Modelos produtivos",
-                    "type": "subtopic",
-                    "videos": [
-                        "KX2JtlM3cR8",
-                        "kev0Dn9ryNo",
-                        "giMSj0VW61s",
-                        "ltI0Qp4V8hQ",
-                        "v4npmZhMTZw"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Classificação das Indústrias",
-                    "type": "subtopic",
-                    "videos": [
-                        "a3PHKbOUkyo",
-                        "rghOYydhmDU",
-                        "TvWic7VxEko"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Regiões industriais do Brasil",
-                    "type": "subtopic",
-                    "videos": [
-                        "ewxVG5D4LEU",
-                        "I4IJdUDzRXE"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Transportes",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Transportes",
-                    "type": "subtopic",
-                    "videos": [
-                        "4ti3b4-CRyQ",
-                        "SX4uAj0WV0s",
-                        "aZg1nxa1hP8"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Corredores de exportação e Canais internacionais de navegação",
-                    "type": "subtopic",
-                    "videos": [
-                        "bDMK9ZfpB4E"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Comércio",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Globalização e Regionalização",
-                    "type": "subtopic",
-                    "videos": [
-                        "Db-RoMb0aeM",
-                        "5STtrQ7M4Xc",
-                        "476cUJY7xbw"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Comércio no Brasil",
-                    "type": "subtopic",
-                    "videos": [
-                        "qu3kKadqPmo"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Agropecuária",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Sistemas agrícolas",
-                    "type": "subtopic",
-                    "videos": [
-                        "HOJ4IaTuG2I",
-                        "DuI5A-quhJg"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Revolução verde, Transgênicos e Agronegócio",
-                    "type": "subtopic",
-                    "videos": [
-                        "yTBXvjrmj90",
-                        "sEzClQhcAow",
-                        "GJSLTvgBTVw",
-                        "1OhsVUPKIZc"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Agricultura no Brasil",
-                    "type": "subtopic",
-                    "videos": [
-                        "1t13KjJqd-Y",
-                        "DsKcv2cyUFQ"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Geopolítica",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Guerra Fria",
-                    "type": "subtopic",
-                    "videos": [
-                        "lPiCy2DvqTc",
-                        "A5aPPMkIcDs",
-                        "eJ4sEZwUO_8"
-                    ],
-                    "importance": 3
-                },
-                {
-                    "title": "Nova ordem mundial",
-                    "type": "subtopic",
-                    "videos": [
-                        "1-1z2vT-_HU",
-                        "oSElG3zNtFw"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Organizações internacionais",
-                    "type": "subtopic",
-                    "videos": [
-                        "t9LzqYkM7dg",
-                        "T69n39bzDeo",
-                        "Nxn5G9ey9RE",
-                        "KXAhkWfYaWY",
-                        "5-LX6y7fODY",
-                        "VKE8I1Ixxrk",
-                        "N_HAOsyqhPo",
-                        "gbK1IoRimOc",
-                        "Ue4sN3VUD9o",
-                        "3Jld8cULyNc"
-                    ],
-                    "importance": 1
-                },
-                {
-                    "title": "Blocos econômicos",
-                    "type": "subtopic",
-                    "videos": [
-                        "fGEc9exsKwg",
-                        "3G65dQBbTFc"
-                    ],
-                    "importance": 2
-                }
-            ]
-        }
-    ]
+        ]
 }
