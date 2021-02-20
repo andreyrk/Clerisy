@@ -14,9 +14,11 @@
                         "38wnwP48udI",
                         "XhCHwTgOSA0"
                     ],
-                    "importance": 3
+                    "importance": 3,
+                    "id": "5cs5mxzu6"
                 }
-            ]
+            ],
+            "id": "a08apw7fw"
         },
         {
             "title": "Estrutura da Redação",
@@ -31,7 +33,8 @@
                         "ERi-XrWtaWA",
                         "Oj7GaN7ILdQ"
                     ],
-                    "importance": 3
+                    "importance": 3,
+                    "id": "sddeccawq"
                 },
                 {
                     "title": "Estrutura redacional: Introdução",
@@ -41,7 +44,8 @@
                         "me9Fnmlw6Hw",
                         "BUkIYnDTmTI"
                     ],
-                    "importance": 3
+                    "importance": 3,
+                    "id": "646qonm9i"
                 },
                 {
                     "title": "Estrutura redacional: Desenvolvimento",
@@ -52,7 +56,8 @@
                         "ahqhxiIRkhA",
                         "coPHQJ3A7SA"
                     ],
-                    "importance": 3
+                    "importance": 3,
+                    "id": "12s5hhyqk"
                 },
                 {
                     "title": "Estrutura redacional: Conclusão",
@@ -63,9 +68,11 @@
                         "p0eP3t35pYA",
                         "lOTilxDyIms"
                     ],
-                    "importance": 3
+                    "importance": 3,
+                    "id": "8l4lzpd3w"
                 }
-            ]
+            ],
+            "id": "xyz3zu2n7"
         },
         {
             "title": "Análise de eixos temáticos",
@@ -83,7 +90,8 @@
                         "Ltsd2dXr6EY",
                         "AaRydNjSC5Y"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "10xdrg6y0"
                 },
                 {
                     "title": "Cidadania e Movimentos sociais",
@@ -97,7 +105,8 @@
                         "3VQXVcPLTdY",
                         "qVKlaY4QoAk"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "e76tsfkkn"
                 },
                 {
                     "title": "Tecnologia, Internet, Mídias sociais e Fake news",
@@ -110,11 +119,13 @@
                         "q_ivPqKTgoQ",
                         "gZgl8mWaj24",
                         "kSNQwJhPMDY",
-                        "RzFiIcY-YZU",
+
+            "RzFiIcY-YZU",
                         "QztGuAICquc",
                         "qIM89h80cSk"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "52lundiyc"
                 },
                 {
                     "title": "Envelhecimento e Previdência social",
@@ -126,7 +137,8 @@
                         "cJfOrBmHEG8",
                         "svHRED7w2lA"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "vrb707279"
                 },
                 {
                     "title": "Saúde pública e Doação de órgãos",
@@ -140,7 +152,8 @@
                         "n3dmFbjovFg",
                         "GE2v0GmESdg"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "i94308u52"
                 },
                 {
                     "title": "Fome, Desigualdade e População de rua",
@@ -159,7 +172,8 @@
                         "wYeDvVA-bSY",
                         "qBVaM7I2PvY"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "s6uxnbp52"
                 },
                 {
                     "title": "Intolerância, racismo, assédio, preconceito e xenofobia.",
@@ -174,7 +188,8 @@
                         "18U3uvlYoxE",
                         "MRWnjmHNz3w"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "13q1i5ow5"
                 },
                 {
                     "title": "Bullying e violência nas escolas",
@@ -184,7 +199,8 @@
                         "7IJlwcP3bQU",
                         "v-5TfJ39sC0"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "48a4xc196"
                 },
                 {
                     "title": "Exclusão digital",
@@ -194,7 +210,8 @@
                         "tA0OKq68heQ",
                         "N6jWgVncs2I"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "u92uqxzux"
                 },
                 {
                     "title": "Consumismo",
@@ -207,7 +224,8 @@
                         "IeMQ0OGCAqc",
                         "WifjzIbSIhk"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "b0ifqxc81"
                 },
                 {
                     "title": "Culto ao corpo e obesidade",
@@ -215,7 +233,8 @@
                     "videos": [
                         "soPECGsLtaE",
                         "ugIQS0MIoMQ",
-                        "C5RTYyx1SWE",
+                        "C5RTYyx1SWE
+",
                         "Oiccaa4WenM",
                         "AT57nTZljvw",
                         "O-xm7ndbOKQ",
@@ -224,7 +243,8 @@
                         "vRKc-tKKqWc",
                         "VC1W1BVdnuI"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "7tgmd4tyf"
                 },
                 {
                     "title": "Trabalho e realização",
@@ -236,7 +256,8 @@
                         "tf4MGk1TaPQ",
                         "xKloe0Fw-AQ"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "v8xpcxdf0"
                 },
                 {
                     "title": "Povos indígenas",
@@ -249,7 +270,8 @@
                         "uU3mkldq6gA",
                         "pbZUShKVw_c"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "4ek0y3sge"
                 },
                 {
                     "title": "Lixo e saneamento",
@@ -265,7 +287,8 @@
                         "1_JJPq5FJjY",
                         "1ykLqawVgaI"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "sc1uip6hn"
                 },
                 {
                     "title": "Mobilidade urbana",
@@ -276,7 +299,8 @@
                         "VydHdx0y3Hg",
                         "kiIKzC8JnjM"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "6jkhsua9p"
                 },
                 {
                     "title": "Educação e Leitura",
@@ -298,7 +322,8 @@
                         "StEPtYED5sE",
                         "G2hLhJhbvII"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "l8sx2lgbl"
                 },
                 {
                     "title": "Guerras e armas de destruição em massa",
@@ -309,7 +334,8 @@
                         "E_yP7QkgboA",
                         "YIT7gyVPw68"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "vhjseyq5u"
                 },
                 {
                     "title": "Suicídio, depressão e solidão",
@@ -338,7 +364,8 @@
                         "odqOtLDhOzc",
                         "8njK5p9KlUo"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "i29byv194"
                 },
                 {
                     "title": "Sistema prisional, violência urbana, medo e criminalidade",
@@ -361,7 +388,8 @@
                         "kf7LQJWQS04",
                         "ORtEQahRhc4"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "xci8xjbzw"
                 },
                 {
                     "title": "Meio ambiente e Mudanças climáticas",
@@ -376,7 +404,8 @@
                         "C1TTrWWv-X4",
                         "FajQKhDawrE"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "g8js37j98"
                 },
                 {
                     "title": "Recursos hídricos, Energia e Sustentabilidade",
@@ -394,7 +423,8 @@
                         "4zubZc_tokQ",
                         "lpe6CkIO8cg"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "92ywj0fpn"
                 },
                 {
                     "title": "Drogas",
@@ -410,7 +440,8 @@
                         "MpHoE0BfzpM",
                         "SzuF7VUazGs"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "zqfejqmu8"
                 },
                 {
                     "title": "Acessibilidade e Inclusão de pessoas com deficiência",
@@ -422,7 +453,8 @@
                         "6RhFT0ur1Do",
                         "zqA76lmh-yI"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "ryamw7xke"
                 },
                 {
                     "title": "Lazer, Esporte e Cultura",
@@ -438,9 +470,11 @@
                         "UOYNhEhL6eA",
                         "Uuy4912G39M"
                     ],
-                    "importance": 1
+                    "importance": 1,
+                    "id": "6qm0or194"
                 }
-            ]
+            ],
+            "id": "3e78cirpf"
         }
     ]
 }
