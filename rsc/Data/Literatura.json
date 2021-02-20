@@ -1,338 +1,378 @@
 {
-    "title": "Literatura",
-    "type": "subject",
-    "content": [
-        {
-            "title": "Figuras de linguagem",
-            "type": "topic",
-            "content": [
+        "title": "Literatura",
+        "type": "subject",
+        "content": [
                 {
-                    "title": "Figuras de linguagem: aspectos fonético e sintático",
-                    "type": "subtopic",
-                    "videos": [
-                        "Hi-2LNNg4SE",
-                        "xfjSzZf6JA4"
-                    ],
-                    "importance": 1
+                        "title": "Figuras de linguagem",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Figuras de linguagem: aspectos fonético e sintático",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Hi-2LNNg4SE",
+                                                "xfjSzZf6JA4"
+                                        ],
+                                        "importance": 1,
+                                        "id": "a15bafp5d"
+                                },
+                                {
+                                        "title": "Figuras de linguagem: aspecto semântico",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "n0e75nRstcU",
+                                                "xfjSzZf6JA4"
+                                        ],
+                                        "importance": 1,
+                                        "id": "xu9wgapg8"
+                                }
+                        ],
+                        "id": "m36p1adin"
                 },
                 {
-                    "title": "Figuras de linguagem: aspecto semântico",
-                    "type": "subtopic",
-                    "videos": [
-                        "n0e75nRstcU",
-                        "xfjSzZf6JA4"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Gêneros Literários",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Gêneros Literários",
-                    "type": "subtopic",
-                    "videos": [
-                        "9T7-gOm0nGk",
-                        "5I66JlRAYJE",
-                        "WGZFBePibF0"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Funções da Linguagem",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Funções da Linguagem",
-                    "type": "subtopic",
-                    "videos": [
-                        "5JrCUWnqHBk",
-                        "iwyZbcC9pU0"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Trovadorismo",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Trovadorismo",
-                    "type": "subtopic",
-                    "videos": [
-                        "N8aCwmWgVyA",
-                        "ea65K0B9TLk"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Quinhentismo/Classicismo",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Quinhentismo",
-                    "type": "subtopic",
-                    "videos": [
-                        "WULOzFYZ30g",
-                        "vDrPmeYNe1k"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Barroco",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Barroco",
-                    "type": "subtopic",
-                    "videos": [
-                        "N6jXwPXGTeM",
-                        "zGVONzNXGSo",
-                        "1FN2jCxgnt0",
-                        "cMVti1H1ASE"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Arcadismo",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Arcadismo",
-                    "type": "subtopic",
-                    "videos": [
-                        "svEGlGf5Zo4",
-                        "-ko2O_3gijM",
-                        "Yadx1nAvgyo"
-                    ],
-                    "importance": 1
-                }
-            ]
-        },
-        {
-            "title": "Romantismo",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Romantismo: primeira geração",
-                    "type": "subtopic",
-                    "videos": [
-                        "PyUy_9mKGCk",
-                        "gS2ISr31oBM"
-                    ],
-                    "importance": 1
+                        "title": "Gêneros Literários",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Gêneros Literários",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "9T7-gOm0nGk",
+                                                "5I66JlRAYJE",
+                                                "WGZFBePibF0"
+                                        ],
+                                        "importance": 2,
+                                        "id": "54ipbpmwv"
+                                }
+                        ],
+                        "id": "6k4c319br"
                 },
                 {
-                    "title": "Romantismo: segunda geração",
-                    "type": "subtopic",
-                    "videos": [
-                        "gpWAjKryoV8",
-                        "zBfTgJCPvt8"
-                    ],
-                    "importance": 1
+                        "title": "Funções da Linguagem",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Funções da Linguagem",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "5JrCUWnqHBk",
+                                                "iwyZbcC9pU0"
+                                        ],
+                                        "importance": 3,
+                                        "id": "tcohm56l3"
+                                }
+                        ],
+                        "id": "f3a8qag5w"
                 },
                 {
-                    "title": "Romantismo: terceira geração",
-                    "type": "subtopic",
-                    "videos": [
-                        "z1Ymzv2r1dg",
-                        "SkErUWjkGpA"
-                    ],
-                    "importance": 1
+                        "title": "Trovadorismo",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Trovadorismo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "N8aCwmWgVyA",
+                                                "ea65K0B9TLk"
+                                        ],
+                                        "importance": 1,
+                                        "id": "3n0xink3f"
+                                }
+                        ],
+                        "id": "n0uq1hsei"
                 },
                 {
-                    "title": "Romantismo: Prosa",
-                    "type": "subtopic",
-                    "videos": [
-                        "HoaCn9VnY2w",
-                        "9YAEDfqlRkQ",
-                        "Ri43JArccdY"
-                    ],
-                    "importance": 3
-                }
-            ]
-        },
-        {
-            "title": "Realismo",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Realismo",
-                    "type": "subtopic",
-                    "videos": [
-                        "x-4959qMiEU",
-                        "iCXp_ic4p_E",
-                        "Yny-_awoqyg",
-                        "pCIwPQIz8Y4"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Naturalismo",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Naturalismo",
-                    "type": "subtopic",
-                    "videos": [
-                        "0ca0bBqnxE4",
-                        "FAzWo39rMYY",
-                        "DAK9GEfRWSE"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Parnasianismo",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Parnasianismo",
-                    "type": "subtopic",
-                    "videos": [
-                        "OmiZrv3DBns",
-                        "JKmrUc1PhuE",
-                        "iqP66FxK0h4"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Simbolismo",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Simbolismo",
-                    "type": "subtopic",
-                    "videos": [
-                        "Tt99uuF1-Bk",
-                        "rVjVUTXHocQ",
-                        "0rRAGvlVEhg",
-                        "COSnGuI0S58",
-                        "Soq4kzWEens",
-                        "Htk9t8gxWWs"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Pré-Modernismo",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Pré-Modernismo",
-                    "type": "subtopic",
-                    "videos": [
-                        "UBxq1C4jVLE",
-                        "iZ_OrvvJbKY",
-                        "HhZICsrdL0E",
-                        "arHGaq5HBRE",
-                        "j7ASNE8Sv7g"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Vanguardas Europeias",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Vanguardas Europeias",
-                    "type": "subtopic",
-                    "videos": [
-                        "3xUjHZO0yXw",
-                        "U1xRLJIRRnM"
-                    ],
-                    "importance": 2
-                }
-            ]
-        },
-        {
-            "title": "Modernismo",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Modernismo: primeira geração",
-                    "type": "subtopic",
-                    "videos": [
-                        "KUOPX0LWRBU",
-                        "02n2j7vRMuE",
-                        "ULrYkCAQlHc",
-                        "WmOICqpg4Rg"
-                    ],
-                    "importance": 3
+                        "title": "Quinhentismo/Classicismo",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Quinhentismo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "WULOzFYZ30g",
+                                                "vDrPmeYNe1k"
+                                        ],
+                                        "importance": 2,
+                                        "id": "yowreq22a"
+                                }
+                        ],
+                        "id": "bgae1nlko"
                 },
                 {
-                    "title": "Modernismo: segunda geração",
-                    "type": "subtopic",
-                    "videos": [
-                        "UG79J1PQiSE",
-                        "YlqUollEjyo",
-                        "PyojY1qM9pU"
-                    ],
-                    "importance": 3
+                        "title": "Barroco",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Barroco",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "N6jXwPXGTeM",
+                                                "zGVONzNXGSo",
+                                                "1FN2jCxgnt0",
+                                                "cMVti1H1ASE"
+                                        ],
+                                        "importance": 2,
+                                        "id": "iz0lx9lyg"
+                                }
+                        ],
+                        "id": "rf3a339d0"
                 },
                 {
-                    "title": "Modernismo: terceira geração",
-                    "type": "subtopic",
-                    "videos": [
-                        "OTuzZKLA2kA",
-                        "fUqkhFQvYNE",
-                        "bQiS0HlnuX4"
-                    ],
-                    "importance": 3
+                        "title": "Arcadismo",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Arcadismo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "svEGlGf5Zo4",
+                                                "-ko2O_3gijM",
+                                                "Yadx1nAvgyo"
+                                        ],
+                                        "importance": 1,
+                                        "id": "ubmuosid0"
+                                }
+                        ],
+                        "id": "cyulj8msf"
+                },
+                {
+                        "title": "Romantismo",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Romantismo: primeira geração",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "PyUy_9mKGCk",
+                                                "gS2ISr31oBM"
+                                        ],
+                                        "importance": 1,
+                                        "id": "ilt5vgz76"
+                                },
+                                {
+                                        "title": "Romantismo: segunda geração",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "gpWAjKryoV8",
+                                                "zBfTgJCPvt8"
+                                        ],
+                                        "importance": 1,
+                                        "id": "yec39yf15"
+                                },
+                                {
+                                        "title": "Romantismo: terceira geração",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "z1Ymzv2r1dg",
+                                                "SkErUWjkGpA"
+                                        ],
+                                        "importance": 1,
+                                        "id": "uwruag6n2"
+                                },
+                                {
+                                        "title": "Romantismo: Prosa",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "HoaCn9VnY2w",
+                                                "9YAEDfqlRkQ",
+                                                "Ri43JArccdY"
+                                        ],
+                                        "importance": 3,
+                                        "id": "41qxfq0n7"
+                                }
+                        ],
+                        "id": "7r9tf979t"
+                },
+                {
+                        "title": "Realismo",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Realismo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "x-4959qMiEU",
+                                                "iCXp_ic4p_E",
+                                                "Yny-_awoqyg",
+                                                "pCIwPQIz8Y4"
+                                        ],
+                                        "importance": 2,
+                                        "id": "qixtbk7ns"
+                                }
+                        ],
+                        "id": "7wkhv5bl2"
+                },
+                {
+                        "title": "Naturalismo",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Naturalismo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "0ca0bBqnxE4",
+                                                "FAzWo39rMYY",
+                                                "DAK9GEfRWSE"
+                                        ],
+                                        "importance": 2,
+                                        "id": "74b0a47ym"
+                                }
+                        ],
+                        "id": "uo5utr0qd"
+                },
+                {
+                        "title": "Parnasianismo",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Parnasianismo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "OmiZrv3DBns",
+                                                "JKmrUc1PhuE",
+                                                "iqP66FxK0h4"
+                                        ],
+                                        "importance": 2,
+                                        "id": "sekbwymiw"
+                                }
+                        ],
+                        "id": "gw4jo09u7"
+                },
+                {
+                        "title": "Simbolismo",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Simbolismo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "Tt99uuF1-Bk",
+                                                "rVjVUTXHocQ",
+                                                "0rRAGvlVEhg",
+                                                "COSnGuI0S58",
+                                                "Soq4kzWEens",
+                                                "Htk9t8gxWWs"
+                                        ],
+                                        "importance": 2,
+                                        "id": "4k8ypvhv0"
+                                }
+                        ],
+                        "id": "it6076194"
+                },
+                {
+                        "title": "Pré-Modernismo",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Pré-Modernismo",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "UBxq1C4jVLE",
+                                                "iZ_OrvvJbKY",
+                                                "HhZICsrdL0E",
+                                                "arHGaq5HBRE",
+                                                "j7ASNE8Sv7g"
+                                        ],
+                                        "importance": 2,
+                                        "id": "54mrprp2l"
+                                }
+                        ],
+                        "id": "5xjpxf8b5"
+                },
+                {
+                        "title": "Vanguardas Europeias",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Vanguardas Europeias",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "3xUjHZO0yXw",
+                                                "U1xRLJIRRnM"
+                                        ],
+                                        "importance": 2,
+                                        "id": "od11zewu5"
+                                }
+                        ],
+                        "id": "utyq6cgc0"
+                },
+                {
+                        "title": "Modernismo",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Modernismo: primeira geração",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "KUOPX0LWRBU",
+                                                "02n2j7vRMuE",
+                                                "ULrYkCAQlHc",
+                                                "WmOICqpg4Rg"
+                                        ],
+                                        "importance": 3,
+                                        "id": "m88j8w3on"
+                                },
+                                {
+                                        "title": "Modernismo: segunda geração",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "UG79J1PQiSE",
+                                                "YlqUollEjyo",
+                                                "PyojY1qM9pU"
+                                        ],
+                                        "importance": 3,
+                                        "id": "cvpvr4f8w"
+                                },
+                                {
+                                        "title": "Modernismo: terceira geração",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "OTuzZKLA2kA",
+                                                "fUqkhFQvYNE",
+                                                "bQiS0HlnuX4"
+                                        ],
+                                        "importance": 3,
+                                        "id": "kqre1mf8k"
+                                }
+                        ],
+                        "id": "waad3t2tu"
+                },
+                {
+                        "title": "Pós-modernismo",
+                        "type": "topic",
+                        "content": [
+                                {
+                                        "title": "Poesia Concreta",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "PdfmgDUfVpw",
+                                                "CxDZrQsfyc4",
+                                                "Ori89qQLhZs"
+                                        ],
+                                        "importance": 2,
+                                        "id": "lbnv3z58g"
+                                },
+                                {
+                                        "title": "Poesia Marginal",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "PJBUcce_3jU"
+                                        ],
+                                        "importance": 2,
+                                        "id": "rqzwwugh0"
+                                },
+                                {
+                                        "title": "Literatura contemporânea",
+                                        "type": "subtopic",
+                                        "videos": [
+                                                "O4xTa2aPLpY",
+                                                "dWmGwQCl32s"
+                                        ],
+                                        "importance": 3,
+                                        "id": "jtvzwzb7m"
+                                }
+                        ],
+                        "id": "6s5akp25n"
                 }
-            ]
-        },
-        {
-            "title": "Pós-modernismo",
-            "type": "topic",
-            "content": [
-                {
-                    "title": "Poesia Concreta",
-                    "type": "subtopic",
-                    "videos": [
-                        "PdfmgDUfVpw",
-                        "CxDZrQsfyc4",
-                        "Ori89qQLhZs"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Poesia Marginal",
-                    "type": "subtopic",
-                    "videos": [
-                        "PJBUcce_3jU"
-                    ],
-                    "importance": 2
-                },
-                {
-                    "title": "Literatura contemporânea",
-                    "type": "subtopic",
-                    "videos": [
-                        "O4xTa2aPLpY",
-                        "dWmGwQCl32s"
-                    ],
-                    "importance": 3
-                }
-            ]
-        }
-    ]
+        ]
 }
