@@ -17,7 +17,8 @@
                     ],
                     "importance": 1
                 }
-            ]
+            ],
+            "id": "z7vpclani"
         },
         {
             "title": "Comte e o Positivismo",
@@ -32,7 +33,8 @@
                     ],
                     "importance": 2
                 }
-            ]
+            ],
+            "id": "ogeitb0fk"
         },
         {
             "title": "Émile Durkheim",
@@ -47,7 +49,8 @@
                     ],
                     "importance": 2
                 }
-            ]
+            ],
+            "id": "ff7t4d60c"
         },
         {
             "title": "Max Weber",
@@ -64,7 +67,8 @@
                     ],
                     "importance": 1
                 }
-            ]
+            ],
+            "id": "r50fyjxpt"
         },
         {
             "title": "Karl Marx",
@@ -80,7 +84,8 @@
                     ],
                     "importance": 1
                 }
-            ]
+            ],
+            "id": "or6bbgfmo"
         },
         {
             "title": "Sociologia no Brasil",
@@ -103,7 +108,8 @@
                     ],
                     "importance": 2
                 }
-            ]
+            ],
+            "id": "xn2in9ev3"
         },
         {
             "title": "Revolução Industrial e Globalização",
@@ -122,13 +128,14 @@
                     ],
                     "importance": 3
                 }
-            ]
+            ],
+            "id": "covoc4yee"
         },
         {
             "title": "Estratificação, Classe e Mobilidade social",
             "type": "topic",
             "content": [
-                {
+           {
                     "title": "Estratificação, Classe e Mobilidade social",
                     "type": "subtopic",
                     "videos": [
@@ -138,7 +145,8 @@
                     ],
                     "importance": 3
                 }
-            ]
+            ],
+            "id": "k3cm7zjd7"
         },
         {
             "title": "Poder, Política e Estado",
@@ -155,7 +163,8 @@
                     ],
                     "importance": 3
                 }
-            ]
+            ],
+            "id": "hg3it0mzt"
         },
         {
             "title": "Direitos, cidadania e movimentos sociais",
@@ -170,7 +179,8 @@
                     ],
                     "importance": 3
                 }
-            ]
+            ],
+            "id": "4gujbvwxi"
         },
         {
             "title": "Instituições Sociais",
@@ -189,7 +199,8 @@
                     ],
                     "importance": 3
                 }
-            ]
+            ],
+            "id": "qxjjt5j6g"
         },
         {
             "title": "Cultura e Educação",
@@ -210,7 +221,8 @@
                     ],
                     "importance": 2
                 }
-            ]
+            ],
+            "id": "226m55o33"
         },
         {
             "title": "Sociologia contemporânea",
@@ -226,7 +238,8 @@
                     ],
                     "importance": 2
                 }
-            ]
+            ],
+            "id": "tjlipuqkr"
         }
     ]
 }
