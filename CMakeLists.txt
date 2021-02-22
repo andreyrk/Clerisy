@@ -26,6 +26,7 @@ FILE(GLOB_RECURSE
     "src/*.cpp"
     "src/*.h"
     "rsc/*.qrc"
+    "rsc/*.rc"
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
