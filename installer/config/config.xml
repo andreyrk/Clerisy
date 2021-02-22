@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Installer>
-	<Version>1.0.0</Version>
-	<Publisher>Andrey Érick</Publisher>
-	<Name>Catalyst</Name>
-	<Title>Catalyst</Title>
-	<StartMenuDir>Catalyst</StartMenuDir>
-	<TargetDir>@HomeDir@/Catalyst</TargetDir>
-	<Logo>App.png</Logo>
-	<InstallerWindowIcon>App.ico</InstallerWindowIcon>
-	<InstallerApplicationIcon>App.ico</InstallerApplicationIcon>
-	<WizardDefaultWidth>640</WizardDefaultWidth>
-	<WizardDefaultHeight>480</WizardDefaultHeight>
-	<WizardStyle>Aero</WizardStyle>
+    <Version>1.0.0</Version>
+    <Publisher>Andrey Érick</Publisher>
+    <Name>Catalyst</Name>
+    <Title>Catalyst</Title>
+    <StartMenuDir>Catalyst</StartMenuDir>
+    <TargetDir>@ApplicationsDirUser@/Catalyst</TargetDir>
+    <Logo>App.png</Logo>
+    <InstallerWindowIcon>App</InstallerWindowIcon>
+    <InstallerApplicationIcon>App</InstallerApplicationIcon>
+    <WizardDefaultWidth>640</WizardDefaultWidth>
+    <WizardDefaultHeight>480</WizardDefaultHeight>
 </Installer>

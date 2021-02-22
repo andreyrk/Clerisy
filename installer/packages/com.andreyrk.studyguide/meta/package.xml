@@ -5,5 +5,5 @@
     <Description></Description>
     <Version>0.1.1</Version>
     <Default>true</Default>
-    <Script>startmenu.qs</Script>
+    <Script>script.qs</Script>
 </Package>
