@@ -34,5 +34,7 @@
         <file>Icon/App.png</file>
         <file>UI/Utilities/Globals.qml</file>
         <file>UI/Utilities/qmldir</file>
+        <file>UI/Utilities/Border.qml</file>
+        <file>UI/Utilities/Style.qml</file>
     </qresource>
 </RCC>

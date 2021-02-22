@@ -8,15 +8,27 @@ ApplicationWindow {
     width: 800
     height: 450
     visible: true
-    title: "Clerisy"
+    title: "Catalyst"
 
     Component.onCompleted: {
         Globals.app = this
     }
 
     header: ToolBar {
-        id: header
         height: 40
+
+        contentItem: Rectangle {
+            color: "#E0E0E0"
+        }
+
+        Border {
+            leftWidth: 0
+            rightWidth: 0
+            topWidth: 0
+            bottomWidth: Style.borderWidth
+
+            color: Style.borderColor
+        }
 
         Item {
             width: header.height
@@ -66,7 +78,7 @@ ApplicationWindow {
 
         ColumnLayout {
             spacing: 0
-            width: parent.width - 1
+            width: parent.width
 
             ItemDelegate {
                 background: Item {}
@@ -92,6 +104,19 @@ ApplicationWindow {
                     stack.clear()
                     app.load(Globals.pageOptions)
                 }
+            }
+        }
+
+        background: Rectangle {
+            color: "#FFFFFF"
+
+            Border {
+                leftWidth: 0
+                rightWidth: Style.borderWidth
+                topWidth: 0
+                bottomWidth: 0
+
+                color: Style.borderColor
             }
         }
     }

@@ -18,8 +18,8 @@ Page {
             width: grid.cellWidth - grid.horizontalSpacing
             height: grid.cellHeight - grid.verticalSpacing
 
-            border.width: 1
-            border.color: "#E0E0E0"
+            border.width: Style.borderWidth
+            border.color: Style.borderColor
 
             MouseArea {
                 anchors.fill: parent

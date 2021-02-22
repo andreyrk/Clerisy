@@ -1,6 +1,6 @@
 function Component()
 {
-    // default constructor
+    // Default constructor
 }
 
 Component.prototype.createOperations = function()
@@ -8,8 +8,8 @@ Component.prototype.createOperations = function()
     component.createOperations();
 
     if (systemInfo.productType === "windows") {
-        component.addOperation("CreateShortcut", "@TargetDir@/Clerisy.exe", "@StartMenuDir@/Clerisy.lnk",
+        component.addOperation("CreateShortcut", "@TargetDir@/Catalyst.exe", "@StartMenuDir@/Catalyst.lnk",
             "workingDirectory=@TargetDir@", "iconPath=%SystemRoot%/system32/SHELL32.dll",
-            "iconId=2", "description=Open Clerisy");
+            "iconId=2", "description=Open Catalyst");
     }
 }

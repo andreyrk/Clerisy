@@ -24,10 +24,6 @@ Page {
 
         anchors.bottom: parent.bottom
 
-        background: Rectangle {
-            color: "#E0E0E0"
-        }
-
         TabButton {
             text: "Aulas"
 
@@ -67,6 +63,19 @@ Page {
                 color: "#E0E0E0"
             }
         }
+
+        background: Rectangle {
+            color: "#E0E0E0"
+
+            Border {
+                leftWidth: 0
+                rightWidth: 0
+                topWidth: Style.borderWidth
+                bottomWidth: 0
+
+                color: Style.borderColor
+            }
+        }
     }
 
     StackLayout {
@@ -88,8 +97,8 @@ Page {
                 width: grid.cellWidth - grid.horizontalSpacing
                 height: grid.cellHeight - grid.verticalSpacing
 
-                border.width: 1
-                border.color: "#000000"
+                border.width: Style.borderWidth
+                border.color: Style.borderColor
 
                 Image {
                     id: thumbnail
@@ -116,8 +125,8 @@ Page {
                             Layout.fillWidth: true
                             Layout.fillHeight: true
 
-                            border.width: 1
-                            border.color: "#000000"
+                            border.width: Style.borderWidth
+                            border.color: Style.borderColor
                             color: "#FFFFFF"
 
                             Label {
@@ -144,8 +153,8 @@ Page {
                             Layout.preferredWidth: parent.height
                             Layout.preferredHeight: parent.height
 
-                            border.width: 1
-                            border.color: "#000000"
+                            border.width: Style.borderWidth
+                            border.color: Style.borderColor
                             color: "#FFFFFF"
 
                             Image {

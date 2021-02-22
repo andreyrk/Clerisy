@@ -14,18 +14,17 @@ Page {
         }
 
         onFinish: {
-            var obj = JSON.parse(response)
+            Globals.currentSubject = JSON.parse(response)
+
             var index = 0
-
-            for (var item of obj.content)
+            for (var item of Globals.currentSubject.content)
             {
-                item.index = index++
-                item.content = JSON.stringify(item.content)
-
-                listView.model.append(item)
+                listView.model.append({
+                    index: index++
+                })
             }
 
-            page.title = obj.title
+            page.title = Globals.currentSubject.title
         }
     }
 
@@ -39,38 +38,24 @@ Page {
             width: page.width
             height: listParent.height + (listChildren.visible ? listChildren.height : 0)
 
-            property var contentArray
-
-            Component.onCompleted: {
-                contentArray = JSON.parse(content)
-
-                for (var item of contentArray) {
-                    item.index = index
-                }
-            }
-
-            Item {
+            Rectangle {
                 id: listParent
                 width: page.width
                 height: 40
+                color: "#FFFFFF"
 
-                MouseArea {
-                    anchors.fill: parent
-                    cursorShape: Qt.PointingHandCursor
+                Border {
+                    leftWidth: 0
+                    rightWidth: 0
+                    topWidth: Style.borderWidth
+                    bottomWidth: 0
 
-                    onClicked: {
-                        if (listChildren.visible) {
-                            listChildren.visible = false
-                            icon.source = Globals.icon_ExpandLess
-                        } else {
-                            listChildren.visible = true
-                            icon.source = Globals.icon_ExpandMore
-                        }
-                    }
+                    color: Style.borderColor
                 }
 
-                RowLayout {
-                    spacing: 0
+                Item {
+                    width: page.width
+                    height: 40
 
                     Item {
                         width: 40
@@ -80,28 +65,39 @@ Page {
                             id: icon
                             anchors.centerIn: parent
 
-                            source: Globals.icon_ExpandLess
+                            source: listChildren.visible ? Globals.icon_ExpandLess : Globals.icon_ExpandMore
                             sourceSize.width: 24
                             sourceSize.height: 24
                         }
                     }
 
                     Text {
-                        id: text
+                        rightPadding: 5
+                        x: 40
+                        width: page.width - 40
+                        height: 40
 
-                        text: title
+                        text: Globals.currentSubject.content[index].title
                         font {
-                            bold: false
                             pixelSize: 14
-                            weight: Font.Thin
                         }
                         maximumLineCount: 1
                         elide: Text.ElideRight
                         horizontalAlignment: Text.AlignLeft
                         verticalAlignment: Text.AlignVCenter
+                    }
 
-                        Layout.fillWidth: true
-                        Layout.fillHeight: true
+                    MouseArea {
+                        anchors.fill: parent
+                        cursorShape: Qt.PointingHandCursor
+
+                        onClicked: {
+                            if (listChildren.visible) {
+                                listChildren.visible = false
+                            } else {
+                                listChildren.visible = true
+                            }
+                        }
                     }
                 }
             }
@@ -111,34 +107,32 @@ Page {
                 visible: false
 
                 Repeater {
-                    model: contentArray
+                    model: Globals.currentSubject.content[index].content
 
                     Item {
-                        width: page.width;
-                        height: 40
-                        x: 40
                         y: 40
+                        width: page.width
+                        height: 40
 
                         Text {
-                            anchors.fill: parent
+                            rightPadding: 5
+                            x: 40
+                            width: page.width - 40
+                            height: 40
 
                             text: modelData.title
                             font {
-                                bold: false
                                 pixelSize: 14
-                                weight: Font.Thin
                             }
                             maximumLineCount: 1
                             elide: Text.ElideRight
                             horizontalAlignment: Text.AlignLeft
                             verticalAlignment: Text.AlignVCenter
-
-                            Layout.fillWidth: true
-                            Layout.fillHeight: true
                         }
 
                         MouseArea {
                             anchors.fill: parent
+
                             cursorShape: Qt.PointingHandCursor
 
                             onClicked: {
